@@ -294,6 +294,6 @@
 
 ## Contributing
 
-Your contributions are always welcome! [Click Here to read the guidelines]()
+Your contributions are always welcome! [Click Here to read the guidelines](https://github.com/willianjusten/awesome-svg/blob/master/contributing.md)
 
 
