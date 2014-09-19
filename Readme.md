@@ -201,6 +201,7 @@
 
 
 ## Slides
+* [Play SVG! Utilizando vetores na web](http://goo.gl/eaC0EC) - Pt-Br
 * [Whirlwind Tour of SVG (plus RaphaelJS) by Mark Grabanski](http://www.slideshare.net/1Marc/svg-and-raphael-js)
 * [Styling & Animating Scalable Vector Graphics with CSS by Sara Soueidan](https://docs.google.com/presentation/d/1Iuvf3saPCJepVJBDNNDSmSsA0_rwtRYehSmmSSLYFVQ/present#slide=id.p)
 * [Responsive svg by lex Walker](http://slides.com/alexwalker/responsive-svg)
