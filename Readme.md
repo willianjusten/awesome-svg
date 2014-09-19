@@ -132,6 +132,7 @@
 * [How to Animate Festive SVG Icons With CSS](http://webdesign.tutsplus.com/tutorials/how-to-animate-festive-svg-icons-with-css--webdesign-17658)
 * [Polygon feature design: SVG animations for fun and profit](http://product.voxmedia.com/2013/11/25/5426880/polygon-feature-design-svg-animations-for-fun-and-profit)
 * [SVG drawing animation](http://tympanus.net/codrops/2013/12/30/svg-drawing-animation/)
+* [SVG Circus](http://svgcircus.com/)
 
 
 ## Responsive
@@ -183,6 +184,7 @@
 * [VLEX](https://github.com/indus/VLEX)
 * [Chartist.js](http://gionkunz.github.io/chartist-js/)
 * [Lazy Line Painter](http://lazylinepainter.info/)
+* [Path JS](https://github.com/andreaferretti/paths-js)
 
 
 ## Snippets
