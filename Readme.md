@@ -297,4 +297,9 @@
 
 Your contributions are always welcome! [Click Here to read the guidelines](https://github.com/willianjusten/awesome-svg/blob/master/contributing.md)
 
+##License
+
+[![CC0](https://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)
+
+To the extent possible under law, [Willian Justen](http://github.com/willianjusten) has waived all copyright and related or neighboring rights to this work.
 
