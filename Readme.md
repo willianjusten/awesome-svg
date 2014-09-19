@@ -25,7 +25,7 @@
 	- [Sites using SVG](#sites-using-svg)	
 	- [Experiments](#experiments)
 	- [Follow on Twitter](#follow-on-twitter)
-	- [Thanks](#thanks)
+	- [Thanks to...](#thanks-to...)
 	- [Contributing](#contributing)
 
 
