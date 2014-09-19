@@ -289,7 +289,7 @@
 
 ## Thanks to...
 
-* [Marcus Vinicius](https://github.com/mvfsilva), my friend =)
+* [Marcus Vinicius](https://github.com/Raikow), my friend =)
 * [Chris Coyier](http://chriscoyier.net/) and his [Compendium of SVG Information](http://css-tricks.com/mega-list-svg-information/), was a great start point for me.
 
 
