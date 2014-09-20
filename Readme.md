@@ -40,8 +40,8 @@
 * [W3C Docs](http://www.w3.org/Graphics/SVG/)
 * [Resolution Indepence with SVG](http://www.smashingmagazine.com/2012/01/16/resolution-independence-with-svg/)
 * [A bit about SVG](http://seesparkbox.com/foundry/a_bit_about_svg)
-* [Um pouco sobre SVG](http://simplesideias.com.br/um-pouco-sobre-svg) - (Pt-br)
-* [Entendendo e Usando o SVG](http://www.devmedia.com.br/entendendo-e-usando-o-svg/19773) - (Pt-br)
+* [Um pouco sobre SVG](http://simplesideias.com.br/um-pouco-sobre-svg) - (Pt-Br)
+* [Entendendo e Usando o SVG](http://www.devmedia.com.br/entendendo-e-usando-o-svg/19773) - (Pt-Br)
 
 
 ## Icons
@@ -163,10 +163,10 @@
 * [Building Web Applications with SVG by Jon Frost - 2012](http://www.amazon.com/Building-Web-Applications-Developer-Reference/dp/0735660123)
 * [Sams Teach Yourself SVG in 24 Hours by Micah Laaker](http://www.amazon.com/Sams-Teach-Yourself-SVG-Hours/dp/0672322900)
 * [Learning Raphaël JS Vector Graphics by Damian Dawber - 2013](http://www.amazon.com/Learning-Rapha%C3%ABl-JS-Vector-Graphics/dp/1782169164)
-* [Gráficos vetoriais escaláveis by Mauricio Samy Silva - 2012 - Pt-Br](http://www.livrosvg.com.br/)
-* [SCALABLE, un libro sobre SVG by Jorge Aznar Tobajas - 2014 - ES](http://www.leanpub.com/scalable/)
 * [SVG Tessellation by Jeremy Corbett - 2013](http://www.amazon.com/SVG-Tessellation-ebook/dp/B00DAKS1U8/)
 * [SVG Compressed by Jakob Jenkov - 2013](http://www.amazon.com/SVG-Compressed-Jakob-Jenkov-ebook/dp/B00EO47BSM)
+* [Gráficos vetoriais escaláveis by Mauricio Samy Silva - 2012 - Pt-Br](http://www.livrosvg.com.br/)
+* [SCALABLE, un libro sobre SVG by Jorge Aznar Tobajas - 2014 - ES](http://www.leanpub.com/scalable/)
 
 ## SVG Software
 * [Adobe Illustrator](http://www.adobe.com/products/illustrator.html) - $19.99/month
@@ -304,13 +304,14 @@
 ## Thanks to...
 
 * [Marcus Vinicius](https://github.com/Raikow), my friend =)
-* [Rodrigo Machado](https://github.com/rcmachado) for helping me with CC License
+* [Rodrigo Machado](https://github.com/rcmachado) for helping me with CC License.
 * [Chris Coyier](http://chriscoyier.net/) and his [Compendium of SVG Information](http://css-tricks.com/mega-list-svg-information/), was a great start point for me.
+* and of course, all the [Contributors](https://github.com/willianjusten/awesome-svg/graphs/contributors).
 
 
 ## Contributing
 
-Your contributions are always welcome! [Click Here to read the guidelines](https://github.com/willianjusten/awesome-svg/blob/master/contributing.md)
+Your contributions are always welcome! [Click Here to read the guidelines](https://github.com/willianjusten/awesome-svg/blob/master/contributing.md).
 
 ##License
 
