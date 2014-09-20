@@ -166,7 +166,7 @@
 * [Gráficos vetoriais escaláveis by Mauricio Samy Silva - 2012 - Pt-Br](http://www.livrosvg.com.br/)
 * [SCALABLE, un libro sobre SVG by Jorge Aznar Tobajas - 2014 - ES](http://www.leanpub.com/scalable/)
 * [SVG Tessellation by Jeremy Corbett - 2013](http://www.amazon.com/SVG-Tessellation-ebook/dp/B00DAKS1U8/)
-* [SVG Compressed by Jakob Jenkov - 2013](http://www.amazon.es/HTML-Compressed-English-Jakob-Jenkov-ebook/dp/B009UEPYH6/)
+* [SVG Compressed by Jakob Jenkov - 2013](http://www.amazon.com/SVG-Compressed-Jakob-Jenkov-ebook/dp/B00EO47BSM)
 
 ## SVG Software
 * [Adobe Illustrator](http://www.adobe.com/products/illustrator.html) - $19.99/month
@@ -235,6 +235,9 @@
 * [Introducing SVG Cleaner](http://vimeo.com/34706772)
 * [Create a SVG Loading Animation with Adobe Illustrator](https://www.youtube.com/watch?v=1lmFMsrLgwM)
 * [Inkscape Hints and Tips for making SVG files work in ScanNCut Canvas](https://www.youtube.com/watch?v=ktTunTp3Pl4)
+* [Chris Coyier – SVG Is For Everybody](https://vimeo.com/99828116)
+* [Sara Soueidan: Styling and Animating Scalable Vector Graphics with CSS](http://youtu.be/hI9roqOKKO8)
+* [W3C Standards and Implementors Panel - The Graphical Web 2014](http://youtu.be/TLE3_nmcbWc)
 
 ## Optimizing and Fallbacks
 * [SVG Optimizer](https://github.com/svg/svgo)
