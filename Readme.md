@@ -22,7 +22,7 @@
 	- [Optimizing and Fallbacks](#optimizing-and-fallbacks)
 	- [Grunt Plugins](#grunt-plugins)
 	- [Gulp Plugins](#gulp-plugins)
-	- [Sites using SVG](#sites-using-svg)	
+	- [Sites using SVG](#sites-using-svg)
 	- [Experiments](#experiments)
 	- [Follow on Twitter](#follow-on-twitter)
 	- [Thanks to...](#thanks-to)
@@ -60,7 +60,7 @@
 * [Iconmelon](http://iconmelon.com/)
 
 
-## Text 
+## Text
 > SVG is great for create responsive texts and texts with filters.
 
 * [SVG text typographic designs](http://css-tricks.com/svg-text-typographic-designs/)
@@ -145,7 +145,7 @@
 * [Media queries in svg images](http://blog.cloudfour.com/media-queries-in-svg-images/)
 
 
-## Accessible SVG 
+## Accessible SVG
 > How to enhance accessibility using SVG
 
 * [Tips for Creating Accessible SVG](http://www.sitepoint.com/tips-accessible-svg/)
@@ -164,6 +164,9 @@
 * [Sams Teach Yourself SVG in 24 Hours by Micah Laaker](http://www.amazon.com/Sams-Teach-Yourself-SVG-Hours/dp/0672322900)
 * [Learning Raphaël JS Vector Graphics by Damian Dawber - 2013](http://www.amazon.com/Learning-Rapha%C3%ABl-JS-Vector-Graphics/dp/1782169164)
 * [Gráficos vetoriais escaláveis by Mauricio Samy Silva - 2012 - Pt-Br](http://www.livrosvg.com.br/)
+* [SCALABLE, un libro sobre SVG by Jorge Aznar Tobajas - 2014 - ES](http://www.leanpub.com/scalable/)
+* [SVG Tessellation by Jeremy Corbett - 2013](http://www.amazon.com/SVG-Tessellation-ebook/dp/B00DAKS1U8/)
+* [SVG Compressed by Jakob Jenkov - 2013](http://www.amazon.com/SVG-Compressed-Jakob-Jenkov-ebook/dp/B00EO47BSM)
 
 ## SVG Software
 * [Adobe Illustrator](http://www.adobe.com/products/illustrator.html) - $19.99/month
@@ -232,6 +235,9 @@
 * [Introducing SVG Cleaner](http://vimeo.com/34706772)
 * [Create a SVG Loading Animation with Adobe Illustrator](https://www.youtube.com/watch?v=1lmFMsrLgwM)
 * [Inkscape Hints and Tips for making SVG files work in ScanNCut Canvas](https://www.youtube.com/watch?v=ktTunTp3Pl4)
+* [Chris Coyier – SVG Is For Everybody](https://vimeo.com/99828116)
+* [Sara Soueidan: Styling and Animating Scalable Vector Graphics with CSS](http://youtu.be/hI9roqOKKO8)
+* [W3C Standards and Implementors Panel - The Graphical Web 2014](http://youtu.be/TLE3_nmcbWc)
 
 ## Optimizing and Fallbacks
 * [SVG Optimizer](https://github.com/svg/svgo)
@@ -253,7 +259,7 @@
 * [Grunt-svgtemplater](https://www.npmjs.org/package/grunt-svgtemplater)
 * [Grunt-svg-modify](https://www.npmjs.org/package/grunt-svg-modify)
 
-	
+
 ## Gulp Plugins
 * [Gulp-rsvg](https://www.npmjs.org/package/gulp-rsvg/)
 * [Gulp-svg-icons](https://www.npmjs.org/package/gulp-svg-icons/)
@@ -287,6 +293,12 @@
 * [@DmitryBaranovsk](https://twitter.com/DmitryBaranovsk)
 * [@svgwg](https://twitter.com/svgwg)
 * [@shepazu](https://twitter.com/shepazu)
+* [@erikdahlstrom](https://twitter.com/erikdahlstrom)
+* [@dirkschulze](https://twitter.com/dirkschulze)
+* [@heycam](https://twitter.com/heycam)
+* [@aleatoric](https://twitter.com/aleatoric)
+* [@mbostock](https://twitter.com/mbostock)
+* [@TheGraphicalWeb](https://twitter.com/TheGraphicalWeb)
 
 
 ## Thanks to...
