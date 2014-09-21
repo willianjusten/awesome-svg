@@ -42,7 +42,7 @@
 * [A bit about SVG](http://seesparkbox.com/foundry/a_bit_about_svg)
 * [Um pouco sobre SVG](http://simplesideias.com.br/um-pouco-sobre-svg) - (Pt-Br)
 * [Entendendo e Usando o SVG](http://www.devmedia.com.br/entendendo-e-usando-o-svg/19773) - (Pt-Br)
-* [Maujor SVG](http://maujorsvg.com.br/) - c(Pt-Br)
+* [Maujor SVG](http://maujorsvg.com.br/) - (Pt-Br)
 
 
 ## Icons
