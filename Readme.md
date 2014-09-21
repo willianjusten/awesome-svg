@@ -19,11 +19,11 @@
 	- [SVG to Download](#svg-to-download)
 	- [Slides](#slides)
 	- [Videos](#videos)
+	- [Sites using SVG](#sites-using-svg)
+	- [Experiments](#experiments)
 	- [Optimizing, Fallbacks and Tools](#optimizing-fallbacks-and-tools)
 	- [Grunt Plugins](#grunt-plugins)
 	- [Gulp Plugins](#gulp-plugins)
-	- [Sites using SVG](#sites-using-svg)
-	- [Experiments](#experiments)
 	- [Follow on Twitter](#follow-on-twitter)
 	- [Thanks to...](#thanks-to)
 	- [Contributing](#contributing)
@@ -245,6 +245,26 @@
 * [Tutoriel HTML-CSS : Le Format SVG](https://www.youtube.com/watch?v=x3_BJ6tzPqk) - (Fr)
 * [Manipulating SVG With CSS](https://www.youtube.com/watch?v=FW1bwgOhQNo)
 
+## Sites using SVG
+* [julekalender.vitusapotek.no](http://julekalender.vitusapotek.no/)
+* [kaipoche.co](http://kaipoche.co/)
+* [playgroundinc.com](http://playgroundinc.com/)
+* [gardenestudio.com.br](http://gardenestudio.com.br/)
+* [panizzon.ind.br](http://panizzon.ind.br/)
+* [sud.ramoneurs.ch](http://sud.ramoneurs.ch/)
+* [makeyourmoneymatter.org](http://makeyourmoneymatter.org/)
+* [albinotonnina.com](http://www.albinotonnina.com/)
+* [creative-mob.com](http://www.creative-mob.com/)
+* [initiative.com](http://initiative.com/)
+* [guillaumejuvenet.com](http://www.guillaumejuvenet.com/)
+* [sono-it.hr/wsite/](http://sono-it.hr/wsite/)
+
+## Experiments
+* [Poly Maker](http://aerotwist.com/lab/poly-maker/)
+* [SVG Wow](http://svg-wow.org/)
+* [Great experiments from Codrops](http://tympanus.net/codrops/?s=svg)
+
+
 ## Optimizing, Fallbacks and Tools
 * [SVG Optimizer](https://github.com/svg/svgo)
 * [Grumpicon](http://www.grumpicon.com/)
@@ -272,28 +292,6 @@
 * [Gulp-svg-icons](https://www.npmjs.org/package/gulp-svg-icons/)
 * [Gulp-svg-sprites](https://www.npmjs.org/package/gulp-svg-sprites/)
 * [Gulp-svgmin](https://www.npmjs.org/package/gulp-svgmin/)
-
-## Sites using SVG
-* [julekalender.vitusapotek.no](http://julekalender.vitusapotek.no/)
-* [kaipoche.co](http://kaipoche.co/)
-* [playgroundinc.com](http://playgroundinc.com/)
-* [gardenestudio.com.br](http://gardenestudio.com.br/)
-* [panizzon.ind.br](http://panizzon.ind.br/)
-* [sud.ramoneurs.ch](http://sud.ramoneurs.ch/)
-* [makeyourmoneymatter.org](http://makeyourmoneymatter.org/)
-* [albinotonnina.com](http://www.albinotonnina.com/)
-* [creative-mob.com](http://www.creative-mob.com/)
-* [initiative.com](http://initiative.com/)
-* [guillaumejuvenet.com](http://www.guillaumejuvenet.com/)
-* [sono-it.hr/wsite/](http://sono-it.hr/wsite/)
-
-
-
-## Experiments
-* [Poly Maker](http://aerotwist.com/lab/poly-maker/)
-* [SVG Wow](http://svg-wow.org/)
-* [Great experiments from Codrops](http://tympanus.net/codrops/?s=svg)
-
 
 ## Follow on Twitter
 * [@SaraSoueidan](https://twitter.com/SaraSoueidan)
