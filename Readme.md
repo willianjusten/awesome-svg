@@ -42,6 +42,9 @@
 * [A bit about SVG](http://seesparkbox.com/foundry/a_bit_about_svg)
 * [Um pouco sobre SVG](http://simplesideias.com.br/um-pouco-sobre-svg) - (Pt-Br)
 * [Entendendo e Usando o SVG](http://www.devmedia.com.br/entendendo-e-usando-o-svg/19773) - (Pt-Br)
+* [SVG Home](http://www.w3schools.com/svg/default.asp)
+* [SVG Intro](http://www.w3schools.com/svg/svg_intro.asp)
+* [SVG in HTML5](http://www.w3schools.com/svg/svg_inhtml.asp)
 
 
 ## Icons
@@ -114,6 +117,9 @@
 * [MDN about SVG Filter](https://developer.mozilla.org/en-US/docs/Applying_SVG_effects_to_HTML_content)
 * [Fun with SVG Filters](http://blattchat.com/2013/07/13/fun-with-svg-filters/)
 * [Enhancing Data Visualization with SVG Filters](http://vasir.net/blog/data-visualization/enhancing-data-visualization-with-svg-filters)
+* [SVG Filters Intro](http://www.w3schools.com/svg/svg_filters_intro.asp)
+* [SVG Blur Effects](http://www.w3schools.com/svg/svg_fegaussianblur.asp)
+* [SVG Drop Shadows](http://www.w3schools.com/svg/svg_feoffset.asp)
 
 
 
