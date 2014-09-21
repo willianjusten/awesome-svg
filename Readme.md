@@ -14,7 +14,6 @@
 	- [Accessible SVG](#accessible-svg)
 	- [Books](#books)
 	- [SVG Software](#svg-software)
-	- [Tools](#tools)
 	- [Libraries](#libraries)
 	- [Snippets](#snippets)
 	- [SVG to Download](#svg-to-download)
