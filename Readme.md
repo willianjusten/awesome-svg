@@ -240,6 +240,8 @@
 * [Chris Coyier – SVG Is For Everybody](https://vimeo.com/99828116)
 * [Sara Soueidan: Styling and Animating Scalable Vector Graphics with CSS](http://youtu.be/hI9roqOKKO8)
 * [W3C Standards and Implementors Panel - The Graphical Web 2014](http://youtu.be/TLE3_nmcbWc)
+* [Tutoriel HTML-CSS : Le Format SVG](https://www.youtube.com/watch?v=x3_BJ6tzPqk) - (Fr)
+* [Manipulating SVG With CSS](https://www.youtube.com/watch?v=FW1bwgOhQNo)
 
 ## Optimizing and Fallbacks
 * [SVG Optimizer](https://github.com/svg/svgo)
