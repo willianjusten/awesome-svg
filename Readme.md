@@ -293,7 +293,7 @@
 ## Experiments
 * [Poly Maker](http://aerotwist.com/lab/poly-maker/)
 * [SVG Wow](http://svg-wow.org/)
-* [Great experiments from Codropsv](http://tympanus.net/codrops/?s=svg)
+* [Great experiments from Codrops](http://tympanus.net/codrops/?s=svg)
 
 
 ## Follow on Twitter
