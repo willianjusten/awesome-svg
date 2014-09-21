@@ -280,7 +280,7 @@
 * [creative-mob.com](http://www.creative-mob.com/)
 * [initiative.com](http://initiative.com/)
 * [guillaumejuvenet.com](http://www.guillaumejuvenet.com/)
-* [http://sono-it.hr/wsite/](http://sono-it.hr/wsite/)
+* [sono-it.hr/wsite/](http://sono-it.hr/wsite/)
 
 
 
