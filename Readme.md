@@ -73,6 +73,7 @@
 * [Easily center text vertically with svg](http://lea.verou.me/2013/03/easily-center-text-vertically-with-svg/)
 * [Cross Browser svg text paths without javascript even in older ie](http://www.useragentman.com/blog/2013/05/20/cross-browser-svg-text-paths-without-javascript-even-in-older-ie/)
 * [Flowed text in SVG: One step forward, one step back](http://tavmjong.free.fr/blog/?p=938)
+* [Fitter Happier Text](http://jxnblk.github.io/fitter-happier-text/)
 
 ## Patterns
 > How to use, how they work and some tools to create patterns.
