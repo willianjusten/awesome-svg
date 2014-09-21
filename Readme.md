@@ -42,6 +42,7 @@
 * [A bit about SVG](http://seesparkbox.com/foundry/a_bit_about_svg)
 * [Um pouco sobre SVG](http://simplesideias.com.br/um-pouco-sobre-svg) - (Pt-Br)
 * [Entendendo e Usando o SVG](http://www.devmedia.com.br/entendendo-e-usando-o-svg/19773) - (Pt-Br)
+* [Imagens em alta resolução utilizando SVG](http://tableless.com.br/imagens-em-alta-resolucao-utilizando-svg/) - (Pt-Br)
 
 
 ## Icons
@@ -133,6 +134,7 @@
 * [Polygon feature design: SVG animations for fun and profit](http://product.voxmedia.com/2013/11/25/5426880/polygon-feature-design-svg-animations-for-fun-and-profit)
 * [SVG drawing animation](http://tympanus.net/codrops/2013/12/30/svg-drawing-animation/)
 * [SVG Circus](http://svgcircus.com/)
+* [An Intro to SVG Animation with SMIL](http://codepen.io/noahblon/blog/an-intro-to-svg-animation-with-smil)
 
 
 ## Responsive
@@ -278,6 +280,7 @@
 * [creative-mob.com](http://www.creative-mob.com/)
 * [initiative.com](http://initiative.com/)
 * [guillaumejuvenet.com](http://www.guillaumejuvenet.com/)
+* [http://sono-it.hr/wsite/](http://sono-it.hr/wsite/)
 
 
 
