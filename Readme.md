@@ -14,12 +14,13 @@
 	- [Accessible SVG](#accessible-svg)
 	- [Books](#books)
 	- [SVG Software](#svg-software)
+	- [Tools](#tools)
 	- [Libraries](#libraries)
 	- [Snippets](#snippets)
 	- [SVG to Download](#svg-to-download)
 	- [Slides](#slides)
 	- [Videos](#videos)
-	- [Optimizing and Fallbacks](#optimizing-and-fallbacks)
+	- [Optimizing, Fallbacks and Tools](#optimizing-fallbacks-and-tools)
 	- [Grunt Plugins](#grunt-plugins)
 	- [Gulp Plugins](#gulp-plugins)
 	- [Sites using SVG](#sites-using-svg)
@@ -137,6 +138,7 @@
 * [SVG Circus](http://svgcircus.com/)
 * [An Intro to SVG Animation with SMIL](http://codepen.io/noahblon/blog/an-intro-to-svg-animation-with-smil)
 * [Interactive Infographic wtih SVG and CSS animations](http://tympanus.net/codrops/2013/02/06/interactive-infographic-with-svg-and-css-animations/)
+* [SVG Path Animation with Jquery and Illustrator](http://blog.teamtreehouse.com/svg-path-animation-with-jquery-and-illustrator)
 
 
 ## Responsive
@@ -178,6 +180,7 @@
 * [Webcode](http://www.webcodeapp.com/) - $39.99
 * [iDraw](http://www.indeeo.com/idraw/) - $24.99
 * [Inkscape](http://www.inkscape.org/en/) - Free
+
 
 ## Libraries
 * [Snap.SVG](http://snapsvg.io/)
@@ -221,8 +224,6 @@
 * [D3: Data-Driven Documents by Mike Bostock](http://mbostock.github.io/d3/talk/20111018/#0)
 
 
-
-
 ## Videos
 * [Create a SVG Loading Animation with Adobe Illustrator](https://www.youtube.com/watch?v=1lmFMsrLgwM)
 * [Introduction to SVG and RaphaelJS](https://www.youtube.com/watch?v=ECUhNrlyTkE)
@@ -245,7 +246,7 @@
 * [Tutoriel HTML-CSS : Le Format SVG](https://www.youtube.com/watch?v=x3_BJ6tzPqk) - (Fr)
 * [Manipulating SVG With CSS](https://www.youtube.com/watch?v=FW1bwgOhQNo)
 
-## Optimizing and Fallbacks
+## Optimizing, Fallbacks and Tools
 * [SVG Optimizer](https://github.com/svg/svgo)
 * [Grumpicon](http://www.grumpicon.com/)
 * [SVG Optimisation Basics](http://demosthenes.info/blog/807/SVG-Optimisation-The-Basics)
@@ -253,6 +254,7 @@
 * [SVG Editor](http://petercollingridge.appspot.com/svg-editor)
 * [Export SVG for the web with Illustrator](http://creativedroplets.com/export-svg-for-the-web-with-illustrator-cc/)
 * [Optimizing Inkscape SVG size for the Web](http://tavmjong.free.fr/blog/?p=79)
+* [Script to export PSD to SVG](http://hackingui.com/design/export-photoshop-layer-to-svg/)
 
 ## Grunt Plugins
 * [Grunt-svgmin](https://www.npmjs.org/package/grunt-svgmin)
