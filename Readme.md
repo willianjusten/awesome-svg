@@ -136,6 +136,7 @@
 * [SVG drawing animation](http://tympanus.net/codrops/2013/12/30/svg-drawing-animation/)
 * [SVG Circus](http://svgcircus.com/)
 * [An Intro to SVG Animation with SMIL](http://codepen.io/noahblon/blog/an-intro-to-svg-animation-with-smil)
+* [Interactive Infographic wtih SVG and CSS animations](http://tympanus.net/codrops/2013/02/06/interactive-infographic-with-svg-and-css-animations/)
 
 
 ## Responsive
@@ -290,6 +291,7 @@
 ## Experiments
 * [Poly Maker](http://aerotwist.com/lab/poly-maker/)
 * [SVG Wow](http://svg-wow.org/)
+* [Great experiments from Codropsv](http://tympanus.net/codrops/?s=svg)
 
 
 ## Follow on Twitter
