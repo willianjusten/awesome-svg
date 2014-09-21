@@ -7,6 +7,7 @@
 	- [Icons](#icons)
 	- [Text](#text)
 	- [Patterns](#patterns)
+	- [Shapes](#shapes)
 	- [Gradients](#gradients)
 	- [Filters](#filters)
 	- [Animation](#animation)
@@ -90,6 +91,15 @@
 * [Patternbolt - Pack a pattern svg into css or scss](http://buseca.github.io/patternbolt/)
 * [SVG Patterns Gallery](http://philbit.com/svgpatterns/)
 
+## Shapes
+* [SVG Rectangle](http://www.w3schools.com/svg/svg_rect.asp)
+* [SVG Circle](http://www.w3schools.com/svg/svg_circle.asp)
+* [SVG Ellipse](http://www.w3schools.com/svg/svg_ellipse.asp)
+* [SVG Line](http://www.w3schools.com/svg/svg_line.asp)
+* [SVG Polygon](http://www.w3schools.com/svg/svg_polygon.asp)
+* [SVG Path](http://www.w3schools.com/svg/svg_path.asp)
+* [SVG Text](http://www.w3schools.com/svg/svg_text.asp)
+* [SVG Stroking](http://www.w3schools.com/svg/svg_stroking.asp)
 
 ## Gradients
 > How to use, differences between css gradients and svg gradients, tools to generate gradients and some tips.
