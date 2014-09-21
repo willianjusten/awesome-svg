@@ -7,6 +7,7 @@
 	- [Icons](#icons)
 	- [Text](#text)
 	- [Patterns](#patterns)
+	- [Shapes](#shapes)
 	- [Gradients](#gradients)
 	- [Filters](#filters)
 	- [Animation](#animation)
@@ -24,6 +25,8 @@
 	- [Gulp Plugins](#gulp-plugins)
 	- [Sites using SVG](#sites-using-svg)
 	- [Experiments](#experiments)
+	- [Examples](#examples)
+	- [Reference](#reference)
 	- [Follow on Twitter](#follow-on-twitter)
 	- [Thanks to...](#thanks-to)
 	- [Contributing](#contributing)
@@ -42,6 +45,9 @@
 * [A bit about SVG](http://seesparkbox.com/foundry/a_bit_about_svg)
 * [Um pouco sobre SVG](http://simplesideias.com.br/um-pouco-sobre-svg) - (Pt-Br)
 * [Entendendo e Usando o SVG](http://www.devmedia.com.br/entendendo-e-usando-o-svg/19773) - (Pt-Br)
+* [SVG Home](http://www.w3schools.com/svg/default.asp)
+* [SVG Intro](http://www.w3schools.com/svg/svg_intro.asp)
+* [SVG in HTML5](http://www.w3schools.com/svg/svg_inhtml.asp)
 
 
 ## Icons
@@ -85,6 +91,15 @@
 * [Patternbolt - Pack a pattern svg into css or scss](http://buseca.github.io/patternbolt/)
 * [SVG Patterns Gallery](http://philbit.com/svgpatterns/)
 
+## Shapes
+* [SVG Rectangle](http://www.w3schools.com/svg/svg_rect.asp)
+* [SVG Circle](http://www.w3schools.com/svg/svg_circle.asp)
+* [SVG Ellipse](http://www.w3schools.com/svg/svg_ellipse.asp)
+* [SVG Line](http://www.w3schools.com/svg/svg_line.asp)
+* [SVG Polygon](http://www.w3schools.com/svg/svg_polygon.asp)
+* [SVG Path](http://www.w3schools.com/svg/svg_path.asp)
+* [SVG Text](http://www.w3schools.com/svg/svg_text.asp)
+* [SVG Stroking](http://www.w3schools.com/svg/svg_stroking.asp)
 
 ## Gradients
 > How to use, differences between css gradients and svg gradients, tools to generate gradients and some tips.
@@ -103,6 +118,8 @@
 * [SVG Gradient Generator](http://10k.aneventapart.com/1/Uploads/319/)
 * [Online CSS Gradient GeneratorHelp](http://angrytools.com/gradient/)
 * [CSS/SVG Gradient Generator](http://jimbomatic.com/svg-gradient/)
+* [SVG Linear](http://www.w3schools.com/svg/svg_grad_linear.asp)
+* [SVG Radial](http://www.w3schools.com/svg/svg_grad_radial.asp)
 
 ## Filters
 > What are filters, how to use, some examples and tips.
@@ -114,6 +131,9 @@
 * [MDN about SVG Filter](https://developer.mozilla.org/en-US/docs/Applying_SVG_effects_to_HTML_content)
 * [Fun with SVG Filters](http://blattchat.com/2013/07/13/fun-with-svg-filters/)
 * [Enhancing Data Visualization with SVG Filters](http://vasir.net/blog/data-visualization/enhancing-data-visualization-with-svg-filters)
+* [SVG Filters Intro](http://www.w3schools.com/svg/svg_filters_intro.asp)
+* [SVG Blur Effects](http://www.w3schools.com/svg/svg_fegaussianblur.asp)
+* [SVG Drop Shadows](http://www.w3schools.com/svg/svg_feoffset.asp)
 
 
 
@@ -284,6 +304,12 @@
 ## Experiments
 * [Poly Maker](http://aerotwist.com/lab/poly-maker/)
 * [SVG Wow](http://svg-wow.org/)
+
+## Examples
+* [SVG Examples](http://www.w3schools.com/svg/svg_examples.asp)
+
+## Reference
+* [SVG Reference](http://www.w3schools.com/svg/svg_reference.asp)
 
 
 ## Follow on Twitter
