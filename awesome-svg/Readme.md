@@ -23,7 +23,7 @@
 	- [Grunt Plugins](#grunt-plugins)
 	- [Gulp Plugins](#gulp-plugins)
 	- [Sites using SVG](#sites-using-svg)
-	- [Experiments](#experiments)z
+	- [Experiments](#experiments)
 	- [Follow on Twitter](#follow-on-twitter)
 	- [Thanks to...](#thanks-to)
 	- [Contributing](#contributing)
@@ -42,7 +42,7 @@
 * [A bit about SVG](http://seesparkbox.com/foundry/a_bit_about_svg)
 * [Um pouco sobre SVG](http://simplesideias.com.br/um-pouco-sobre-svg) - (Pt-Br)
 * [Entendendo e Usando o SVG](http://www.devmedia.com.br/entendendo-e-usando-o-svg/19773) - (Pt-Br)
-* [Maujor SVG](http://maujorsvg.com.br/) - c(Pt-Br)
+* [Imagens em alta resolução utilizando SVG](http://tableless.com.br/imagens-em-alta-resolucao-utilizando-svg/) - (Pt-Br)
 
 
 ## Icons
@@ -134,6 +134,7 @@
 * [Polygon feature design: SVG animations for fun and profit](http://product.voxmedia.com/2013/11/25/5426880/polygon-feature-design-svg-animations-for-fun-and-profit)
 * [SVG drawing animation](http://tympanus.net/codrops/2013/12/30/svg-drawing-animation/)
 * [SVG Circus](http://svgcircus.com/)
+* [An Intro to SVG Animation with SMIL](http://codepen.io/noahblon/blog/an-intro-to-svg-animation-with-smil)
 
 
 ## Responsive
@@ -279,6 +280,7 @@
 * [creative-mob.com](http://www.creative-mob.com/)
 * [initiative.com](http://initiative.com/)
 * [guillaumejuvenet.com](http://www.guillaumejuvenet.com/)
+* [sono-it.hr/wsite/](http://sono-it.hr/wsite/)
 
 
 
@@ -304,7 +306,7 @@
 
 ## Thanks to...
 
-* [Marcus Vinicius](https://github.com/Raikow), my friend =)
+* [Marcus Vinicius](https://github.com/mvfsilva), my friend =)
 * [Rodrigo Machado](https://github.com/rcmachado) for helping me with CC License.
 * [Chris Coyier](http://chriscoyier.net/) and his [Compendium of SVG Information](http://css-tricks.com/mega-list-svg-information/), was a great start point for me.
 * and of course, all the [Contributors](https://github.com/willianjusten/awesome-svg/graphs/contributors).
