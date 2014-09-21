@@ -24,6 +24,8 @@
 	- [Gulp Plugins](#gulp-plugins)
 	- [Sites using SVG](#sites-using-svg)
 	- [Experiments](#experiments)
+	- [Examples](#examples)
+	- [Reference](#reference)
 	- [Follow on Twitter](#follow-on-twitter)
 	- [Thanks to...](#thanks-to)
 	- [Contributing](#contributing)
@@ -106,6 +108,8 @@
 * [SVG Gradient Generator](http://10k.aneventapart.com/1/Uploads/319/)
 * [Online CSS Gradient GeneratorHelp](http://angrytools.com/gradient/)
 * [CSS/SVG Gradient Generator](http://jimbomatic.com/svg-gradient/)
+* [SVG Linear](http://www.w3schools.com/svg/svg_grad_linear.asp)
+* [SVG Radial](http://www.w3schools.com/svg/svg_grad_radial.asp)
 
 ## Filters
 > What are filters, how to use, some examples and tips.
@@ -290,6 +294,12 @@
 ## Experiments
 * [Poly Maker](http://aerotwist.com/lab/poly-maker/)
 * [SVG Wow](http://svg-wow.org/)
+
+## Examples
+* [SVG Examples](http://www.w3schools.com/svg/svg_examples.asp)
+
+## Reference
+* [SVG Reference](http://www.w3schools.com/svg/svg_reference.asp)
 
 
 ## Follow on Twitter
