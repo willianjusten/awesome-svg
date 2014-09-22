@@ -16,6 +16,7 @@
 	- [SVG Software](#svg-software)
 	- [Libraries](#libraries)
 	- [Snippets](#snippets)
+	- [Fragment Identifiers](#fragment-identifiers)
 	- [SVG to Download](#svg-to-download)
 	- [Slides](#slides)
 	- [Videos](#videos)
@@ -201,6 +202,10 @@
 * [SVG Snippets for Sublime Text 2/3](http://codepen.io/jorgeatgu/blog/svg-snippets)
 * [SVG Smil Snippets for Sublime Text 2/3](http://codepen.io/jorgeatgu/blog/svg-smil-snippets-for-sublime-text-2-3)
 
+
+## Fragment Identifiers
+* [W3C Documentation](http://www.w3.org/TR/SVG/linking.html#SVGFragmentIdentifiers)
+* [Using Fragment Identifiers on SVG](http://www.broken-links.com/2012/08/14/better-svg-sprites-with-fragment-identifiers/)
 
 
 ## SVG to Download
