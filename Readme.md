@@ -275,6 +275,7 @@
 * [Export SVG for the web with Illustrator](http://creativedroplets.com/export-svg-for-the-web-with-illustrator-cc/)
 * [Optimizing Inkscape SVG size for the Web](http://tavmjong.free.fr/blog/?p=79)
 * [Script to export PSD to SVG](http://hackingui.com/design/export-photoshop-layer-to-svg/)
+* [SVGeezy](http://benhowdle.im/svgeezy/)
 
 ## Grunt Plugins
 * [Grunt-svgmin](https://www.npmjs.org/package/grunt-svgmin)
