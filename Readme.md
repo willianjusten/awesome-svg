@@ -19,11 +19,11 @@
 	- [SVG to Download](#svg-to-download)
 	- [Slides](#slides)
 	- [Videos](#videos)
-	- [Optimizing and Fallbacks](#optimizing-and-fallbacks)
-	- [Grunt Plugins](#grunt-plugins)
-	- [Gulp Plugins](#gulp-plugins)
 	- [Sites using SVG](#sites-using-svg)
 	- [Experiments](#experiments)
+	- [Optimizing, Fallbacks and Tools](#optimizing-fallbacks-and-tools)
+	- [Grunt Plugins](#grunt-plugins)
+	- [Gulp Plugins](#gulp-plugins)
 	- [Follow on Twitter](#follow-on-twitter)
 	- [Thanks to...](#thanks-to)
 	- [Contributing](#contributing)
@@ -40,8 +40,10 @@
 * [W3C Docs](http://www.w3.org/Graphics/SVG/)
 * [Resolution Indepence with SVG](http://www.smashingmagazine.com/2012/01/16/resolution-independence-with-svg/)
 * [A bit about SVG](http://seesparkbox.com/foundry/a_bit_about_svg)
-* [Um pouco sobre SVG](http://simplesideias.com.br/um-pouco-sobre-svg) - (Pt-br)
-* [Entendendo e Usando o SVG](http://www.devmedia.com.br/entendendo-e-usando-o-svg/19773) - (Pt-br)
+* [Um pouco sobre SVG](http://simplesideias.com.br/um-pouco-sobre-svg) - (Pt-Br)
+* [Entendendo e Usando o SVG](http://www.devmedia.com.br/entendendo-e-usando-o-svg/19773) - (Pt-Br)
+* [Imagens em alta resolução utilizando SVG](http://tableless.com.br/imagens-em-alta-resolucao-utilizando-svg/) - (Pt-Br)
+* [Maujor SVG](http://maujorsvg.com.br/) - (Pt-Br)
 
 
 ## Icons
@@ -71,6 +73,7 @@
 * [Easily center text vertically with svg](http://lea.verou.me/2013/03/easily-center-text-vertically-with-svg/)
 * [Cross Browser svg text paths without javascript even in older ie](http://www.useragentman.com/blog/2013/05/20/cross-browser-svg-text-paths-without-javascript-even-in-older-ie/)
 * [Flowed text in SVG: One step forward, one step back](http://tavmjong.free.fr/blog/?p=938)
+* [Fitter Happier Text](http://jxnblk.github.io/fitter-happier-text/)
 
 ## Patterns
 > How to use, how they work and some tools to create patterns.
@@ -133,6 +136,9 @@
 * [Polygon feature design: SVG animations for fun and profit](http://product.voxmedia.com/2013/11/25/5426880/polygon-feature-design-svg-animations-for-fun-and-profit)
 * [SVG drawing animation](http://tympanus.net/codrops/2013/12/30/svg-drawing-animation/)
 * [SVG Circus](http://svgcircus.com/)
+* [An Intro to SVG Animation with SMIL](http://codepen.io/noahblon/blog/an-intro-to-svg-animation-with-smil)
+* [Interactive Infographic wtih SVG and CSS animations](http://tympanus.net/codrops/2013/02/06/interactive-infographic-with-svg-and-css-animations/)
+* [SVG Path Animation with Jquery and Illustrator](http://blog.teamtreehouse.com/svg-path-animation-with-jquery-and-illustrator)
 
 
 ## Responsive
@@ -163,10 +169,10 @@
 * [Building Web Applications with SVG by Jon Frost - 2012](http://www.amazon.com/Building-Web-Applications-Developer-Reference/dp/0735660123)
 * [Sams Teach Yourself SVG in 24 Hours by Micah Laaker](http://www.amazon.com/Sams-Teach-Yourself-SVG-Hours/dp/0672322900)
 * [Learning Raphaël JS Vector Graphics by Damian Dawber - 2013](http://www.amazon.com/Learning-Rapha%C3%ABl-JS-Vector-Graphics/dp/1782169164)
-* [Gráficos vetoriais escaláveis by Mauricio Samy Silva - 2012 - Pt-Br](http://www.livrosvg.com.br/)
-* [SCALABLE, un libro sobre SVG by Jorge Aznar Tobajas - 2014 - ES](http://www.leanpub.com/scalable/)
 * [SVG Tessellation by Jeremy Corbett - 2013](http://www.amazon.com/SVG-Tessellation-ebook/dp/B00DAKS1U8/)
 * [SVG Compressed by Jakob Jenkov - 2013](http://www.amazon.com/SVG-Compressed-Jakob-Jenkov-ebook/dp/B00EO47BSM)
+* [Gráficos vetoriais escaláveis by Mauricio Samy Silva - 2012 - Pt-Br](http://www.livrosvg.com.br/)
+* [SCALABLE, un libro sobre SVG by Jorge Aznar Tobajas - 2014 - ES](http://www.leanpub.com/scalable/)
 
 ## SVG Software
 * [Adobe Illustrator](http://www.adobe.com/products/illustrator.html) - $19.99/month
@@ -174,6 +180,7 @@
 * [Webcode](http://www.webcodeapp.com/) - $39.99
 * [iDraw](http://www.indeeo.com/idraw/) - $24.99
 * [Inkscape](http://www.inkscape.org/en/) - Free
+
 
 ## Libraries
 * [Snap.SVG](http://snapsvg.io/)
@@ -217,8 +224,6 @@
 * [D3: Data-Driven Documents by Mike Bostock](http://mbostock.github.io/d3/talk/20111018/#0)
 
 
-
-
 ## Videos
 * [Create a SVG Loading Animation with Adobe Illustrator](https://www.youtube.com/watch?v=1lmFMsrLgwM)
 * [Introduction to SVG and RaphaelJS](https://www.youtube.com/watch?v=ECUhNrlyTkE)
@@ -238,8 +243,30 @@
 * [Chris Coyier – SVG Is For Everybody](https://vimeo.com/99828116)
 * [Sara Soueidan: Styling and Animating Scalable Vector Graphics with CSS](http://youtu.be/hI9roqOKKO8)
 * [W3C Standards and Implementors Panel - The Graphical Web 2014](http://youtu.be/TLE3_nmcbWc)
+* [Tutoriel HTML-CSS : Le Format SVG](https://www.youtube.com/watch?v=x3_BJ6tzPqk) - (Fr)
+* [Manipulating SVG With CSS](https://www.youtube.com/watch?v=FW1bwgOhQNo)
 
-## Optimizing and Fallbacks
+## Sites using SVG
+* [julekalender.vitusapotek.no](http://julekalender.vitusapotek.no/)
+* [kaipoche.co](http://kaipoche.co/)
+* [playgroundinc.com](http://playgroundinc.com/)
+* [gardenestudio.com.br](http://gardenestudio.com.br/)
+* [panizzon.ind.br](http://panizzon.ind.br/)
+* [sud.ramoneurs.ch](http://sud.ramoneurs.ch/)
+* [makeyourmoneymatter.org](http://makeyourmoneymatter.org/)
+* [albinotonnina.com](http://www.albinotonnina.com/)
+* [creative-mob.com](http://www.creative-mob.com/)
+* [initiative.com](http://initiative.com/)
+* [guillaumejuvenet.com](http://www.guillaumejuvenet.com/)
+* [sono-it.hr/wsite/](http://sono-it.hr/wsite/)
+
+## Experiments
+* [Poly Maker](http://aerotwist.com/lab/poly-maker/)
+* [SVG Wow](http://svg-wow.org/)
+* [Great experiments from Codrops](http://tympanus.net/codrops/?s=svg)
+
+
+## Optimizing, Fallbacks and Tools
 * [SVG Optimizer](https://github.com/svg/svgo)
 * [Grumpicon](http://www.grumpicon.com/)
 * [SVG Optimisation Basics](http://demosthenes.info/blog/807/SVG-Optimisation-The-Basics)
@@ -247,6 +274,7 @@
 * [SVG Editor](http://petercollingridge.appspot.com/svg-editor)
 * [Export SVG for the web with Illustrator](http://creativedroplets.com/export-svg-for-the-web-with-illustrator-cc/)
 * [Optimizing Inkscape SVG size for the Web](http://tavmjong.free.fr/blog/?p=79)
+* [Script to export PSD to SVG](http://hackingui.com/design/export-photoshop-layer-to-svg/)
 
 ## Grunt Plugins
 * [Grunt-svgmin](https://www.npmjs.org/package/grunt-svgmin)
@@ -266,26 +294,6 @@
 * [Gulp-svg-sprites](https://www.npmjs.org/package/gulp-svg-sprites/)
 * [Gulp-svgmin](https://www.npmjs.org/package/gulp-svgmin/)
 
-## Sites using SVG
-* [julekalender.vitusapotek.no](http://julekalender.vitusapotek.no/)
-* [kaipoche.co](http://kaipoche.co/)
-* [playgroundinc.com](http://playgroundinc.com/)
-* [gardenestudio.com.br](http://gardenestudio.com.br/)
-* [panizzon.ind.br](http://panizzon.ind.br/)
-* [sud.ramoneurs.ch](http://sud.ramoneurs.ch/)
-* [makeyourmoneymatter.org](http://makeyourmoneymatter.org/)
-* [albinotonnina.com](http://www.albinotonnina.com/)
-* [creative-mob.com](http://www.creative-mob.com/)
-* [initiative.com](http://initiative.com/)
-* [guillaumejuvenet.com](http://www.guillaumejuvenet.com/)
-
-
-
-## Experiments
-* [Poly Maker](http://aerotwist.com/lab/poly-maker/)
-* [SVG Wow](http://svg-wow.org/)
-
-
 ## Follow on Twitter
 * [@SaraSoueidan](https://twitter.com/SaraSoueidan)
 * [@JoniTrythall](https://twitter.com/JoniTrythall)
@@ -303,14 +311,15 @@
 
 ## Thanks to...
 
-* [Marcus Vinicius](https://github.com/Raikow), my friend =)
-* [Rodrigo Machado](https://github.com/rcmachado) for helping me with CC License
+* [Marcus Vinicius](https://github.com/mvfsilva), my friend =)
+* [Rodrigo Machado](https://github.com/rcmachado) for helping me with CC License.
 * [Chris Coyier](http://chriscoyier.net/) and his [Compendium of SVG Information](http://css-tricks.com/mega-list-svg-information/), was a great start point for me.
+* and of course, all the [Contributors](https://github.com/willianjusten/awesome-svg/graphs/contributors).
 
 
 ## Contributing
 
-Your contributions are always welcome! [Click Here to read the guidelines](https://github.com/willianjusten/awesome-svg/blob/master/contributing.md)
+Your contributions are always welcome! [Click Here to read the guidelines](https://github.com/willianjusten/awesome-svg/blob/master/contributing.md).
 
 ##License
 
