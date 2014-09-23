@@ -182,6 +182,7 @@
 * [Webcode](http://www.webcodeapp.com/) - $39.99
 * [iDraw](http://www.indeeo.com/idraw/) - $24.99
 * [Inkscape](http://www.inkscape.org/en/) - Free
+* [Inkpad](https://github.com/sprang/Inkpad) - Free/Open source
 
 
 ## Libraries
