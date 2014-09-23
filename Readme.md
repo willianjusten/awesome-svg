@@ -140,6 +140,7 @@
 * [An Intro to SVG Animation with SMIL](http://codepen.io/noahblon/blog/an-intro-to-svg-animation-with-smil)
 * [Interactive Infographic wtih SVG and CSS animations](http://tympanus.net/codrops/2013/02/06/interactive-infographic-with-svg-and-css-animations/)
 * [SVG Path Animation with Jquery and Illustrator](http://blog.teamtreehouse.com/svg-path-animation-with-jquery-and-illustrator)
+* [Animate SVG with SMIL Adam Guttentag's Blog](http://codepen.io/guttentag/blog/)
 
 
 ## Responsive
@@ -196,6 +197,7 @@
 * [Chartist.js](http://gionkunz.github.io/chartist-js/)
 * [Lazy Line Painter](http://lazylinepainter.info/)
 * [Path JS](https://github.com/andreaferretti/paths-js)
+* [VelocityJS](http://julian.com/research/velocity/#svg)
 
 
 ## Snippets
@@ -227,6 +229,9 @@
 * [SVG for the Responsive Web by Jan van Hellemond](https://speakerdeck.com/jvhellemond/svg-for-the-responsive-web)
 * [Next Level SVG by Ilya Pukhalski](https://speakerdeck.com/pukhalski/next-level-svg)
 * [D3: Data-Driven Documents by Mike Bostock](http://mbostock.github.io/d3/talk/20111018/#0)
+* [Filter Effects](https://docs.google.com/presentation/d/13la132nkDOrQcaZ4XTLteLYxmZ0ud2xHMkv2A6dNlks/mobilepresent#slide=id.p)
+* [You don't know SVG by Dimitry Baranosky]( http://dmitrybaranovskiy.github.io/wdc14presentation/#0)
+* [The future of SVG and Web Standars by Tavmjong Bah]( http://tavmjong.free.fr/SVG/LG_SVG_2013/lg_2013_svgwg.svg#2_0)
 
 
 ## Videos
@@ -269,6 +274,7 @@
 * [Poly Maker](http://aerotwist.com/lab/poly-maker/)
 * [SVG Wow](http://svg-wow.org/)
 * [Great experiments from Codrops](http://tympanus.net/codrops/?s=svg)
+* [Flat Surface Shader](http://matthew.wagerfield.com/flat-surface-shader/)
 
 
 ## Optimizing, Fallbacks and Tools
@@ -281,6 +287,7 @@
 * [Optimizing Inkscape SVG size for the Web](http://tavmjong.free.fr/blog/?p=79)
 * [Script to export PSD to SVG](http://hackingui.com/design/export-photoshop-layer-to-svg/)
 * [SVGeezy](http://benhowdle.im/svgeezy/)
+* [SVG Cleaner](https://github.com/RazrFalcon/SVGCleaner)
 
 ## Grunt Plugins
 * [Grunt-svgmin](https://www.npmjs.org/package/grunt-svgmin)
@@ -313,6 +320,8 @@
 * [@aleatoric](https://twitter.com/aleatoric)
 * [@mbostock](https://twitter.com/mbostock)
 * [@TheGraphicalWeb](https://twitter.com/TheGraphicalWeb)
+* [@svgeesus](https://twitter.com/svgeesus)
+* [@daviddaileysru](https://twitter.com/daviddaileysru)
 
 
 ## Thanks to...
