@@ -43,6 +43,7 @@
 * [Resolution Indepence with SVG](http://www.smashingmagazine.com/2012/01/16/resolution-independence-with-svg/)
 * [A bit about SVG](http://seesparkbox.com/foundry/a_bit_about_svg)
 * [An SVG Primer for Today's Browsers](http://www.w3.org/Graphics/SVG/IG/resources/svgprimer.html)
+* [Tutorials by WebPlatform](http://docs.webplatform.org/wiki/svg)
 * [Um pouco sobre SVG](http://simplesideias.com.br/um-pouco-sobre-svg) - (Pt-Br)
 * [Entendendo e Usando o SVG](http://www.devmedia.com.br/entendendo-e-usando-o-svg/19773) - (Pt-Br)
 * [Imagens em alta resolução utilizando SVG](http://tableless.com.br/imagens-em-alta-resolucao-utilizando-svg/) - (Pt-Br)
