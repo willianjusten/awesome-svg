@@ -259,6 +259,7 @@
 * [W3C Standards and Implementors Panel - The Graphical Web 2014](http://youtu.be/TLE3_nmcbWc)
 * [Tutoriel HTML-CSS : Le Format SVG](https://www.youtube.com/watch?v=x3_BJ6tzPqk) - (Fr)
 * [Manipulating SVG With CSS](https://www.youtube.com/watch?v=FW1bwgOhQNo)
+* [The future of gradients in SVG](https://www.youtube.com/watch?v=47nhFrI_P8Y)
 
 ## Sites using SVG
 * [julekalender.vitusapotek.no](http://julekalender.vitusapotek.no/)
