@@ -141,6 +141,7 @@
 * [Interactive Infographic wtih SVG and CSS animations](http://tympanus.net/codrops/2013/02/06/interactive-infographic-with-svg-and-css-animations/)
 * [SVG Path Animation with Jquery and Illustrator](http://blog.teamtreehouse.com/svg-path-animation-with-jquery-and-illustrator)
 * [Animate SVG with SMIL Adam Guttentag's Blog](http://codepen.io/guttentag/blog/)
+* [How SVG Line Animation Works](http://css-tricks.com/svg-line-animation-works/)
 
 
 ## Responsive
