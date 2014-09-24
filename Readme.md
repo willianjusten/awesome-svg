@@ -25,6 +25,7 @@
 	- [Optimizing, Fallbacks and Tools](#optimizing-fallbacks-and-tools)
 	- [Grunt Plugins](#grunt-plugins)
 	- [Gulp Plugins](#gulp-plugins)
+	- [Groups and Conferences](#groups-and-conferences)
 	- [Follow on Twitter](#follow-on-twitter)
 	- [Thanks to...](#thanks-to)
 	- [Contributing](#contributing)
@@ -41,6 +42,7 @@
 * [W3C Docs](http://www.w3.org/Graphics/SVG/)
 * [Resolution Indepence with SVG](http://www.smashingmagazine.com/2012/01/16/resolution-independence-with-svg/)
 * [A bit about SVG](http://seesparkbox.com/foundry/a_bit_about_svg)
+* [An SVG Primer for Today's Browsers](http://www.w3.org/Graphics/SVG/IG/resources/svgprimer.html)
 * [Um pouco sobre SVG](http://simplesideias.com.br/um-pouco-sobre-svg) - (Pt-Br)
 * [Entendendo e Usando o SVG](http://www.devmedia.com.br/entendendo-e-usando-o-svg/19773) - (Pt-Br)
 * [Imagens em alta resolução utilizando SVG](http://tableless.com.br/imagens-em-alta-resolucao-utilizando-svg/) - (Pt-Br)
@@ -277,6 +279,7 @@
 * [SVG Wow](http://svg-wow.org/)
 * [Great experiments from Codrops](http://tympanus.net/codrops/?s=svg)
 * [Flat Surface Shader](http://matthew.wagerfield.com/flat-surface-shader/)
+* [Thousands of experiments by David Dailey](http://srufaculty.sru.edu/david.dailey/svg/)
 
 
 ## Optimizing, Fallbacks and Tools
@@ -308,6 +311,10 @@
 * [Gulp-svg-icons](https://www.npmjs.org/package/gulp-svg-icons/)
 * [Gulp-svg-sprites](https://www.npmjs.org/package/gulp-svg-sprites/)
 * [Gulp-svgmin](https://www.npmjs.org/package/gulp-svgmin/)
+
+## Groups and Conferences
+* [W3C's SVG WG](http://www.w3.org/Graphics/SVG/)
+* [Graphical Web - Conference](https://www.graphicalweb.org)
 
 ## Follow on Twitter
 * [@SaraSoueidan](https://twitter.com/SaraSoueidan)
