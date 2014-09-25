@@ -282,7 +282,7 @@
 * [Great experiments from Codrops](http://tympanus.net/codrops/?s=svg)
 * [Flat Surface Shader](http://matthew.wagerfield.com/flat-surface-shader/)
 * [Thousands of experiments by David Dailey](http://srufaculty.sru.edu/david.dailey/svg/)
-
+* [VectorShapes](http://vectorshapes.com/) - svg apps by Peter Schonefeld
 
 ## Optimizing, Fallbacks and Tools
 * [SVG Optimizer](https://github.com/svg/svgo)
