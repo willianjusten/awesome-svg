@@ -295,6 +295,7 @@
 * [Script to export PSD to SVG](http://hackingui.com/design/export-photoshop-layer-to-svg/)
 * [SVGeezy](http://benhowdle.im/svgeezy/)
 * [SVG Cleaner](https://github.com/RazrFalcon/SVGCleaner)
+* [Export Flash to SVG](http://www.tbyrne.org/export-flash-to-animated-svg)
 
 ## Grunt Plugins
 * [Grunt-svgmin](https://www.npmjs.org/package/grunt-svgmin)
