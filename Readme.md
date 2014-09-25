@@ -296,6 +296,7 @@
 * [SVGeezy](http://benhowdle.im/svgeezy/)
 * [SVG Cleaner](https://github.com/RazrFalcon/SVGCleaner)
 * [Export Flash to SVG](http://www.tbyrne.org/export-flash-to-animated-svg)
+* [Using SVG to shrink your pngs](http://peterhrynkow.com/how-to-compress-a-png-like-a-jpeg)
 
 ## Grunt Plugins
 * [Grunt-svgmin](https://www.npmjs.org/package/grunt-svgmin)
