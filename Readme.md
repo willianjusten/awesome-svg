@@ -16,6 +16,7 @@
 	- [SVG Software](#svg-software)
 	- [Libraries](#libraries)
 	- [Snippets](#snippets)
+	- [Fragment Identifiers](#fragment-identifiers)
 	- [SVG to Download](#svg-to-download)
 	- [Slides](#slides)
 	- [Videos](#videos)
@@ -24,6 +25,7 @@
 	- [Optimizing, Fallbacks and Tools](#optimizing-fallbacks-and-tools)
 	- [Grunt Plugins](#grunt-plugins)
 	- [Gulp Plugins](#gulp-plugins)
+	- [Groups and Conferences](#groups-and-conferences)
 	- [Follow on Twitter](#follow-on-twitter)
 	- [Thanks to...](#thanks-to)
 	- [Contributing](#contributing)
@@ -40,6 +42,8 @@
 * [W3C Docs](http://www.w3.org/Graphics/SVG/)
 * [Resolution Indepence with SVG](http://www.smashingmagazine.com/2012/01/16/resolution-independence-with-svg/)
 * [A bit about SVG](http://seesparkbox.com/foundry/a_bit_about_svg)
+* [An SVG Primer for Today's Browsers](http://www.w3.org/Graphics/SVG/IG/resources/svgprimer.html)
+* [Tutorials by WebPlatform](http://docs.webplatform.org/wiki/svg)
 * [Um pouco sobre SVG](http://simplesideias.com.br/um-pouco-sobre-svg) - (Pt-Br)
 * [Entendendo e Usando o SVG](http://www.devmedia.com.br/entendendo-e-usando-o-svg/19773) - (Pt-Br)
 * [Imagens em alta resolução utilizando SVG](http://tableless.com.br/imagens-em-alta-resolucao-utilizando-svg/) - (Pt-Br)
@@ -60,6 +64,7 @@
 * [Fontastic](http://fontastic.me/faq)
 * [Useiconic](https://useiconic.com/guides/)
 * [Iconmelon](http://iconmelon.com/)
+* [SVGIcons](http://bbriel.me/svgicons/)
 
 
 ## Text
@@ -140,6 +145,7 @@
 * [Interactive Infographic wtih SVG and CSS animations](http://tympanus.net/codrops/2013/02/06/interactive-infographic-with-svg-and-css-animations/)
 * [SVG Path Animation with Jquery and Illustrator](http://blog.teamtreehouse.com/svg-path-animation-with-jquery-and-illustrator)
 * [Animate SVG with SMIL Adam Guttentag's Blog](http://codepen.io/guttentag/blog/)
+* [How SVG Line Animation Works](http://css-tricks.com/svg-line-animation-works/)
 
 
 ## Responsive
@@ -174,7 +180,6 @@
 * [SVG Compressed by Jakob Jenkov - 2013](http://www.amazon.com/SVG-Compressed-Jakob-Jenkov-ebook/dp/B00EO47BSM)
 * [Gráficos vetoriais escaláveis by Mauricio Samy Silva - 2012 - Pt-Br](http://www.livrosvg.com.br/)
 * [SCALABLE, un libro sobre SVG by Jorge Aznar Tobajas - 2014 - ES](http://www.leanpub.com/scalable/)
-* [Learn SVG Interactively by Jay Nick - 2010](https://itunes.apple.com/us/book/learn-svg-interactively/id384843340?mt=11)
 
 ## SVG Software
 * [Adobe Illustrator](http://www.adobe.com/products/illustrator.html) - $19.99/month
@@ -182,6 +187,7 @@
 * [Webcode](http://www.webcodeapp.com/) - $39.99
 * [iDraw](http://www.indeeo.com/idraw/) - $24.99
 * [Inkscape](http://www.inkscape.org/en/) - Free
+* [Inkpad](https://github.com/sprang/Inkpad) - Free/Open source
 
 
 ## Libraries
@@ -205,6 +211,10 @@
 * [SVG Smil Snippets for Sublime Text 2/3](http://codepen.io/jorgeatgu/blog/svg-smil-snippets-for-sublime-text-2-3)
 
 
+## Fragment Identifiers
+* [W3C Documentation](http://www.w3.org/TR/SVG/linking.html#SVGFragmentIdentifiers)
+* [Using Fragment Identifiers on SVG](http://www.broken-links.com/2012/08/14/better-svg-sprites-with-fragment-identifiers/)
+
 
 ## SVG to Download
 > Programmers doesn't know how to draw, so we can download free svg sources to create beautifull effects.
@@ -216,7 +226,7 @@
 
 
 ## Slides
-* [Play SVG! Utilizando vetores na web](http://goo.gl/eaC0EC) - Pt-Br
+* [Play SVG! Utilizando vetores na web by Willian Justen](http://goo.gl/eaC0EC) - Pt-Br
 * [Whirlwind Tour of SVG (plus RaphaelJS) by Mark Grabanski](http://www.slideshare.net/1Marc/svg-and-raphael-js)
 * [Styling & Animating Scalable Vector Graphics with CSS by Sara Soueidan](https://docs.google.com/presentation/d/1Iuvf3saPCJepVJBDNNDSmSsA0_rwtRYehSmmSSLYFVQ/present#slide=id.p)
 * [Responsive svg by lex Walker](http://slides.com/alexwalker/responsive-svg)
@@ -251,6 +261,7 @@
 * [W3C Standards and Implementors Panel - The Graphical Web 2014](http://youtu.be/TLE3_nmcbWc)
 * [Tutoriel HTML-CSS : Le Format SVG](https://www.youtube.com/watch?v=x3_BJ6tzPqk) - (Fr)
 * [Manipulating SVG With CSS](https://www.youtube.com/watch?v=FW1bwgOhQNo)
+* [The future of gradients in SVG](https://www.youtube.com/watch?v=47nhFrI_P8Y)
 
 ## Sites using SVG
 * [julekalender.vitusapotek.no](http://julekalender.vitusapotek.no/)
@@ -271,10 +282,12 @@
 * [SVG Wow](http://svg-wow.org/)
 * [Great experiments from Codrops](http://tympanus.net/codrops/?s=svg)
 * [Flat Surface Shader](http://matthew.wagerfield.com/flat-surface-shader/)
-
+* [Thousands of experiments by David Dailey](http://srufaculty.sru.edu/david.dailey/svg/)
+* [VectorShapes - svg apps by Peter Schonefeld](http://vectorshapes.com/)
 
 ## Optimizing, Fallbacks and Tools
 * [SVG Optimizer](https://github.com/svg/svgo)
+* [SVG Optimizer GUI](https://github.com/svg/svgo-gui)
 * [Grumpicon](http://www.grumpicon.com/)
 * [SVG Optimisation Basics](http://demosthenes.info/blog/807/SVG-Optimisation-The-Basics)
 * [Scour](http://www.codedread.com/scour/)
@@ -282,7 +295,10 @@
 * [Export SVG for the web with Illustrator](http://creativedroplets.com/export-svg-for-the-web-with-illustrator-cc/)
 * [Optimizing Inkscape SVG size for the Web](http://tavmjong.free.fr/blog/?p=79)
 * [Script to export PSD to SVG](http://hackingui.com/design/export-photoshop-layer-to-svg/)
+* [SVGeezy](http://benhowdle.im/svgeezy/)
 * [SVG Cleaner](https://github.com/RazrFalcon/SVGCleaner)
+* [Export Flash to SVG](http://www.tbyrne.org/export-flash-to-animated-svg)
+* [Using SVG to shrink your pngs](http://peterhrynkow.com/how-to-compress-a-png-like-a-jpeg)
 
 ## Grunt Plugins
 * [Grunt-svgmin](https://www.npmjs.org/package/grunt-svgmin)
@@ -301,6 +317,10 @@
 * [Gulp-svg-icons](https://www.npmjs.org/package/gulp-svg-icons/)
 * [Gulp-svg-sprites](https://www.npmjs.org/package/gulp-svg-sprites/)
 * [Gulp-svgmin](https://www.npmjs.org/package/gulp-svgmin/)
+
+## Groups and Conferences
+* [W3C's SVG WG](http://www.w3.org/Graphics/SVG/)
+* [Graphical Web - Conference](https://www.graphicalweb.org)
 
 ## Follow on Twitter
 * [@SaraSoueidan](https://twitter.com/SaraSoueidan)
