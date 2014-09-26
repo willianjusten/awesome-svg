@@ -282,10 +282,11 @@
 * [Great experiments from Codrops](http://tympanus.net/codrops/?s=svg)
 * [Flat Surface Shader](http://matthew.wagerfield.com/flat-surface-shader/)
 * [Thousands of experiments by David Dailey](http://srufaculty.sru.edu/david.dailey/svg/)
-* [VectorShapes - svg apps by Peter Schonefeld](http://vectorshapes.com/) 
+* [VectorShapes - svg apps by Peter Schonefeld](http://vectorshapes.com/)
 
 ## Optimizing, Fallbacks and Tools
 * [SVG Optimizer](https://github.com/svg/svgo)
+* [SVG Optimizer GUI](https://github.com/svg/svgo-gui)
 * [Grumpicon](http://www.grumpicon.com/)
 * [SVG Optimisation Basics](http://demosthenes.info/blog/807/SVG-Optimisation-The-Basics)
 * [Scour](http://www.codedread.com/scour/)
