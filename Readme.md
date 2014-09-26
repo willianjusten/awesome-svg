@@ -64,6 +64,7 @@
 * [Fontastic](http://fontastic.me/faq)
 * [Useiconic](https://useiconic.com/guides/)
 * [Iconmelon](http://iconmelon.com/)
+* [SVGIcons](http://bbriel.me/svgicons/)
 
 
 ## Text
