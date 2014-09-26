@@ -206,6 +206,7 @@
 * [Lazy Line Painter](http://lazylinepainter.info/)
 * [Path JS](https://github.com/andreaferretti/paths-js)
 * [VelocityJS](http://julian.com/research/velocity/#svg)
+* [SeenJS](https://github.com/themadcreator/seen)
 
 
 ## Snippets
