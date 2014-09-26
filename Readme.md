@@ -239,7 +239,8 @@
 * [Filter Effects](https://docs.google.com/presentation/d/13la132nkDOrQcaZ4XTLteLYxmZ0ud2xHMkv2A6dNlks/mobilepresent#slide=id.p)
 * [You don't know SVG by Dimitry Baranosky]( http://dmitrybaranovskiy.github.io/wdc14presentation/#0)
 * [The future of SVG and Web Standars by Tavmjong Bah]( http://tavmjong.free.fr/SVG/LG_SVG_2013/lg_2013_svgwg.svg#2_0)
-* [The future of gradients in SVG]( https://www.graphicalweb.org/2014/abstracts/9-Advanced_gradients_beyond_SVG_2/future_of_svg_gradients_nikos_andronikos_tgw2014.pdf)
+* [The future of gradients in SVG by Nikos	Andronikos]( https://www.graphicalweb.org/2014/abstracts/9-Advanced_gradients_beyond_SVG_2/future_of_svg_gradients_nikos_andronikos_tgw2014.pdf)
+* [The Power of SVG& the Open Web by Doug Schepers](http://www.w3.org/Talks/2014/schepers-2014-conferenciaweb/)
 
 
 ## Videos
