@@ -165,6 +165,7 @@
 * [Current State of Authoring Accessible SVG](http://schepers.cc/authoring-accessible-svg)
 * [Using ARIA to enhance SVG accessibility](http://www.paciellogroup.com/blog/2013/12/using-aria-enhance-svg-accessibility/)
 * [Great Guide for accessibility](http://a2g.faw.uni-linz.ac.at:8080/svg/jsp/guide.jsp)
+* [Describler make your SVG accessible](http://describler.com/)
 
 
 ## Books
@@ -238,6 +239,7 @@
 * [Filter Effects](https://docs.google.com/presentation/d/13la132nkDOrQcaZ4XTLteLYxmZ0ud2xHMkv2A6dNlks/mobilepresent#slide=id.p)
 * [You don't know SVG by Dimitry Baranosky]( http://dmitrybaranovskiy.github.io/wdc14presentation/#0)
 * [The future of SVG and Web Standars by Tavmjong Bah]( http://tavmjong.free.fr/SVG/LG_SVG_2013/lg_2013_svgwg.svg#2_0)
+* [The future of gradients in SVG]( https://www.graphicalweb.org/2014/abstracts/9-Advanced_gradients_beyond_SVG_2/future_of_svg_gradients_nikos_andronikos_tgw2014.pdf)
 
 
 ## Videos
@@ -262,6 +264,7 @@
 * [Tutoriel HTML-CSS : Le Format SVG](https://www.youtube.com/watch?v=x3_BJ6tzPqk) - (Fr)
 * [Manipulating SVG With CSS](https://www.youtube.com/watch?v=FW1bwgOhQNo)
 * [The future of gradients in SVG](https://www.youtube.com/watch?v=47nhFrI_P8Y)
+* [Animaciones con SVG](https://www.youtube.com/watch?v=vZef4HhybhQ) - (ES)
 
 ## Sites using SVG
 * [julekalender.vitusapotek.no](http://julekalender.vitusapotek.no/)
@@ -284,6 +287,7 @@
 * [Flat Surface Shader](http://matthew.wagerfield.com/flat-surface-shader/)
 * [Thousands of experiments by David Dailey](http://srufaculty.sru.edu/david.dailey/svg/)
 * [VectorShapes - svg apps by Peter Schonefeld](http://vectorshapes.com/)
+* [STAR MAKER](http://svg-whiz.com/svg/StarMaker-FF.svg)
 
 ## Optimizing, Fallbacks and Tools
 * [SVG Optimizer](https://github.com/svg/svgo)
@@ -299,6 +303,8 @@
 * [SVG Cleaner](https://github.com/RazrFalcon/SVGCleaner)
 * [Export Flash to SVG](http://www.tbyrne.org/export-flash-to-animated-svg)
 * [Using SVG to shrink your pngs](http://peterhrynkow.com/how-to-compress-a-png-like-a-jpeg)
+* [SVG MAGIC](https://github.com/dirkgroenen/SVGMagic)
+* [FakeSMILE](http://leunen.me/fakesmile/index.html)
 
 ## Grunt Plugins
 * [Grunt-svgmin](https://www.npmjs.org/package/grunt-svgmin)
@@ -337,6 +343,7 @@
 * [@TheGraphicalWeb](https://twitter.com/TheGraphicalWeb)
 * [@svgeesus](https://twitter.com/svgeesus)
 * [@daviddaileysru](https://twitter.com/daviddaileysru)
+* [@tabatkins](https://twitter.com/tabatkins)
 
 
 ## Thanks to...
