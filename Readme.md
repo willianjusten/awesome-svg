@@ -147,7 +147,6 @@
 * [Animate SVG with SMIL Adam Guttentag's Blog](http://codepen.io/guttentag/blog/)
 * [How SVG Line Animation Works](http://css-tricks.com/svg-line-animation-works/)
 * [Masking SVG Animations](https://medium.com/@gordonnl/stylised-line-animations-ded23320ffe5)
-* [Create Animations and Export to Animated SVG (SMIL)](http://www.animatron.com)
  
 
 ## Responsive
