@@ -147,7 +147,7 @@
 * [Animate SVG with SMIL Adam Guttentag's Blog](http://codepen.io/guttentag/blog/)
 * [How SVG Line Animation Works](http://css-tricks.com/svg-line-animation-works/)
 * [Masking SVG Animations](https://medium.com/@gordonnl/stylised-line-animations-ded23320ffe5)
- 
+
 
 ## Responsive
 > How to use the ability of "Scalable" to create different interactions for multiple devices
@@ -292,6 +292,7 @@
 * [Thousands of experiments by David Dailey](http://srufaculty.sru.edu/david.dailey/svg/)
 * [VectorShapes - svg apps by Peter Schonefeld](http://vectorshapes.com/)
 * [STAR MAKER](http://svg-whiz.com/svg/StarMaker-FF.svg)
+* [SVG Awesome - a collection by Jason Weaver](http://codepen.io/collection/JyolC/)
 
 ## Optimizing, Fallbacks and Tools
 * [SVG Optimizer](https://github.com/svg/svgo)
