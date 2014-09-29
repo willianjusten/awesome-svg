@@ -208,6 +208,8 @@
 * [Path JS](https://github.com/andreaferretti/paths-js)
 * [VelocityJS](http://julian.com/research/velocity/#svg)
 * [SeenJS](https://github.com/themadcreator/seen)
+* [SVGPan](https://code.google.com/p/svgpan/) - for use with SVG 'script' element
+* [svg-pan-zoom](https://github.com/ariutta/svg-pan-zoom) - for use with HTML 'script' element
 
 
 ## Snippets
