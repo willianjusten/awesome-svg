@@ -311,6 +311,7 @@
 * [SVG MAGIC](https://github.com/dirkgroenen/SVGMagic)
 * [FakeSMILE](http://leunen.me/fakesmile/index.html)
 * [Open Source SVG Editor](http://svg-edit.googlecode.com/svn/branches/stable/editor/svg-editor.html)
+* [Orthogonal](https://github.com/davidchambers/orthogonal)
 
 ## Grunt Plugins
 * [Grunt-svgmin](https://www.npmjs.org/package/grunt-svgmin)
