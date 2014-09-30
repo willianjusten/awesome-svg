@@ -191,6 +191,7 @@
 * [Inkscape](http://www.inkscape.org/en/) - Free
 * [Inkpad](https://github.com/sprang/Inkpad) - Free/Open source
 * [Animatron](http://www.animatron.com) - Free
+* [Concepts: Smarter Sketching](http://concepts.tophatch.com) - Free with $5.99 In-App Purchase to unlock PRO which includes SVG export
 
 
 ## Libraries
@@ -208,6 +209,7 @@
 * [Path JS](https://github.com/andreaferretti/paths-js)
 * [VelocityJS](http://julian.com/research/velocity/#svg)
 * [SeenJS](https://github.com/themadcreator/seen)
+* [DrawSVG](https://github.com/petercollingridge/DrawSVG)
 
 
 ## Snippets
@@ -311,6 +313,7 @@
 * [SVG MAGIC](https://github.com/dirkgroenen/SVGMagic)
 * [FakeSMILE](http://leunen.me/fakesmile/index.html)
 * [Open Source SVG Editor](http://svg-edit.googlecode.com/svn/branches/stable/editor/svg-editor.html)
+* [Orthogonal](https://github.com/davidchambers/orthogonal)
 
 ## Grunt Plugins
 * [Grunt-svgmin](https://www.npmjs.org/package/grunt-svgmin)
@@ -319,9 +322,11 @@
 * [Svg fallback](https://www.npmjs.org/package/svg_fallback)
 * [Grunt-svg2png](https://www.npmjs.org/package/grunt-svg2png)
 * [Grunt-svg-sprite](https://www.npmjs.org/package/grunt-svg-sprite)
+* [Grunt-svgstore](https://github.com/FWeinb/grunt-svgstore)
 * [Grunt-iconizr](https://www.npmjs.org/package/grunt-iconizr)
 * [Grunt-svgtemplater](https://www.npmjs.org/package/grunt-svgtemplater)
 * [Grunt-svg-modify](https://www.npmjs.org/package/grunt-svg-modify)
+* [Grunt-contrib-imagemin](https://github.com/gruntjs/grunt-contrib-imagemin)
 
 
 ## Gulp Plugins
