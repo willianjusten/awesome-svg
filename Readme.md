@@ -210,7 +210,8 @@
 * [VelocityJS](http://julian.com/research/velocity/#svg)
 * [SeenJS](https://github.com/themadcreator/seen)
 * [DrawSVG](https://github.com/petercollingridge/DrawSVG)
-
+* [SVGPan](https://code.google.com/p/svgpan/)
+* [svg-pan-zoom](https://github.com/ariutta/svg-pan-zoom)
 
 ## Snippets
 * [SVG Snippets for Sublime Text 2/3](http://codepen.io/jorgeatgu/blog/svg-snippets)
