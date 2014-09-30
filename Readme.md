@@ -324,6 +324,7 @@
 * [Grunt-iconizr](https://www.npmjs.org/package/grunt-iconizr)
 * [Grunt-svgtemplater](https://www.npmjs.org/package/grunt-svgtemplater)
 * [Grunt-svg-modify](https://www.npmjs.org/package/grunt-svg-modify)
+* [Grunt-contrib-imagemin](https://github.com/gruntjs/grunt-contrib-imagemin)
 
 
 ## Gulp Plugins
