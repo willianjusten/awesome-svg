@@ -322,6 +322,7 @@
 * [Svg fallback](https://www.npmjs.org/package/svg_fallback)
 * [Grunt-svg2png](https://www.npmjs.org/package/grunt-svg2png)
 * [Grunt-svg-sprite](https://www.npmjs.org/package/grunt-svg-sprite)
+* [Grunt-svgstore](https://github.com/FWeinb/grunt-svgstore)
 * [Grunt-iconizr](https://www.npmjs.org/package/grunt-iconizr)
 * [Grunt-svgtemplater](https://www.npmjs.org/package/grunt-svgtemplater)
 * [Grunt-svg-modify](https://www.npmjs.org/package/grunt-svg-modify)
