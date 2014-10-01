@@ -205,6 +205,7 @@
 * [SVGRef](http://keith-wood.name/svgRef.html)
 * [VLEX](https://github.com/indus/VLEX)
 * [Chartist.js](http://gionkunz.github.io/chartist-js/)
+* [Highcharts](http://www.highcharts.com/)
 * [Lazy Line Painter](http://lazylinepainter.info/)
 * [Path JS](https://github.com/andreaferretti/paths-js)
 * [VelocityJS](http://julian.com/research/velocity/#svg)
