@@ -58,6 +58,7 @@
 * [Icon System with SVG Sprites](http://css-tricks.com/svg-sprites-use-better-icon-fonts/)
 * [Icon Fonts vs SVG](http://css-tricks.com/icon-fonts-vs-svg/)
 * [Ten reasons we switched from an icon font to SVG](http://ianfeather.co.uk/ten-reasons-we-switched-from-an-icon-font-to-svg/)
+* [SVG and icon-fonts the future of iconography](http://www.pencilscoop.com/2013/11/svg-and-icon-fonts-the-future-of-iconography/)
 * [SVG symbol a Good Choice for Icons](http://css-tricks.com/svg-symbol-good-choice-icons/)
 * [SVG use with External Source](http://css-tricks.com/svg-use-external-source/)
 * [Cascading SVG Fill Color](http://css-tricks.com/cascading-svg-fill-color/)
