@@ -59,10 +59,12 @@
 * [Icon Fonts vs SVG](http://css-tricks.com/icon-fonts-vs-svg/)
 * [Ten reasons we switched from an icon font to SVG](http://ianfeather.co.uk/ten-reasons-we-switched-from-an-icon-font-to-svg/)
 * [SVG and icon-fonts the future of iconography](http://www.pencilscoop.com/2013/11/svg-and-icon-fonts-the-future-of-iconography/)
+* [Manipulating svg icons with simple css](http://webdesign.tutsplus.com/articles/manipulating-svg-icons-with-simple-css--webdesign-15694)
 * [SVG symbol a Good Choice for Icons](http://css-tricks.com/svg-symbol-good-choice-icons/)
 * [SVG use with External Source](http://css-tricks.com/svg-use-external-source/)
 * [Cascading SVG Fill Color](http://css-tricks.com/cascading-svg-fill-color/)
 * [Google Fundamentals - Use SVG as icons](https://developers.google.com/web/fundamentals/media/images/use-icons)
+* [150+ Free Animated SVG Icons](http://www.pencilscoop.com/demos/animated-svg/demo/index.html)
 * [Fontastic](http://fontastic.me/faq)
 * [Useiconic](https://useiconic.com/guides/)
 * [Iconmelon](http://iconmelon.com/)
@@ -319,6 +321,7 @@
 * [FakeSMILE](http://leunen.me/fakesmile/index.html)
 * [Open Source SVG Editor](http://svg-edit.googlecode.com/svn/branches/stable/editor/svg-editor.html)
 * [Orthogonal](https://github.com/davidchambers/orthogonal)
+* [Iconizr](http://iconizr.com/)
 
 ## Grunt Plugins
 * [Grunt-svgmin](https://www.npmjs.org/package/grunt-svgmin)
