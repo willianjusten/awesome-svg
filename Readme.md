@@ -238,7 +238,7 @@
 * [Whirlwind Tour of SVG (plus RaphaelJS) by Mark Grabanski](http://www.slideshare.net/1Marc/svg-and-raphael-js)
 * [Styling & Animating Scalable Vector Graphics with CSS by Sara Soueidan](https://docs.google.com/presentation/d/1Iuvf3saPCJepVJBDNNDSmSsA0_rwtRYehSmmSSLYFVQ/present#slide=id.p)
 * [Responsive svg by lex Walker](http://slides.com/alexwalker/responsive-svg)
-* [Leaving Pixels Behind by Todd Parker](https://docs.google.com/presentation/d/1CNQLbqC0krocy_fZrM5fZ-YmQ2JgEADRh3qR6RbOOGk/edit#slide=id.p)
+* [Leaving Pixels Behind by Todd Parker](http://goo.gl/BtQu5U)
 * [SVG by James Coleman](https://speakerdeck.com/ojame/svg)
 * [SVG for the Responsive Web by Jan van Hellemond](https://speakerdeck.com/jvhellemond/svg-for-the-responsive-web)
 * [Next Level SVG by Ilya Pukhalski](https://speakerdeck.com/pukhalski/next-level-svg)
