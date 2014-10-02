@@ -218,6 +218,7 @@
 * [DrawSVG](https://github.com/petercollingridge/DrawSVG)
 * [SVGPan](https://code.google.com/p/svgpan/)
 * [svg-pan-zoom](https://github.com/ariutta/svg-pan-zoom)
+* [C3.js](https://github.com/masayuki0812/c3)
 
 ## Snippets
 * [SVG Snippets for Sublime Text 2/3](http://codepen.io/jorgeatgu/blog/svg-snippets)
