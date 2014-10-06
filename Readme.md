@@ -255,6 +255,7 @@
 * [The future of SVG and Web Standars by Tavmjong Bah]( http://tavmjong.free.fr/SVG/LG_SVG_2013/lg_2013_svgwg.svg#2_0)
 * [The future of gradients in SVG by Nikos	Andronikos]( https://www.graphicalweb.org/2014/abstracts/9-Advanced_gradients_beyond_SVG_2/future_of_svg_gradients_nikos_andronikos_tgw2014.pdf)
 * [The Power of SVG& the Open Web by Doug Schepers](http://www.w3.org/Talks/2014/schepers-2014-conferenciaweb/)
+* [SVG Sprites: Basic Usage and More by Cody J Landstrom](http://landstrom.co/svg-sprite-slides/)
 
 
 ## Videos
