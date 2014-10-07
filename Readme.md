@@ -340,7 +340,7 @@
 * [Grunt-svgtemplater](https://www.npmjs.org/package/grunt-svgtemplater)
 * [Grunt-svg-modify](https://www.npmjs.org/package/grunt-svg-modify)
 * [Grunt-contrib-imagemin](https://github.com/gruntjs/grunt-contrib-imagemin)
-
+* [Grunt-dr-svg-sprites](https://github.com/drdk/grunt-dr-svg-sprites)
 
 ## Gulp Plugins
 * [Gulp-rsvg](https://www.npmjs.org/package/gulp-rsvg/)
