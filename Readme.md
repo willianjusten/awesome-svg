@@ -83,6 +83,7 @@
 * [Cross Browser svg text paths without javascript even in older ie](http://www.useragentman.com/blog/2013/05/20/cross-browser-svg-text-paths-without-javascript-even-in-older-ie/)
 * [Flowed text in SVG: One step forward, one step back](http://tavmjong.free.fr/blog/?p=938)
 * [Fitter Happier Text](http://jxnblk.github.io/fitter-happier-text/)
+* [Animated SVG Font](http://buseca.github.io/letterbolt/)
 
 ## Patterns
 > How to use, how they work and some tools to create patterns.
