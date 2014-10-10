@@ -71,6 +71,8 @@
 * [Useiconic](https://useiconic.com/guides/)
 * [Iconmelon](http://iconmelon.com/)
 * [SVGIcons](http://bbriel.me/svgicons/)
+* [SVG ICONS SOCIAL](http://jorgeatgu.github.io/demo)
+* [SVG ICONS NewBancomail](http://elrumordelaluz.github.io/newbancomail/svg.html)
 
 
 ## Text
@@ -157,6 +159,7 @@
 * [Masking SVG Animations](https://medium.com/@gordonnl/stylised-line-animations-ded23320ffe5)
 * [Animating SVG with clipping masks and css](http://www.pencilscoop.com/2014/02/animating-svg-with-clipping-masks-and-css/)
 * [Loading Animation with SVG](https://github.com/jxnblk/loading)
+* [SVG animation with SMIL a collection by Jorge Aznar](http://codepen.io/collection/chefj/)
 
 
 ## Responsive
@@ -262,6 +265,7 @@
 * [The future of gradients in SVG by Nikos	Andronikos]( https://www.graphicalweb.org/2014/abstracts/9-Advanced_gradients_beyond_SVG_2/future_of_svg_gradients_nikos_andronikos_tgw2014.pdf)
 * [The Power of SVG& the Open Web by Doug Schepers](http://www.w3.org/Talks/2014/schepers-2014-conferenciaweb/)
 * [SVG Sprites: Basic Usage and More by Cody J Landstrom](http://landstrom.co/svg-sprite-slides/)
+* [Animating SVG with CSS and SMIL by Sara Soueidan](http://slides.com/sarasoueidan/animating-svg-with-css-and-smil-full-version#/)
 
 
 ## Videos
@@ -311,6 +315,8 @@
 * [VectorShapes - svg apps by Peter Schonefeld](http://vectorshapes.com/)
 * [STAR MAKER](http://svg-whiz.com/svg/StarMaker-FF.svg)
 * [SVG Awesome - a collection by Jason Weaver](http://codepen.io/collection/JyolC/)
+* [SVG MAGAZINE](http://svgmagazine.com/oct2014/)
+
 
 ## Optimizing, Fallbacks and Tools
 * [SVG Optimizer](https://github.com/svg/svgo)
