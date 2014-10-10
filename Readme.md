@@ -45,6 +45,7 @@
 * [A bit about SVG](http://seesparkbox.com/foundry/a_bit_about_svg)
 * [An SVG Primer for Today's Browsers](http://www.w3.org/Graphics/SVG/IG/resources/svgprimer.html)
 * [Tutorials by WebPlatform](http://docs.webplatform.org/wiki/svg)
+* [Structuring, Grouping, and Referencing in SVG](http://sarasoueidan.com/blog/structuring-grouping-referencing-in-svg/ "<g>, <use>, <defs> and <symbol> elements")
 * Understanding SVG Coordinate Systems & Transformations [Part 1](http://sarasoueidan.com/blog/svg-coordinate-systems/ "The viewport, viewBox, & preserveAspectRatio"), [Part 2](http://sarasoueidan.com/blog/svg-transformations/ "The transform Attribute"), [Part 3](http://sarasoueidan.com/blog/nesting-svgs/ "Establishing New Viewports")
 * [Um pouco sobre SVG](http://simplesideias.com.br/um-pouco-sobre-svg) - (Pt-Br)
 * [Entendendo e Usando o SVG](http://www.devmedia.com.br/entendendo-e-usando-o-svg/19773) - (Pt-Br)
