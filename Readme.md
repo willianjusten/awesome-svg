@@ -37,6 +37,7 @@
 * [Why arent you using SVG?](http://code.tutsplus.com/tutorials/why-arent-you-using-svg--net-25414)
 * [SVGBasics](http://www.svgbasics.com/)
 * [Using SVG](http://css-tricks.com/using-svg/)
+* [Injecting SVG with Javascript](http://www.pencilscoop.com/2014/04/injecting-svg-with-javascript/)
 * [MDN docs about SVG](https://developer.mozilla.org/en-US/docs/Web/SVG)
 * [Add svg to web page](http://www.sitepoint.com/add-svg-to-web-page/)
 * [W3C Docs](http://www.w3.org/Graphics/SVG/)
@@ -44,6 +45,8 @@
 * [A bit about SVG](http://seesparkbox.com/foundry/a_bit_about_svg)
 * [An SVG Primer for Today's Browsers](http://www.w3.org/Graphics/SVG/IG/resources/svgprimer.html)
 * [Tutorials by WebPlatform](http://docs.webplatform.org/wiki/svg)
+* [Structuring, Grouping, and Referencing in SVG](http://sarasoueidan.com/blog/structuring-grouping-referencing-in-svg/ "<g>, <use>, <defs> and <symbol> elements")
+* Understanding SVG Coordinate Systems & Transformations [Part 1](http://sarasoueidan.com/blog/svg-coordinate-systems/ "The viewport, viewBox, & preserveAspectRatio"), [Part 2](http://sarasoueidan.com/blog/svg-transformations/ "The transform Attribute"), [Part 3](http://sarasoueidan.com/blog/nesting-svgs/ "Establishing New Viewports")
 * [Um pouco sobre SVG](http://simplesideias.com.br/um-pouco-sobre-svg) - (Pt-Br)
 * [Entendendo e Usando o SVG](http://www.devmedia.com.br/entendendo-e-usando-o-svg/19773) - (Pt-Br)
 * [Imagens em alta resolução utilizando SVG](http://tableless.com.br/imagens-em-alta-resolucao-utilizando-svg/) - (Pt-Br)
@@ -57,10 +60,13 @@
 * [Icon System with SVG Sprites](http://css-tricks.com/svg-sprites-use-better-icon-fonts/)
 * [Icon Fonts vs SVG](http://css-tricks.com/icon-fonts-vs-svg/)
 * [Ten reasons we switched from an icon font to SVG](http://ianfeather.co.uk/ten-reasons-we-switched-from-an-icon-font-to-svg/)
+* [SVG and icon-fonts the future of iconography](http://www.pencilscoop.com/2013/11/svg-and-icon-fonts-the-future-of-iconography/)
+* [Manipulating svg icons with simple css](http://webdesign.tutsplus.com/articles/manipulating-svg-icons-with-simple-css--webdesign-15694)
 * [SVG symbol a Good Choice for Icons](http://css-tricks.com/svg-symbol-good-choice-icons/)
 * [SVG use with External Source](http://css-tricks.com/svg-use-external-source/)
 * [Cascading SVG Fill Color](http://css-tricks.com/cascading-svg-fill-color/)
 * [Google Fundamentals - Use SVG as icons](https://developers.google.com/web/fundamentals/media/images/use-icons)
+* [150+ Free Animated SVG Icons](http://www.pencilscoop.com/demos/animated-svg/demo/index.html)
 * [Fontastic](http://fontastic.me/faq)
 * [Useiconic](https://useiconic.com/guides/)
 * [Iconmelon](http://iconmelon.com/)
@@ -79,6 +85,7 @@
 * [Cross Browser svg text paths without javascript even in older ie](http://www.useragentman.com/blog/2013/05/20/cross-browser-svg-text-paths-without-javascript-even-in-older-ie/)
 * [Flowed text in SVG: One step forward, one step back](http://tavmjong.free.fr/blog/?p=938)
 * [Fitter Happier Text](http://jxnblk.github.io/fitter-happier-text/)
+* [Animated SVG Font](http://buseca.github.io/letterbolt/)
 
 ## Patterns
 > How to use, how they work and some tools to create patterns.
@@ -92,6 +99,7 @@
 * [SVGeneration - SVG generator](http://www.svgeneration.com/)
 * [Patternbolt - Pack a pattern svg into css or scss](http://buseca.github.io/patternbolt/)
 * [SVG Patterns Gallery](http://philbit.com/svgpatterns/)
+* [Gerstnerizer](http://eskimoblood.github.io/gerstnerizer/)
 
 
 ## Gradients
@@ -146,6 +154,9 @@
 * [SVG Path Animation with Jquery and Illustrator](http://blog.teamtreehouse.com/svg-path-animation-with-jquery-and-illustrator)
 * [Animate SVG with SMIL Adam Guttentag's Blog](http://codepen.io/guttentag/blog/)
 * [How SVG Line Animation Works](http://css-tricks.com/svg-line-animation-works/)
+* [Masking SVG Animations](https://medium.com/@gordonnl/stylised-line-animations-ded23320ffe5)
+* [Animating SVG with clipping masks and css](http://www.pencilscoop.com/2014/02/animating-svg-with-clipping-masks-and-css/)
+* [Loading Animation with SVG](https://github.com/jxnblk/loading)
 
 
 ## Responsive
@@ -189,6 +200,8 @@
 * [iDraw](http://www.indeeo.com/idraw/) - $24.99
 * [Inkscape](http://www.inkscape.org/en/) - Free
 * [Inkpad](https://github.com/sprang/Inkpad) - Free/Open source
+* [Animatron](http://www.animatron.com) - Free
+* [Concepts: Smarter Sketching](http://concepts.tophatch.com) - Free with $5.99 In-App Purchase to unlock PRO which includes SVG export
 
 
 ## Libraries
@@ -202,10 +215,16 @@
 * [SVGRef](http://keith-wood.name/svgRef.html)
 * [VLEX](https://github.com/indus/VLEX)
 * [Chartist.js](http://gionkunz.github.io/chartist-js/)
+* [Highcharts](http://www.highcharts.com/)
 * [Lazy Line Painter](http://lazylinepainter.info/)
 * [Path JS](https://github.com/andreaferretti/paths-js)
 * [VelocityJS](http://julian.com/research/velocity/#svg)
-
+* [SeenJS](https://github.com/themadcreator/seen)
+* [DrawSVG](https://github.com/petercollingridge/DrawSVG)
+* [SVGPan](https://code.google.com/p/svgpan/)
+* [svg-pan-zoom](https://github.com/ariutta/svg-pan-zoom)
+* [C3.js](https://github.com/masayuki0812/c3)
+* [SvgVerlet.js](https://github.com/miketucker/svg-verlet.js)
 
 ## Snippets
 * [SVG Snippets for Sublime Text 2/3](http://codepen.io/jorgeatgu/blog/svg-snippets)
@@ -224,6 +243,7 @@
 * [The Noun Project](http://thenounproject.com/)
 * [Vecteezy](http://www.vecteezy.com/)
 * [Pinterest - SVG](http://www.pinterest.com/ligayatg/svg-files-free/)
+* [110 best hight quality free flat design icon pack](http://www.pencilscoop.com/2013/07/110-best-high-quality-free-flat-design-icon-packs/)
 
 
 ## Slides
@@ -231,7 +251,7 @@
 * [Whirlwind Tour of SVG (plus RaphaelJS) by Mark Grabanski](http://www.slideshare.net/1Marc/svg-and-raphael-js)
 * [Styling & Animating Scalable Vector Graphics with CSS by Sara Soueidan](https://docs.google.com/presentation/d/1Iuvf3saPCJepVJBDNNDSmSsA0_rwtRYehSmmSSLYFVQ/present#slide=id.p)
 * [Responsive svg by lex Walker](http://slides.com/alexwalker/responsive-svg)
-* [Leaving Pixels Behind by Todd Parker](https://docs.google.com/presentation/d/1CNQLbqC0krocy_fZrM5fZ-YmQ2JgEADRh3qR6RbOOGk/edit#slide=id.p)
+* [Leaving Pixels Behind by Todd Parker](http://goo.gl/BtQu5U)
 * [SVG by James Coleman](https://speakerdeck.com/ojame/svg)
 * [SVG for the Responsive Web by Jan van Hellemond](https://speakerdeck.com/jvhellemond/svg-for-the-responsive-web)
 * [Next Level SVG by Ilya Pukhalski](https://speakerdeck.com/pukhalski/next-level-svg)
@@ -239,7 +259,9 @@
 * [Filter Effects](https://docs.google.com/presentation/d/13la132nkDOrQcaZ4XTLteLYxmZ0ud2xHMkv2A6dNlks/mobilepresent#slide=id.p)
 * [You don't know SVG by Dimitry Baranosky]( http://dmitrybaranovskiy.github.io/wdc14presentation/#0)
 * [The future of SVG and Web Standars by Tavmjong Bah]( http://tavmjong.free.fr/SVG/LG_SVG_2013/lg_2013_svgwg.svg#2_0)
-* [The future of gradients in SVG]( https://www.graphicalweb.org/2014/abstracts/9-Advanced_gradients_beyond_SVG_2/future_of_svg_gradients_nikos_andronikos_tgw2014.pdf)
+* [The future of gradients in SVG by Nikos	Andronikos]( https://www.graphicalweb.org/2014/abstracts/9-Advanced_gradients_beyond_SVG_2/future_of_svg_gradients_nikos_andronikos_tgw2014.pdf)
+* [The Power of SVG& the Open Web by Doug Schepers](http://www.w3.org/Talks/2014/schepers-2014-conferenciaweb/)
+* [SVG Sprites: Basic Usage and More by Cody J Landstrom](http://landstrom.co/svg-sprite-slides/)
 
 
 ## Videos
@@ -288,6 +310,7 @@
 * [Thousands of experiments by David Dailey](http://srufaculty.sru.edu/david.dailey/svg/)
 * [VectorShapes - svg apps by Peter Schonefeld](http://vectorshapes.com/)
 * [STAR MAKER](http://svg-whiz.com/svg/StarMaker-FF.svg)
+* [SVG Awesome - a collection by Jason Weaver](http://codepen.io/collection/JyolC/)
 
 ## Optimizing, Fallbacks and Tools
 * [SVG Optimizer](https://github.com/svg/svgo)
@@ -305,6 +328,9 @@
 * [Using SVG to shrink your pngs](http://peterhrynkow.com/how-to-compress-a-png-like-a-jpeg)
 * [SVG MAGIC](https://github.com/dirkgroenen/SVGMagic)
 * [FakeSMILE](http://leunen.me/fakesmile/index.html)
+* [Open Source SVG Editor](http://svg-edit.googlecode.com/svn/branches/stable/editor/svg-editor.html)
+* [Orthogonal](https://github.com/davidchambers/orthogonal)
+* [Iconizr](http://iconizr.com/)
 
 ## Grunt Plugins
 * [Grunt-svgmin](https://www.npmjs.org/package/grunt-svgmin)
@@ -313,10 +339,12 @@
 * [Svg fallback](https://www.npmjs.org/package/svg_fallback)
 * [Grunt-svg2png](https://www.npmjs.org/package/grunt-svg2png)
 * [Grunt-svg-sprite](https://www.npmjs.org/package/grunt-svg-sprite)
+* [Grunt-svgstore](https://github.com/FWeinb/grunt-svgstore)
 * [Grunt-iconizr](https://www.npmjs.org/package/grunt-iconizr)
 * [Grunt-svgtemplater](https://www.npmjs.org/package/grunt-svgtemplater)
 * [Grunt-svg-modify](https://www.npmjs.org/package/grunt-svg-modify)
-
+* [Grunt-contrib-imagemin](https://github.com/gruntjs/grunt-contrib-imagemin)
+* [Grunt-dr-svg-sprites](https://github.com/drdk/grunt-dr-svg-sprites)
 
 ## Gulp Plugins
 * [Gulp-rsvg](https://www.npmjs.org/package/gulp-rsvg/)
