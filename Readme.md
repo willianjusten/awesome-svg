@@ -160,6 +160,7 @@
 * [Animating SVG with clipping masks and css](http://www.pencilscoop.com/2014/02/animating-svg-with-clipping-masks-and-css/)
 * [Loading Animation with SVG](https://github.com/jxnblk/loading)
 * [SVG animation with SMIL a collection by Jorge Aznar](http://codepen.io/collection/chefj/)
+* [A Guide to SVG Animations (SMIL) by Sara Soueidan](http://css-tricks.com/guide-svg-animations-smil/)
 
 
 ## Responsive
