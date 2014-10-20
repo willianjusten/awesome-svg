@@ -206,6 +206,7 @@
 * [Inkpad](https://github.com/sprang/Inkpad) - Free/Open source
 * [Animatron](http://www.animatron.com) - Free
 * [Concepts: Smarter Sketching](http://concepts.tophatch.com) - Free with $5.99 In-App Purchase to unlock PRO which includes SVG export
+* [Affinity Designer](https://affinity.serif.com/) - $49.99
 
 
 ## Libraries
@@ -292,6 +293,9 @@
 * [Manipulating SVG With CSS](https://www.youtube.com/watch?v=FW1bwgOhQNo)
 * [The future of gradients in SVG](https://www.youtube.com/watch?v=47nhFrI_P8Y)
 * [Animaciones con SVG](https://www.youtube.com/watch?v=vZef4HhybhQ) - (ES)
+* [SVG 2 For the Artist and Developer with Tavmjong Bah](http://youtu.be/UL2-ZAyvXOM)
+* [Augmenting Animations and Interactivity in SVG with Devina Coutinho](http://youtu.be/oIRITi6IcWQ)
+
 
 ## Sites using SVG
 * [julekalender.vitusapotek.no](http://julekalender.vitusapotek.no/)
@@ -317,7 +321,7 @@
 * [STAR MAKER](http://svg-whiz.com/svg/StarMaker-FF.svg)
 * [SVG Awesome - a collection by Jason Weaver](http://codepen.io/collection/JyolC/)
 * [SVG MAGAZINE](http://svgmagazine.com/oct2014/)
-
+* [Annoshape by Shepazu](http://shepazu.github.io/annoshape/annoshape.html)
 
 ## Optimizing, Fallbacks and Tools
 * [SVG Optimizer](https://github.com/svg/svgo)
@@ -338,6 +342,7 @@
 * [Open Source SVG Editor](http://svg-edit.googlecode.com/svn/branches/stable/editor/svg-editor.html)
 * [Orthogonal](https://github.com/davidchambers/orthogonal)
 * [Iconizr](http://iconizr.com/)
+* [ZorroSVG - Put a Mask on it](http://quasimondo.com/ZorroSVG/)
 
 ## Grunt Plugins
 * [Grunt-svgmin](https://www.npmjs.org/package/grunt-svgmin)
