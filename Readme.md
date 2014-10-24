@@ -232,6 +232,7 @@
 * [svg-pan-zoom](https://github.com/ariutta/svg-pan-zoom)
 * [C3.js](https://github.com/masayuki0812/c3)
 * [SvgVerlet.js](https://github.com/miketucker/svg-verlet.js)
+* [WebFrames](https://github.com/webframes/webframes)
 
 ## Snippets
 * [SVG Snippets for Sublime Text 2/3](http://codepen.io/jorgeatgu/blog/svg-snippets)
