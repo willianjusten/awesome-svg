@@ -346,6 +346,7 @@
 * [Orthogonal](https://github.com/davidchambers/orthogonal)
 * [Iconizr](http://iconizr.com/)
 * [ZorroSVG - Put a Mask on it](http://quasimondo.com/ZorroSVG/)
+* [Optimizing SVG for Web](http://web-design-weekly.com/2014/10/22/optimizing-svg-web/)
 
 ## Grunt Plugins
 * [Grunt-svgmin](https://www.npmjs.org/package/grunt-svgmin)
