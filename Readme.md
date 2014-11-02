@@ -165,6 +165,7 @@
 * [Loading Animation with SVG](https://github.com/jxnblk/loading)
 * [SVG animation with SMIL a collection by Jorge Aznar](http://codepen.io/collection/chefj/)
 * [A Guide to SVG Animations (SMIL) by Sara Soueidan](http://css-tricks.com/guide-svg-animations-smil/)
+* [Animate SVG Icons with css and Snap](http://codyhouse.co/gem/animate-svg-icons-with-css-and-snap/)
 
 
 ## Responsive
