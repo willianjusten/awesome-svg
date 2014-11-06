@@ -51,6 +51,7 @@
 * [How SVG Shape Morphing Works](http://css-tricks.com/svg-shape-morphing-works/)
 * Understanding SVG Coordinate Systems & Transformations [Part 1](http://sarasoueidan.com/blog/svg-coordinate-systems/ "The viewport, viewBox, & preserveAspectRatio"), [Part 2](http://sarasoueidan.com/blog/svg-transformations/ "The transform Attribute"), [Part 3](http://sarasoueidan.com/blog/nesting-svgs/ "Establishing New Viewports")
 * [Clipping in CSS and SVG](http://sarasoueidan.com/blog/css-svg-clipping/)
+* [Export SVG for the web with Illustrator CC](http://creativedroplets.com/export-svg-for-the-web-with-illustrator-cc/)
 * [Um pouco sobre SVG](http://simplesideias.com.br/um-pouco-sobre-svg) - (Pt-Br)
 * [Entendendo e Usando o SVG](http://www.devmedia.com.br/entendendo-e-usando-o-svg/19773) - (Pt-Br)
 * [Imagens em alta resolução utilizando SVG](http://tableless.com.br/imagens-em-alta-resolucao-utilizando-svg/) - (Pt-Br)
@@ -166,6 +167,7 @@
 * [SVG animation with SMIL a collection by Jorge Aznar](http://codepen.io/collection/chefj/)
 * [A Guide to SVG Animations (SMIL) by Sara Soueidan](http://css-tricks.com/guide-svg-animations-smil/)
 * [Animate SVG Icons with css and Snap](http://codyhouse.co/gem/animate-svg-icons-with-css-and-snap/)
+* [Styling And Animating SVGs With CSS](http://www.smashingmagazine.com/2014/11/03/styling-and-animating-svgs-with-css/)
 
 
 ## Responsive
