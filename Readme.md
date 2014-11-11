@@ -12,7 +12,7 @@
 	- [Animation](#animation)
 	- [Responsive](#responsive)
 	- [Accessible SVG](#accessible-svg)
-	- [Books](#books)
+	- [Books](#books) 
 	- [SVG Software](#svg-software)
 	- [Libraries](#libraries)
 	- [Snippets](#snippets)
@@ -168,6 +168,7 @@
 * [A Guide to SVG Animations (SMIL) by Sara Soueidan](http://css-tricks.com/guide-svg-animations-smil/)
 * [Animate SVG Icons with css and Snap](http://codyhouse.co/gem/animate-svg-icons-with-css-and-snap/)
 * [Styling And Animating SVGs With CSS](http://www.smashingmagazine.com/2014/11/03/styling-and-animating-svgs-with-css/)
+* [SVG Animation and CSS Transforms: A Complicated Love Story](http://css-tricks.com/svg-animation-on-css-transforms/)
 
 
 ## Responsive
