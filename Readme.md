@@ -12,7 +12,7 @@
 	- [Animation](#animation)
 	- [Responsive](#responsive)
 	- [Accessible SVG](#accessible-svg)
-	- [Books](#books) 
+	- [Books](#books)
 	- [SVG Software](#svg-software)
 	- [Libraries](#libraries)
 	- [Snippets](#snippets)
@@ -240,6 +240,7 @@
 * [SvgVerlet.js](https://github.com/miketucker/svg-verlet.js)
 * [WebFrames](https://github.com/webframes/webframes)
 * [Walkway](http://www.connoratherton.com/walkway)
+* [Vivus](http://maxwellito.github.io/vivus/)
 
 ## Snippets
 * [SVG Snippets for Sublime Text 2/3](http://codepen.io/jorgeatgu/blog/svg-snippets)
