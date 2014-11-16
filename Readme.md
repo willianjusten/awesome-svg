@@ -279,6 +279,7 @@
 * [The Power of SVG& the Open Web by Doug Schepers](http://www.w3.org/Talks/2014/schepers-2014-conferenciaweb/)
 * [SVG Sprites: Basic Usage and More by Cody J Landstrom](http://landstrom.co/svg-sprite-slides/)
 * [Animating SVG with CSS and SMIL by Sara Soueidan](http://slides.com/sarasoueidan/animating-svg-with-css-and-smil-full-version#/)
+* [SVG - De volta e para o futuro by Maujor](http://www.slideshare.net/Maujor/svg-de-volta-e-paara-o-futuro) Pt-Br
 
 
 ## Videos
