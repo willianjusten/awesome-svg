@@ -34,7 +34,8 @@
 ## Basics
 > How to use, documentation, elements and everything else to start the studies about SVG.
 
-* [Why arent you using SVG?](http://code.tutsplus.com/tutorials/why-arent-you-using-svg--net-25414)
+* [Why arent you using SVG?](http://code.tutsplus.com/tutorials/why-arent-you-using-svg--net-25414)  
+* [The Once and Future SVG](http://radar.oreilly.com/2014/11/the-once-and-future-svg.html)
 * [SVGBasics](http://www.svgbasics.com/)
 * [Using SVG](http://css-tricks.com/using-svg/)
 * [Injecting SVG with Javascript](http://www.pencilscoop.com/2014/04/injecting-svg-with-javascript/)
@@ -46,6 +47,7 @@
 * [An SVG Primer for Today's Browsers](http://www.w3.org/Graphics/SVG/IG/resources/svgprimer.html)
 * [Tutorials by WebPlatform](http://docs.webplatform.org/wiki/svg)
 * [Structuring, Grouping, and Referencing in SVG](http://sarasoueidan.com/blog/structuring-grouping-referencing-in-svg/)
+* [5 Gotchas You’re Gonna Face Getting Inline SVG Into Production](http://css-tricks.com/gotchas-on-getting-svg-into-production/)
 * [A Look At SVG viewBox and viewport](http://jonibologna.com/svg-viewbox-and-viewport/)
 * [SVG Artboard Sizing](http://css-tricks.com/svg-artboard-sizing/)
 * [How SVG Shape Morphing Works](http://css-tricks.com/svg-shape-morphing-works/)
@@ -263,6 +265,7 @@
 
 
 ## Slides
+* [Working with SVG - A Primer](http://slides.com/sarasoueidan/working-with-svg-a-primer#/)
 * [Play SVG! Utilizando vetores na web by Willian Justen](http://goo.gl/eaC0EC) - Pt-Br
 * [Whirlwind Tour of SVG (plus RaphaelJS) by Mark Grabanski](http://www.slideshare.net/1Marc/svg-and-raphael-js)
 * [Styling & Animating Scalable Vector Graphics with CSS by Sara Soueidan](https://docs.google.com/presentation/d/1Iuvf3saPCJepVJBDNNDSmSsA0_rwtRYehSmmSSLYFVQ/present#slide=id.p)
@@ -356,6 +359,7 @@
 * [Iconizr](http://iconizr.com/)
 * [ZorroSVG - Put a Mask on it](http://quasimondo.com/ZorroSVG/)
 * [Optimizing SVG for Web](http://web-design-weekly.com/2014/10/22/optimizing-svg-web/)
+* [Brackets-svg-code-hints](https://github.com/sprintr/brackets-svg-code-hints)
 
 ## Grunt Plugins
 * [Grunt-svgmin](https://www.npmjs.org/package/grunt-svgmin)
@@ -416,4 +420,3 @@ Your contributions are always welcome! [Click Here to read the guidelines](https
 [![CC0](https://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)
 
 To the extent possible under law, [Willian Justen](http://github.com/willianjusten) has waived all copyright and related or neighboring rights to this work.
-
