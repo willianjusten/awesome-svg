@@ -54,6 +54,7 @@
 * Understanding SVG Coordinate Systems & Transformations [Part 1](http://sarasoueidan.com/blog/svg-coordinate-systems/ "The viewport, viewBox, & preserveAspectRatio"), [Part 2](http://sarasoueidan.com/blog/svg-transformations/ "The transform Attribute"), [Part 3](http://sarasoueidan.com/blog/nesting-svgs/ "Establishing New Viewports")
 * [Clipping in CSS and SVG](http://sarasoueidan.com/blog/css-svg-clipping/)
 * [Export SVG for the web with Illustrator CC](http://creativedroplets.com/export-svg-for-the-web-with-illustrator-cc/)
+* [The ultimate SVG guide Infographic](https://psdtowp.net/svg.html)
 * [Um pouco sobre SVG](http://simplesideias.com.br/um-pouco-sobre-svg) - (Pt-Br)
 * [Entendendo e Usando o SVG](http://www.devmedia.com.br/entendendo-e-usando-o-svg/19773) - (Pt-Br)
 * [Imagens em alta resolução utilizando SVG](http://tableless.com.br/imagens-em-alta-resolucao-utilizando-svg/) - (Pt-Br)
