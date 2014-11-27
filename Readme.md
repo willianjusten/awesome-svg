@@ -55,6 +55,7 @@
 * [Clipping in CSS and SVG](http://sarasoueidan.com/blog/css-svg-clipping/)
 * [Export SVG for the web with Illustrator CC](http://creativedroplets.com/export-svg-for-the-web-with-illustrator-cc/)
 * [The ultimate SVG guide Infographic](https://psdtowp.net/svg.html)
+* [Getting to the point](http://schepers.cc/getting-to-the-point)
 * [Um pouco sobre SVG](http://simplesideias.com.br/um-pouco-sobre-svg) - (Pt-Br)
 * [Entendendo e Usando o SVG](http://www.devmedia.com.br/entendendo-e-usando-o-svg/19773) - (Pt-Br)
 * [Imagens em alta resolução utilizando SVG](http://tableless.com.br/imagens-em-alta-resolucao-utilizando-svg/) - (Pt-Br)
@@ -73,6 +74,7 @@
 * [SVG symbol a Good Choice for Icons](http://css-tricks.com/svg-symbol-good-choice-icons/)
 * [SVG use with External Source](http://css-tricks.com/svg-use-external-source/)
 * [Cascading SVG Fill Color](http://css-tricks.com/cascading-svg-fill-color/)
+* [Customizable svg icons css variables](http://codepen.io/AmeliaBR/thoughts/customizable-svg-icons-css-variables)
 * [Google Fundamentals - Use SVG as icons](https://developers.google.com/web/fundamentals/media/images/use-icons)
 * [150+ Free Animated SVG Icons](http://www.pencilscoop.com/demos/animated-svg/demo/index.html)
 * [Fontastic](http://fontastic.me/faq)
@@ -172,6 +174,7 @@
 * [Animate SVG Icons with css and Snap](http://codyhouse.co/gem/animate-svg-icons-with-css-and-snap/)
 * [Styling And Animating SVGs With CSS](http://www.smashingmagazine.com/2014/11/03/styling-and-animating-svgs-with-css/)
 * [SVG Animation and CSS Transforms: A Complicated Love Story](http://css-tricks.com/svg-animation-on-css-transforms/)
+* [Run, run, Ruuun !](http://codepen.io/CyrilLevallois/pen/JbrfI/)
 
 
 ## Responsive
@@ -192,6 +195,7 @@
 * [Using ARIA to enhance SVG accessibility](http://www.paciellogroup.com/blog/2013/12/using-aria-enhance-svg-accessibility/)
 * [Great Guide for accessibility](http://a2g.faw.uni-linz.ac.at:8080/svg/jsp/guide.jsp)
 * [Describler make your SVG accessible](http://describler.com/)
+* [Invisible Visualization](http://www.w3.org/Talks/2014/schepers_invisible_visualization/index.html)
 
 
 ## Books
@@ -231,6 +235,8 @@
 * [SVGRef](http://keith-wood.name/svgRef.html)
 * [VLEX](https://github.com/indus/VLEX)
 * [Chartist.js](http://gionkunz.github.io/chartist-js/)
+* [MetricsGraphics.js](http://metricsgraphicsjs.org/)
+* [Charted](http://www.charted.co/)
 * [Highcharts](http://www.highcharts.com/)
 * [Lazy Line Painter](http://lazylinepainter.info/)
 * [Path JS](https://github.com/andreaferretti/paths-js)
@@ -326,6 +332,7 @@
 * [initiative.com](http://initiative.com/)
 * [guillaumejuvenet.com](http://www.guillaumejuvenet.com/)
 * [sono-it.hr/wsite/](http://sono-it.hr/wsite/)
+* [How Clean Is England](http://howcleanisengland.keepbritaintidy.org/#)
 
 ## Experiments
 * [Poly Maker](http://aerotwist.com/lab/poly-maker/)
@@ -338,6 +345,7 @@
 * [SVG Awesome - a collection by Jason Weaver](http://codepen.io/collection/JyolC/)
 * [SVG MAGAZINE](http://svgmagazine.com/oct2014/)
 * [Annoshape by Shepazu](http://shepazu.github.io/annoshape/annoshape.html)
+* [SVG zoom effect](http://www.pencilscoop.com/demos/SVG_Zoom_Effect/)
 
 ## Optimizing, Fallbacks and Tools
 * [SVG Optimizer](https://github.com/svg/svgo)
@@ -361,6 +369,7 @@
 * [ZorroSVG - Put a Mask on it](http://quasimondo.com/ZorroSVG/)
 * [Optimizing SVG for Web](http://web-design-weekly.com/2014/10/22/optimizing-svg-web/)
 * [Brackets-svg-code-hints](https://github.com/sprintr/brackets-svg-code-hints)
+* [deSVG](http://benhowdle.im/deSVG/)
 
 ## Grunt Plugins
 * [Grunt-svgmin](https://www.npmjs.org/package/grunt-svgmin)
