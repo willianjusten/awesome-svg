@@ -84,6 +84,7 @@
 * [SVG ICONS SOCIAL](http://jorgeatgu.github.io/demo)
 * [SVG ICONS NewBancomail](http://elrumordelaluz.github.io/newbancomail/svg.html)
 * [Material Design Icons By Google](https://github.com/google/material-design-icons)
+* [SVG Morpheus](http://alexk111.github.io/SVG-Morpheus/)
 
 ## Text
 > SVG is great for create responsive texts and texts with filters.
