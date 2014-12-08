@@ -34,7 +34,7 @@
 ## Basics
 > How to use, documentation, elements and everything else to start the studies about SVG.
 
-* [Why arent you using SVG?](http://code.tutsplus.com/tutorials/why-arent-you-using-svg--net-25414)  
+* [Why arent you using SVG?](http://code.tutsplus.com/tutorials/why-arent-you-using-svg--net-25414)
 * [The Once and Future SVG](http://radar.oreilly.com/2014/11/the-once-and-future-svg.html)
 * [SVGBasics](http://www.svgbasics.com/)
 * [Using SVG](http://css-tricks.com/using-svg/)
@@ -87,6 +87,7 @@
 * [SVG Morpheus](http://alexk111.github.io/SVG-Morpheus/)
 * [Payment Icons](http://paymentfont.io/)
 * [Loaders with just SVG](http://samherbert.net/svg-loaders/)
+* [Evil Icons](http://evil-icons.io/)
 
 ## Text
 > SVG is great for create responsive texts and texts with filters.
