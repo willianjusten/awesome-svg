@@ -352,6 +352,7 @@
 * [Annoshape by Shepazu](http://shepazu.github.io/annoshape/annoshape.html)
 * [SVG zoom effect](http://www.pencilscoop.com/demos/SVG_Zoom_Effect/)
 * [Elastic Stroke SVG+CSS](http://codepen.io/yoksel/pen/XJbzrO)
+* [Elastic SVG Elements](http://tympanus.net/Development/ElasticSVGElements/)
 
 ## Optimizing, Fallbacks and Tools
 * [SVG Optimizer](https://github.com/svg/svgo)
