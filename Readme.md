@@ -61,7 +61,6 @@
 * [Imagens em alta resolução utilizando SVG](http://tableless.com.br/imagens-em-alta-resolucao-utilizando-svg/) - (Pt-Br)
 * [Maujor SVG](http://maujorsvg.com.br/) - (Pt-Br)
 
-
 ## Icons
 > How to use svg for icons, why svg is better than fonticon, tools for create icons and guidelines
 
@@ -88,7 +87,8 @@
 * [Payment Icons](http://paymentfont.io/)
 * [Loaders with just SVG](http://samherbert.net/svg-loaders/)
 * [Evil Icons](http://evil-icons.io/)
-
+* [An overview of svg sprite creation techiniques](http://24ways.org/2014/an-overview-of-svg-sprite-creation-techniques/)
+* 
 ## Text
 > SVG is great for create responsive texts and texts with filters.
 
