@@ -16,7 +16,7 @@
 	- [SVG Software](Softwares.md)
 	- [Libraries](Libraries.md)
 	- [Snippets](Snippets.md)
-	- [Fragment Identifiers](#fragment-identifiers)
+	- [Fragment Identifiers](Fragments.md)
 	- [SVG to Download](#svg-to-download)
 	- [Slides](#slides)
 	- [Videos](#videos)
@@ -29,11 +29,6 @@
 	- [Follow on Twitter](#follow-on-twitter)
 	- [Thanks to...](#thanks-to)
 	- [Contributing](#contributing)
-
-## Fragment Identifiers
-* [W3C Documentation](http://www.w3.org/TR/SVG/linking.html#SVGFragmentIdentifiers)
-* [Using Fragment Identifiers on SVG](http://www.broken-links.com/2012/08/14/better-svg-sprites-with-fragment-identifiers/)
-
 
 ## SVG to Download
 > Programmers doesn't know how to draw, so we can download free svg sources to create beautifull effects.
