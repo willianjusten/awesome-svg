@@ -13,7 +13,7 @@
 	- [Responsive](Responsive.md)
 	- [Accessible SVG](Accessibility.md)
 	- [Books](Books.md)
-	- [SVG Software](#svg-software)
+	- [SVG Software](Softwares.md)
 	- [Libraries](#libraries)
 	- [Snippets](#snippets)
 	- [Fragment Identifiers](#fragment-identifiers)
@@ -29,18 +29,6 @@
 	- [Follow on Twitter](#follow-on-twitter)
 	- [Thanks to...](#thanks-to)
 	- [Contributing](#contributing)
-
-## SVG Software
-* [Adobe Illustrator](http://www.adobe.com/products/illustrator.html) - $19.99/month
-* [Sketch](http://bohemiancoding.com/sketch/) - $79.99
-* [Webcode](http://www.webcodeapp.com/) - $39.99
-* [iDraw](http://www.indeeo.com/idraw/) - $24.99
-* [Inkscape](http://www.inkscape.org/en/) - Free
-* [Inkpad](https://github.com/sprang/Inkpad) - Free/Open source
-* [Animatron](http://www.animatron.com) - Free
-* [Concepts: Smarter Sketching](http://concepts.tophatch.com) - Free with $5.99 In-App Purchase to unlock PRO which includes SVG export
-* [Affinity Designer](https://affinity.serif.com/) - $49.99
-
 
 ## Libraries
 * [Snap.SVG](http://snapsvg.io/)
