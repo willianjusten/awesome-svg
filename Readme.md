@@ -15,7 +15,7 @@
 	- [Books](Books.md)
 	- [SVG Software](Softwares.md)
 	- [Libraries](Libraries.md)
-	- [Snippets](#snippets)
+	- [Snippets](Snippets.md)
 	- [Fragment Identifiers](#fragment-identifiers)
 	- [SVG to Download](#svg-to-download)
 	- [Slides](#slides)
@@ -29,11 +29,6 @@
 	- [Follow on Twitter](#follow-on-twitter)
 	- [Thanks to...](#thanks-to)
 	- [Contributing](#contributing)
-
-## Snippets
-* [SVG Snippets for Sublime Text 2/3](http://codepen.io/jorgeatgu/blog/svg-snippets)
-* [SVG Smil Snippets for Sublime Text 2/3](http://codepen.io/jorgeatgu/blog/svg-smil-snippets-for-sublime-text-2-3)
-
 
 ## Fragment Identifiers
 * [W3C Documentation](http://www.w3.org/TR/SVG/linking.html#SVGFragmentIdentifiers)
