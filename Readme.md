@@ -20,7 +20,7 @@
 	- [SVG to Download](Downloads.md)
 	- [Slides](Slides.md)
 	- [Videos](Videos.md)
-	- [Sites using SVG](#sites-using-svg)
+	- [Sites using SVG](Sites-using-svg.md)
 	- [Experiments](#experiments)
 	- [Optimizing, Fallbacks and Tools](#optimizing-fallbacks-and-tools)
 	- [Grunt Plugins](#grunt-plugins)
@@ -29,21 +29,6 @@
 	- [Follow on Twitter](#follow-on-twitter)
 	- [Thanks to...](#thanks-to)
 	- [Contributing](#contributing)
-
-## Sites using SVG
-* [julekalender.vitusapotek.no](http://julekalender.vitusapotek.no/)
-* [kaipoche.co](http://kaipoche.co/)
-* [playgroundinc.com](http://playgroundinc.com/)
-* [gardenestudio.com.br](http://gardenestudio.com.br/)
-* [panizzon.ind.br](http://panizzon.ind.br/)
-* [sud.ramoneurs.ch](http://sud.ramoneurs.ch/)
-* [makeyourmoneymatter.org](http://makeyourmoneymatter.org/)
-* [albinotonnina.com](http://www.albinotonnina.com/)
-* [creative-mob.com](http://www.creative-mob.com/)
-* [initiative.com](http://initiative.com/)
-* [guillaumejuvenet.com](http://www.guillaumejuvenet.com/)
-* [sono-it.hr/wsite/](http://sono-it.hr/wsite/)
-* [How Clean Is England](http://howcleanisengland.keepbritaintidy.org/#)
 
 ## Experiments
 * [Poly Maker](http://aerotwist.com/lab/poly-maker/)
