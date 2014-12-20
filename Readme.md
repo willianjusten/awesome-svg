@@ -24,17 +24,11 @@
 	- [Experiments](Experiments.md)
 	- [Optimizing, Fallbacks and Tools](Optimization.md)
 	- [Grunt Plugins](Grunt-plugins.md)
-	- [Gulp Plugins](#gulp-plugins)
+	- [Gulp Plugins](Gulp-plugins.md)
 	- [Groups and Conferences](#groups-and-conferences)
 	- [Follow on Twitter](#follow-on-twitter)
 	- [Thanks to...](#thanks-to)
 	- [Contributing](#contributing)
-
-## Gulp Plugins
-* [Gulp-rsvg](https://www.npmjs.org/package/gulp-rsvg/)
-* [Gulp-svg-icons](https://www.npmjs.org/package/gulp-svg-icons/)
-* [Gulp-svg-sprites](https://www.npmjs.org/package/gulp-svg-sprites/)
-* [Gulp-svgmin](https://www.npmjs.org/package/gulp-svgmin/)
 
 ## Groups and Conferences
 * [W3C's SVG WG](http://www.w3.org/Graphics/SVG/)
