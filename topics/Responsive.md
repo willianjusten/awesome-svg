@@ -8,4 +8,4 @@
 * [Media queries in svg images](http://blog.cloudfour.com/media-queries-in-svg-images/)
 
 ---
-[Back to Home](Readme.md)
+[Back to Home](https://github.com/willianjusten/awesome-svg)

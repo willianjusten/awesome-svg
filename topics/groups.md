@@ -3,4 +3,4 @@
 * [Graphical Web - Conference](https://www.graphicalweb.org)
 
 ---
-[Back to Home](Readme.md)
+[Back to Home](https://github.com/willianjusten/awesome-svg)

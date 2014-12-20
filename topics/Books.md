@@ -13,4 +13,4 @@
 * [SCALABLE, un libro sobre SVG by Jorge Aznar Tobajas - 2014 - ES](http://www.leanpub.com/scalable/)
 
 ---
-[Back to Home](Readme.md)
+[Back to Home](https://github.com/willianjusten/awesome-svg)

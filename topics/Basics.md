@@ -30,4 +30,4 @@
 * [How I created my first SVGg](https://ihatetomatoes.net/how-i-created-my-first-svg/)
 
 ---
-[Back to Home](Readme.md)
+[Back to Home](https://github.com/willianjusten/awesome-svg)

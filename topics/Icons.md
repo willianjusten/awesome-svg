@@ -27,4 +27,4 @@
 * [An overview of svg sprite creation techiniques](http://24ways.org/2014/an-overview-of-svg-sprite-creation-techniques/)
 
 ---
-[Back to Home](Readme.md)
+[Back to Home](https://github.com/willianjusten/awesome-svg)

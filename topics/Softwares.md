@@ -10,4 +10,4 @@
 * [Affinity Designer](https://affinity.serif.com/) - $49.99
 
 ---
-[Back to Home](Readme.md)
+[Back to Home](https://github.com/willianjusten/awesome-svg)

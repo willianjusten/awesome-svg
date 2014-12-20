@@ -31,4 +31,4 @@
 * [Greensock Introduces DrawSVG](https://ihatetomatoes.net/greensock-introduces-drawsvgplugin/)
 
 ---
-[Back to Home](Readme.md)
+[Back to Home](https://github.com/willianjusten/awesome-svg)

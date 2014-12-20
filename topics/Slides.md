@@ -19,4 +19,4 @@
 * [SVG - De volta e para o futuro by Maujor](http://www.slideshare.net/Maujor/svg-de-volta-e-paara-o-futuro) Pt-Br
 
 ---
-[Back to Home](Readme.md)
+[Back to Home](https://github.com/willianjusten/awesome-svg)

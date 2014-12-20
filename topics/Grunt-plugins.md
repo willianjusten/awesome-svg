@@ -13,4 +13,4 @@
 * [Grunt-dr-svg-sprites](https://github.com/drdk/grunt-dr-svg-sprites)
 
 ---
-[Back to Home](Readme.md)
+[Back to Home](https://github.com/willianjusten/awesome-svg)

@@ -17,4 +17,4 @@
 * [CSS/SVG Gradient Generator](http://jimbomatic.com/svg-gradient/)
 
 ---
-[Back to Home](Readme.md)
+[Back to Home](https://github.com/willianjusten/awesome-svg)

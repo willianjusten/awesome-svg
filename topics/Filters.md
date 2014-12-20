@@ -10,4 +10,4 @@
 * [Enhancing Data Visualization with SVG Filters](http://vasir.net/blog/data-visualization/enhancing-data-visualization-with-svg-filters)
 
 ---
-[Back to Home](Readme.md)
+[Back to Home](https://github.com/willianjusten/awesome-svg)

@@ -8,4 +8,4 @@
 * [110 best hight quality free flat design icon pack](http://www.pencilscoop.com/2013/07/110-best-high-quality-free-flat-design-icon-packs/)
 
 ---
-[Back to Home](Readme.md)
+[Back to Home](https://github.com/willianjusten/awesome-svg)

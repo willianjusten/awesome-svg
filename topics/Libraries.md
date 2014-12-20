@@ -28,5 +28,5 @@
 * [Landline](http://propublica.github.io/landline/)
 
 ---
-[Back to Home](Readme.md)
+[Back to Home](https://github.com/willianjusten/awesome-svg)
 

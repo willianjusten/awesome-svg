@@ -25,4 +25,4 @@
 * [SVG Now](https://github.com/davidderaedt/SVG-NOW)
 
 ---
-[Back to Home](Readme.md)
+[Back to Home](https://github.com/willianjusten/awesome-svg)

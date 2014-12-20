@@ -15,4 +15,4 @@
 * [SVG Christmas Experimentg](https://ihatetomatoes.net/svg-christmas/)
 
 ---
-[Back to Home](Readme.md)
+[Back to Home](https://github.com/willianjusten/awesome-svg)

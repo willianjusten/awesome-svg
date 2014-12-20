@@ -13,4 +13,4 @@
 * [Gerstnerizer](http://eskimoblood.github.io/gerstnerizer/)
 
 ---
-[Back to Home](Readme.md)
+[Back to Home](https://github.com/willianjusten/awesome-svg)

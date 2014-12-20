@@ -13,4 +13,4 @@
 * [Animated SVG Font](http://buseca.github.io/letterbolt/)
 
 ---
-[Back to Home](Readme.md)
+[Back to Home](https://github.com/willianjusten/awesome-svg)

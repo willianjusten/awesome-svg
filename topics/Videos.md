@@ -26,4 +26,4 @@
 * [Three Ways to animate SVG by CSS-Tricks](http://css-tricks.com/video-screencasts/135-three-ways-animate-svg/)
 
 ---
-[Back to Home](Readme.md)
+[Back to Home](https://github.com/willianjusten/awesome-svg)

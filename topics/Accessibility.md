@@ -9,4 +9,4 @@
 * [Invisible Visualization](http://www.w3.org/Talks/2014/schepers_invisible_visualization/index.html)
 
 ---
-[Back to Home](Readme.md)
+[Back to Home](https://github.com/willianjusten/awesome-svg)

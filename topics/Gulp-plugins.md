@@ -5,4 +5,4 @@
 * [Gulp-svgmin](https://www.npmjs.org/package/gulp-svgmin/)
 
 ---
-[Back to Home](Readme.md)
+[Back to Home](https://github.com/willianjusten/awesome-svg)
