@@ -180,6 +180,7 @@
 * [Styling And Animating SVGs With CSS](http://www.smashingmagazine.com/2014/11/03/styling-and-animating-svgs-with-css/)
 * [SVG Animation and CSS Transforms: A Complicated Love Story](http://css-tricks.com/svg-animation-on-css-transforms/)
 * [Run, run, Ruuun !](http://codepen.io/CyrilLevallois/pen/JbrfI/)
+* [Greensock Introduces DrawSVG](https://ihatetomatoes.net/greensock-introduces-drawsvgplugin/)
 
 
 ## Responsive
