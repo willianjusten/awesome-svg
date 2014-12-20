@@ -88,7 +88,7 @@
 * [Loaders with just SVG](http://samherbert.net/svg-loaders/)
 * [Evil Icons](http://evil-icons.io/)
 * [An overview of svg sprite creation techiniques](http://24ways.org/2014/an-overview-of-svg-sprite-creation-techniques/)
-* 
+*
 ## Text
 > SVG is great for create responsive texts and texts with filters.
 
@@ -354,6 +354,7 @@
 * [SVG zoom effect](http://www.pencilscoop.com/demos/SVG_Zoom_Effect/)
 * [Elastic Stroke SVG+CSS](http://codepen.io/yoksel/pen/XJbzrO)
 * [Elastic SVG Elements](http://tympanus.net/Development/ElasticSVGElements/)
+* [SVG Christmas Experimentg](https://ihatetomatoes.net/svg-christmas/)
 
 ## Optimizing, Fallbacks and Tools
 * [SVG Optimizer](https://github.com/svg/svgo)
