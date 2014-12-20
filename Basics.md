@@ -28,3 +28,6 @@
 * [Imagens em alta resolução utilizando SVG](http://tableless.com.br/imagens-em-alta-resolucao-utilizando-svg/) - (Pt-Br)
 * [Maujor SVG](http://maujorsvg.com.br/) - (Pt-Br)
 * [How I created my first SVGg](https://ihatetomatoes.net/how-i-created-my-first-svg/)
+
+---
+*[Back to Home](Readme.md)
