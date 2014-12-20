@@ -17,7 +17,7 @@
 	- [Libraries](Libraries.md)
 	- [Snippets](Snippets.md)
 	- [Fragment Identifiers](Fragments.md)
-	- [SVG to Download](#svg-to-download)
+	- [SVG to Download](Downloads.md)
 	- [Slides](#slides)
 	- [Videos](#videos)
 	- [Sites using SVG](#sites-using-svg)
@@ -29,16 +29,6 @@
 	- [Follow on Twitter](#follow-on-twitter)
 	- [Thanks to...](#thanks-to)
 	- [Contributing](#contributing)
-
-## SVG to Download
-> Programmers doesn't know how to draw, so we can download free svg sources to create beautifull effects.
-
-* [SVG Cuts](http://svgcuts.com/blog/category/fsvgotw/)
-* [The Noun Project](http://thenounproject.com/)
-* [Vecteezy](http://www.vecteezy.com/)
-* [Pinterest - SVG](http://www.pinterest.com/ligayatg/svg-files-free/)
-* [110 best hight quality free flat design icon pack](http://www.pencilscoop.com/2013/07/110-best-high-quality-free-flat-design-icon-packs/)
-
 
 ## Slides
 * [Working with SVG - A Primer](http://slides.com/sarasoueidan/working-with-svg-a-primer#/)
