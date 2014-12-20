@@ -382,6 +382,7 @@
 * [Optimizing SVG for Web](http://web-design-weekly.com/2014/10/22/optimizing-svg-web/)
 * [Brackets-svg-code-hints](https://github.com/sprintr/brackets-svg-code-hints)
 * [deSVG](http://benhowdle.im/deSVG/)
+* [SVG Now](https://github.com/davidderaedt/SVG-NOW)
 
 ## Grunt Plugins
 * [Grunt-svgmin](https://www.npmjs.org/package/grunt-svgmin)
