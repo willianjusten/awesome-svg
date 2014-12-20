@@ -380,6 +380,7 @@
 * [Iconizr](http://iconizr.com/)
 * [ZorroSVG - Put a Mask on it](http://quasimondo.com/ZorroSVG/)
 * [Optimizing SVG for Web](http://web-design-weekly.com/2014/10/22/optimizing-svg-web/)
+* [Tips for optimising svg delivery for the web](http://calendar.perfplanet.com/2014/tips-for-optimising-svg-delivery-for-the-web/)
 * [Brackets-svg-code-hints](https://github.com/sprintr/brackets-svg-code-hints)
 * [deSVG](http://benhowdle.im/deSVG/)
 * [SVG Now](https://github.com/davidderaedt/SVG-NOW)
