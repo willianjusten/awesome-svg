@@ -25,14 +25,10 @@
 	- [Optimizing, Fallbacks and Tools](Optimization.md)
 	- [Grunt Plugins](Grunt-plugins.md)
 	- [Gulp Plugins](Gulp-plugins.md)
-	- [Groups and Conferences](#groups-and-conferences)
+	- [Groups and Conferences](Groups.md)
 	- [Follow on Twitter](#follow-on-twitter)
 	- [Thanks to...](#thanks-to)
 	- [Contributing](#contributing)
-
-## Groups and Conferences
-* [W3C's SVG WG](http://www.w3.org/Graphics/SVG/)
-* [Graphical Web - Conference](https://www.graphicalweb.org)
 
 ## Follow on Twitter
 * [@SaraSoueidan](https://twitter.com/SaraSoueidan)
