@@ -6,6 +6,7 @@
 * [Icon Fonts vs SVG](http://css-tricks.com/icon-fonts-vs-svg/)
 * [Ten reasons we switched from an icon font to SVG](http://ianfeather.co.uk/ten-reasons-we-switched-from-an-icon-font-to-svg/)
 * [SVG and icon-fonts the future of iconography](http://www.pencilscoop.com/2013/11/svg-and-icon-fonts-the-future-of-iconography/)
+* [Create an icon font illustrator icomoon](http://www.sitepoint.com/create-an-icon-font-illustrator-icomoon/)
 * [Manipulating svg icons with simple css](http://webdesign.tutsplus.com/articles/manipulating-svg-icons-with-simple-css--webdesign-15694)
 * [SVG symbol a Good Choice for Icons](http://css-tricks.com/svg-symbol-good-choice-icons/)
 * [SVG use with External Source](http://css-tricks.com/svg-use-external-source/)
