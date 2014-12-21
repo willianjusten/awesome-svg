@@ -29,6 +29,7 @@
 * [SVG Animation and CSS Transforms: A Complicated Love Story](http://css-tricks.com/svg-animation-on-css-transforms/)
 * [Run, run, Ruuun !](http://codepen.io/CyrilLevallois/pen/JbrfI/)
 * [Greensock Introduces DrawSVG](https://ihatetomatoes.net/greensock-introduces-drawsvgplugin/)
+* [How to Self Drawing SVG Animation](http://codepen.io/MyXoToD/blog/howto-self-drawing-svg-animation)
 
 ---
 [Back to Home](https://github.com/willianjusten/awesome-svg)
