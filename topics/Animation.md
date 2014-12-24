@@ -30,6 +30,7 @@
 * [Run, run, Ruuun !](http://codepen.io/CyrilLevallois/pen/JbrfI/)
 * [Greensock Introduces DrawSVG](https://ihatetomatoes.net/greensock-introduces-drawsvgplugin/)
 * [How to Self Drawing SVG Animation](http://codepen.io/MyXoToD/blog/howto-self-drawing-svg-animation)
+* [How to use animateTransform for inline SVG](https://webdesign.tutsplus.com/tutorials/how-to-use-animatetransform-for-inline-svg-animation--cms-22296)
 
 ---
 [Back to Home](https://github.com/willianjusten/awesome-svg)
