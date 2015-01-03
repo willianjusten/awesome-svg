@@ -7,6 +7,7 @@
 	- [Animation](topics/Animation.md)
 	- [Basics](topics/Basics.md)
 	- [Books](topics/Books.md)
+	- [Downloads](topics/Downloads.md)
 	- [Experiments](topics/Experiments.md)
 	- [Filters](topics/Filters.md)
 	- [Follow on Twitter](topics/Follow-on-twitter.md)
