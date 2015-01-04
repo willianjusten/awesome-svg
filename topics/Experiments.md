@@ -12,7 +12,8 @@
 * [SVG zoom effect](http://www.pencilscoop.com/demos/SVG_Zoom_Effect/)
 * [Elastic Stroke SVG+CSS](http://codepen.io/yoksel/pen/XJbzrO)
 * [Elastic SVG Elements](http://tympanus.net/Development/ElasticSVGElements/)
-* [SVG Christmas Experimentg](https://ihatetomatoes.net/svg-christmas/)
+* [SVG Christmas Experiments by I Hate Tomatoes](https://ihatetomatoes.net/svg-christmas/)
+* [SVG Christmas Experiments by Willian Justen and Lucas Maia ](http://lucasmaiaesilva.github.io/svgexperiment/)
 
 ---
 [Back to Home](https://github.com/willianjusten/awesome-svg)
