@@ -6,6 +6,7 @@
 * [Making SVG's responsive with CSS](http://tympanus.net/codrops/2014/08/19/making-svgs-responsive-with-css/)
 * [Making Responsive SVG Graphs](http://meloncholy.com/blog/making-responsive-svg-graphs/)
 * [Media queries in svg images](http://blog.cloudfour.com/media-queries-in-svg-images/)
+* [How to Scale SVG](http://css-tricks.com/scale-svg/)
 
 ---
 [Back to Home](https://github.com/willianjusten/awesome-svg)
