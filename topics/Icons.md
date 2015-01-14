@@ -18,6 +18,7 @@
 * [Useiconic](https://useiconic.com/guides/)
 * [Iconmelon](http://iconmelon.com/)
 * [SVGIcons](http://bbriel.me/svgicons/)
+* [Iconmonstr](http://iconmonstr.com/)
 * [SVG ICONS SOCIAL](http://jorgeatgu.github.io/demo)
 * [SVG ICONS NewBancomail](http://elrumordelaluz.github.io/newbancomail/svg.html)
 * [Material Design Icons By Google](https://github.com/google/material-design-icons)
