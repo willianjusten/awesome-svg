@@ -27,6 +27,8 @@
 * [Entendendo e Usando o SVG](http://www.devmedia.com.br/entendendo-e-usando-o-svg/19773) - (Pt-Br)
 * [Imagens em alta resolução utilizando SVG](http://tableless.com.br/imagens-em-alta-resolucao-utilizando-svg/) - (Pt-Br)
 * [Maujor SVG](http://maujorsvg.com.br/) - (Pt-Br)
+* [Por que usar SVG?](http://willianjusten.com.br/por-que-usar-svg/) - (Pt-Br)
+* [Como usar SVG](http://willianjusten.com.br/como-usar-svg/) - (Pt-Br)
 * [How I created my first SVGg](https://ihatetomatoes.net/how-i-created-my-first-svg/)
 * [Web Developer Reading List Introduction to SVG](http://demosthenes.info/blog/970/Web-Developer-Reading-List-Introduction-to-SVG)
 * [SVG Basic course by Css-Tricks](http://css-tricks.com/lodge/svg/table-of-contents/)
