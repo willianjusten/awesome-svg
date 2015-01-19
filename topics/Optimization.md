@@ -23,6 +23,7 @@
 * [Brackets-svg-code-hints](https://github.com/sprintr/brackets-svg-code-hints)
 * [deSVG](http://benhowdle.im/deSVG/)
 * [SVG Now](https://github.com/davidderaedt/SVG-NOW)
+* [PicSVG](http://picsvg.com/fr/)
 
 ---
 [Back to Home](https://github.com/willianjusten/awesome-svg)
