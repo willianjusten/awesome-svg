@@ -24,6 +24,7 @@
 * [deSVG](http://benhowdle.im/deSVG/)
 * [SVG Now](https://github.com/davidderaedt/SVG-NOW)
 * [PicSVG](http://picsvg.com/fr/)
+* [SVG Preview](https://github.com/peterflynn/svg-preview)
 
 ---
 [Back to Home](https://github.com/willianjusten/awesome-svg)
