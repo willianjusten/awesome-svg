@@ -13,7 +13,11 @@
 * [Elastic Stroke SVG+CSS](http://codepen.io/yoksel/pen/XJbzrO)
 * [Elastic SVG Elements](http://tympanus.net/Development/ElasticSVGElements/)
 * [SVG Christmas Experiments by I Hate Tomatoes](https://ihatetomatoes.net/svg-christmas/)
-* [SVG Christmas Experiments by Willian Justen and Lucas Maia ](http://lucasmaiaesilva.github.io/svgexperiment/)
+* [SVG Christmas Experiments by Willian Justen and Lucas Maia](http://lucasmaiaesilva.github.io/svgexperiment/)
+* [Semantic & interactive graphics with SVG](http://semantic-graphics.herokuapp.com/)
+* [Semantic diagrams (generate/parse/query embedded RDF)](http://semantic-diagrams.herokuapp.com/)
+* [Semantic & interactive metro maps with SVG](http://semantic-metro-map.herokuapp.com/)
+* [Generate semantic metro maps from GTFS data](http://semantic-metro-map-generator.herokuapp.com/)
 
 ---
 [Back to Home](https://github.com/willianjusten/awesome-svg)
