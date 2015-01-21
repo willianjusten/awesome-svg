@@ -25,6 +25,7 @@
 * [Augmenting Animations and Interactivity in SVG with Devina Coutinho](http://youtu.be/oIRITi6IcWQ)
 * [Three Ways to animate SVG by CSS-Tricks](http://css-tricks.com/video-screencasts/135-three-ways-animate-svg/)
 * [Merry SVG Christmas by I Hate Tomatoes](https://www.youtube.com/watch?v=6j2zdoa6a7Q)
+* [The SVG Reality by Sebastiaan Deckers](https://www.youtube.com/watch?v=VQ7_MwjPqKs&list=TLnovNiLOsOSo)
 
 ---
 [Back to Home](https://github.com/willianjusten/awesome-svg)
