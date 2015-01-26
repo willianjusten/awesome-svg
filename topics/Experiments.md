@@ -18,6 +18,9 @@
 * [Semantic diagrams (generate/parse/query embedded RDF)](http://semantic-diagrams.herokuapp.com/)
 * [Semantic & interactive metro maps with SVG](http://semantic-metro-map.herokuapp.com/)
 * [Generate semantic metro maps from GTFS data](http://semantic-metro-map-generator.herokuapp.com/)
+* [Gooey Menu by Lucas Bebber](http://codepen.io/lbebber/full/LELBEo/)
+* [Bumb Maping by Lucas Bebber](http://codepen.io/lbebber/details/RNgWXL/)
+* [Glitch by Lucas Bebber](http://codepen.io/lbebber/details/qEjRYd/)
 
 ---
 [Back to Home](https://github.com/willianjusten/awesome-svg)
