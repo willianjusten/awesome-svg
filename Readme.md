@@ -18,6 +18,7 @@
 	- [Gulp Plugins](topics/Gulp-plugins.md)
 	- [Icons](topics/Icons.md)
 	- [Libraries](topics/Libraries.md)
+	- [Masks and Clip-Paths](topics/Masks-clips.md)
 	- [Optimizing, Fallbacks and Tools](topics/Optimization.md)
 	- [Patterns](topics/Patterns.md)
 	- [Responsive](topics/Responsive.md)
