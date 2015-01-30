@@ -14,7 +14,7 @@
 	- [Fragment Identifiers](topics/Fragments.md)
 	- [Gradients](topics/Gradients.md)
 	- [Grunt Plugins](topics/Grunt-plugins.md)
-	- [Groups and Conferences](topics/groups.md)
+	- [Groups and Conferences](topics/Groups.md)
 	- [Gulp Plugins](topics/Gulp-plugins.md)
 	- [Icons](topics/Icons.md)
 	- [Libraries](topics/Libraries.md)
