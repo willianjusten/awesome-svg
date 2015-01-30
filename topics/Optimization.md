@@ -26,6 +26,6 @@
 * [PicSVG](http://picsvg.com/fr/)
 * [SVG Preview](https://github.com/peterflynn/svg-preview)
 * [Illustrator SVG Exporter Script](https://github.com/iconic/illustrator-svg-exporter)
-
+* [SVG OMG](https://jakearchibald.github.io/svgomg/)
 ---
 [Back to Home](https://github.com/willianjusten/awesome-svg)
