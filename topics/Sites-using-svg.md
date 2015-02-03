@@ -12,6 +12,7 @@
 * [guillaumejuvenet.com](http://www.guillaumejuvenet.com/)
 * [sono-it.hr/wsite/](http://sono-it.hr/wsite/)
 * [How Clean Is England](http://howcleanisengland.keepbritaintidy.org/#)
+* [Stat Social](http://www.statsocial.com/)
 
 ---
 [Back to Home](https://github.com/willianjusten/awesome-svg)
