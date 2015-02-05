@@ -34,6 +34,7 @@
 * [SVG Basic course by Css-Tricks](http://css-tricks.com/lodge/svg/table-of-contents/)
 * [The Ultimate Guide to SVG](http://www.webdesignerdepot.com/2015/01/the-ultimate-guide-to-svg/)
 * [SVG and the preserveAspectRadio Property](http://unmatchedstyle.com/news/svg-and-the-preserveaspectratio-property.php)
+* [How to Style and Animate SVG Elements with CSS](http://medialoot.com/blog/how-to-style-and-animate-svg-elements-with-css/)
 
 ---
 [Back to Home](https://github.com/willianjusten/awesome-svg)
