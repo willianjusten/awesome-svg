@@ -26,7 +26,8 @@
 * [Walkway](http://www.connoratherton.com/walkway)
 * [Vivus](http://maxwellito.github.io/vivus/)
 * [Landline](http://propublica.github.io/landline/)
-
+* [wheelnav.js](http://wheelnavjs.softwaretailoring.net)
+* 
 ---
 [Back to Home](https://github.com/willianjusten/awesome-svg)
 
