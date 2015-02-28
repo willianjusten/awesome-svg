@@ -1,0 +1,37 @@
+{
+  "name": "awesome-svg",
+  "version": "0.0.0",
+  "description": "A curated list of SVG",
+  "main": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/willianjusten/awesome-svg.git"
+  },
+  "keywords": [
+    "svg"
+  ],
+  "author": "willianjusten",
+  "license": "cc 4.0",
+  "bugs": {
+    "url": "https://github.com/willianjusten/awesome-svg/issues"
+  },
+  "homepage": "https://github.com/willianjusten/awesome-svg",
+  "devDependencies": {
+    "gulp": "~3.8.11",
+    "gulp-load-plugins": "~0.8.1",
+    "gulp-webserver": "~0.9.0",
+    "gulp-markdown": "~1.0.0",
+    "gulp-wrap": "~0.11.0",
+    "gulp-cheerio": "~0.6.2",
+    "gulp-rename": "~1.2.0",
+    "gulp-gh-pages": "~0.4.0",
+    "node-webkit-screenshot": "~0.3.1",
+    "gulp-image-resize": "~0.6.0"
+  },
+  "dependencies": {
+    "del": "~1.1.1"
+  }
+}
