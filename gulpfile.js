@@ -9,6 +9,7 @@ var jeet        = require('jeet');
 var rupture     = require('rupture');
 var koutoSwiss  = require('kouto-swiss');
 var prefixer    = require('autoprefixer-stylus');
+var browserSync = require('browser-sync');
 var $           = require('gulp-load-plugins')();
 
 $.ghPages = require('gulp-gh-pages');
@@ -189,17 +190,21 @@ gulp.task('watch', function() {
     gulp.watch(config.path.site, ['build-topics']);
 });
 
-gulp.task('server', ['build-topics', 'stylus', 'watch'], function() {
-    gulp.src(config.path.dest)
-        .pipe($.webserver({
-            host: config.server.host,
-            port: config.server.port,
-            livereload: true,
-            directoryListing: false,
-            open: true,
-            fallback: 'accessibility-svg.html'
-        }));
+gulp.task('browser-sync', function () {
+   var files = [
+      'dest/**/*.html',
+      'dest/css/**/*.css'
+   ];
+
+   browserSync.init(files, {
+      server: {
+         baseDir: './dest/'
+      },
+      startPath: '/accessibility-svg.html'
+   });
 });
+
+gulp.task('server', ['build-topics', 'stylus', 'watch', 'browser-sync']);
 
 gulp.task('clear', function(cb) {
     del(config.path.dest, cb);

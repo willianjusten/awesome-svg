@@ -21,6 +21,7 @@
   "homepage": "https://github.com/willianjusten/awesome-svg",
   "devDependencies": {
     "autoprefixer-stylus": "^0.5.0",
+    "browser-sync": "^2.2.1",
     "grunt": "^0.4.5",
     "gulp": "~3.8.11",
     "gulp-cheerio": "~0.6.2",
