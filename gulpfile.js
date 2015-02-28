@@ -1,9 +1,16 @@
-var gulp = require('gulp');
-var del = require('del');
-var fs = require('fs');
-var screenshot = require('node-webkit-screenshot');
+var gulp        = require('gulp');
+var del         = require('del');
+var fs          = require('fs');
+var screenshot  = require('node-webkit-screenshot');
 var imageResize = require('gulp-image-resize');
-var $ = require('gulp-load-plugins')();
+var plumber     = require('gulp-plumber');
+var stylus      = require('gulp-stylus');
+var jeet        = require('jeet');
+var rupture     = require('rupture');
+var koutoSwiss  = require('kouto-swiss');
+var prefixer    = require('autoprefixer-stylus');
+var $           = require('gulp-load-plugins')();
+
 $.ghPages = require('gulp-gh-pages');
 
 var config = {
@@ -166,12 +173,23 @@ gulp.task('build-topics', function() {
         .pipe(gulp.dest(config.path.dest));
 });
 
+gulp.task('stylus', function(){
+        gulp.src('site/styl/main.styl')
+        .pipe(plumber())
+        .pipe(stylus({
+            use:[koutoSwiss(), prefixer(), jeet(),rupture()],
+            compress: true
+        }))
+        .pipe(gulp.dest('dest/css'))
+});
+
 gulp.task('watch', function() {
+    gulp.watch('site/styl/**/*.styl', ['stylus']);
     gulp.watch(config.path.markdown, ['build-topics']);
     gulp.watch(config.path.site, ['build-topics']);
 });
 
-gulp.task('server', ['build-topics', 'watch'], function() {
+gulp.task('server', ['build-topics', 'stylus', 'watch'], function() {
     gulp.src(config.path.dest)
         .pipe($.webserver({
             host: config.server.host,
