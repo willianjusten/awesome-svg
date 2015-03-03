@@ -28,6 +28,7 @@
 * [Evil Icons](http://evil-icons.io/)
 * [An overview of svg sprite creation techiniques](http://24ways.org/2014/an-overview-of-svg-sprite-creation-techniques/)
 * [Making SVG buttons](http://metafizzy.co/blog/making-svg-buttons/)
+* [1450 premium SVG icons for free](http://www.iconeden.com/smarticons/index.html)
 
 ---
 [Back to Home](https://github.com/willianjusten/awesome-svg)
