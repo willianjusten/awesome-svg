@@ -19,7 +19,7 @@
 	- [Icons](topics/Icons.md)
 	- [Libraries](topics/Libraries.md)
 	- [Masks and Clip-Paths](topics/Masks-clips.md)
-	- [Optimizing, Fallbacks and Tools](topics/Optimization.md)
+	- [Optimizing, Fallbacks and Tools](topics/Optimization-tools.md)
 	- [Patterns](topics/Patterns.md)
 	- [Responsive](topics/Responsive.md)
 	- [Sites using SVG](topics/Sites-using-svg.md)
