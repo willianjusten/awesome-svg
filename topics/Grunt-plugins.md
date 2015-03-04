@@ -1,4 +1,6 @@
 ## Grunt Plugins
+> For those who use Grunt, some plugins to work with SVG.
+
 * [Grunt-svgmin](https://www.npmjs.org/package/grunt-svgmin)
 * [Grunt-svg-compactor](https://www.npmjs.org/package/grunt-svg-compactor)
 * [Grunt-webfont](https://www.npmjs.org/package/grunt-webfont)

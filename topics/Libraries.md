@@ -1,4 +1,6 @@
 ## Libraries
+> Some libraries to help us to work with SVG.
+
 * [Snap.SVG](http://snapsvg.io/)
 * [Two.js](http://jonobr1.github.io/two.js/)
 * [Raphael.js](http://raphaeljs.com/)

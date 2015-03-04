@@ -1,5 +1,5 @@
 ## SVG to Download
-> Programmers doesn't know how to draw, so we can download free svg sources to create beautifull effects.
+> Some SVG resources to download and enjoy.
 
 * [SVG Crowbar](https://github.com/NYTimes/svg-crowbar) - Download svg on a page using the bookmark
 * [SVG Cuts](http://svgcuts.com/blog/category/fsvgotw/)

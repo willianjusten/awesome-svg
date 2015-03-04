@@ -1,4 +1,6 @@
 ## Optimizing, Fallbacks and Tools
+> Optimize your SVG, support older browsers and more.
+
 * [SVG Optimizer](https://github.com/svg/svgo)
 * [SVG Optimizer GUI](https://github.com/svg/svgo-gui)
 * [Grumpicon](http://www.grumpicon.com/)

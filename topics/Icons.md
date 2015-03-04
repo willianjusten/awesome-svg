@@ -1,5 +1,5 @@
 ## Icons
-> How to use svg for icons, why svg is better than fonticon, tools for create icons and guidelines
+> How to use svg for icons, why svg is better than fonticon, tools, and more.
 
 * [SVG icons ftw](http://tympanus.net/codrops/2013/11/27/svg-icons-ftw/)
 * [Icon System with SVG Sprites](http://css-tricks.com/svg-sprites-use-better-icon-fonts/)

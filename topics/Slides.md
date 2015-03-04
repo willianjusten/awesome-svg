@@ -1,4 +1,6 @@
 ## Slides
+> Some presentations about everything in SVG.
+
 * [Working with SVG - A Primer](http://slides.com/sarasoueidan/working-with-svg-a-primer#/)
 * [Play SVG! Utilizando vetores na web by Willian Justen](http://goo.gl/eaC0EC) - Pt-Br
 * [Whirlwind Tour of SVG (plus RaphaelJS) by Mark Grabanski](http://www.slideshare.net/1Marc/svg-and-raphael-js)

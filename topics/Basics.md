@@ -1,5 +1,5 @@
 ## Basics
-> How to use, documentation, elements and everything else to start the studies about SVG.
+> Everything you need to know to start with SVG.
 
 * [Why arent you using SVG?](http://code.tutsplus.com/tutorials/why-arent-you-using-svg--net-25414)
 * [The Once and Future SVG](http://radar.oreilly.com/2014/11/the-once-and-future-svg.html)
