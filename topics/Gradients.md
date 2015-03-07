@@ -1,5 +1,5 @@
 ## Gradients
-> How to use, differences between css gradients and svg gradients, tools to generate gradients and some tips.
+> How to use, tools to generate gradients and some tips.
 
 * [Getting started with SVG Gradients](http://www.sitepoint.com/getting-started-svg-gradients/)
 * [Animating SVG gradients](http://designmodo.com/animate-svg-gradients/)

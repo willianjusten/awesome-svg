@@ -1,4 +1,5 @@
 ## Masks and Clip-paths
+> Another great feature that SVG supports, take a look.
 
 * [Cutting Inner Part Element Using Clip-Path](http://css-tricks.com/cutting-inner-part-element-using-clip-path/)
 * [Clip Path by Jenkov](http://tutorials.jenkov.com/svg/clip-path.html)

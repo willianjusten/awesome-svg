@@ -1,5 +1,5 @@
 ## Basics
-> How to use, documentation, elements and everything else to start the studies about SVG.
+> Everything you need to know to start with SVG.
 
 * [Why arent you using SVG?](http://code.tutsplus.com/tutorials/why-arent-you-using-svg--net-25414)
 * [The Once and Future SVG](http://radar.oreilly.com/2014/11/the-once-and-future-svg.html)
@@ -29,6 +29,8 @@
 * [Maujor SVG](http://maujorsvg.com.br/) - (Pt-Br)
 * [Por que usar SVG?](http://willianjusten.com.br/por-que-usar-svg/) - (Pt-Br)
 * [Como usar SVG](http://willianjusten.com.br/como-usar-svg/) - (Pt-Br)
+* [A estrutura do SVG](http://willianjusten.com.br/a-estrutura-do-svg/) - (Pt-Br)
+* [Atomic Design no SVG](http://willianjusten.com.br/atomic-design-no-svg/) - (Pt-Br)
 * [How I created my first SVGg](https://ihatetomatoes.net/how-i-created-my-first-svg/)
 * [Web Developer Reading List Introduction to SVG](http://demosthenes.info/blog/970/Web-Developer-Reading-List-Introduction-to-SVG)
 * [SVG Basic course by Css-Tricks](http://css-tricks.com/lodge/svg/table-of-contents/)

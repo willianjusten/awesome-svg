@@ -1,4 +1,6 @@
 ## Experiments
+> Everyone likes experiments, why not some of them?
+
 * [Poly Maker](http://aerotwist.com/lab/poly-maker/)
 * [SVG Wow](http://svg-wow.org/)
 * [Great experiments from Codrops](http://tympanus.net/codrops/?s=svg)

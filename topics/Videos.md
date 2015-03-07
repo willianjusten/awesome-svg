@@ -1,4 +1,6 @@
 ## Videos
+> One image says more than 1000 words, and a video?!
+
 * [Create a SVG Loading Animation with Adobe Illustrator](https://www.youtube.com/watch?v=1lmFMsrLgwM)
 * [Introduction to SVG and RaphaelJS](https://www.youtube.com/watch?v=ECUhNrlyTkE)
 * [SVG Line Animation Tutorial with CSS & Other Fun Stuff](https://www.youtube.com/watch?v=XBdbgD2BaEI)
