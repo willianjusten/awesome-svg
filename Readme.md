@@ -34,6 +34,7 @@
 
 * [Marcus Vinicius](https://github.com/mvfsilva), my friend =)
 * [Rodrigo Machado](https://github.com/rcmachado) for helping me with CC License.
+* [Cleyson Leal](https://github.com/Cleysonlb) for creating the awesome logo.
 * [Chris Coyier](http://chriscoyier.net/) and his [Compendium of SVG Information](http://css-tricks.com/mega-list-svg-information/), was a great start point for me.
 * and of course, all the [Contributors](https://github.com/willianjusten/awesome-svg/graphs/contributors).
 
