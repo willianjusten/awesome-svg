@@ -1,4 +1,4 @@
-# Awesome SVG
+<img src="https://rawgit.com/willianjusten/awesome-svg/master/logo.svg" alt="Awesome SVG">
 
 > A curated list of SVG. The main idea is that everyone can contribute here, so we can center all the informations about SVG and keep up-to-date.
 
@@ -34,6 +34,7 @@
 
 * [Marcus Vinicius](https://github.com/mvfsilva), my friend =)
 * [Rodrigo Machado](https://github.com/rcmachado) for helping me with CC License.
+* [Cleyson Leal](https://github.com/Cleysonlb) for creating the awesome logo.
 * [Chris Coyier](http://chriscoyier.net/) and his [Compendium of SVG Information](http://css-tricks.com/mega-list-svg-information/), was a great start point for me.
 * and of course, all the [Contributors](https://github.com/willianjusten/awesome-svg/graphs/contributors).
 
