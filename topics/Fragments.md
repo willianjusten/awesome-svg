@@ -3,6 +3,7 @@
 
 * [W3C Documentation](http://www.w3.org/TR/SVG/linking.html#SVGFragmentIdentifiers)
 * [Using Fragment Identifiers on SVG](http://www.broken-links.com/2012/08/14/better-svg-sprites-with-fragment-identifiers/)
+* [Ajaxing for your SVG Sprite](https://css-tricks.com/ajaxing-svg-sprite/)
 
 ---
 [Back to Home](https://github.com/willianjusten/awesome-svg)
