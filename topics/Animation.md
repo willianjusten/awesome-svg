@@ -33,6 +33,7 @@
 * [How to use animateTransform for inline SVG](https://webdesign.tutsplus.com/tutorials/how-to-use-animatetransform-for-inline-svg-animation--cms-22296)
 * [How to create an infographic with SVG](http://designmodo.com/svg-infographic/)
 * [How to animate with Polyart](http://css-tricks.com/polylion/)
+* [SVG Loaders](http://samherbert.net/svg-loaders/)
 
 ---
 [Back to Home](https://github.com/willianjusten/awesome-svg)
