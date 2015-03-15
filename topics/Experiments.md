@@ -23,6 +23,8 @@
 * [Gooey Menu by Lucas Bebber](http://codepen.io/lbebber/full/LELBEo/)
 * [Bumb Maping by Lucas Bebber](http://codepen.io/lbebber/details/RNgWXL/)
 * [Glitch by Lucas Bebber](http://codepen.io/lbebber/details/qEjRYd/)
+* [Depth field using Filters](http://codepen.io/vcurd/pen/caFxz)
+* [Play with Orca](http://codepen.io/diegoleme/pen/rIokB)
 
 ---
 [Back to Home](https://github.com/willianjusten/awesome-svg)
