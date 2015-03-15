@@ -1,4 +1,4 @@
-## Fragment Identifiers
+## Sprites
 > Another approach on how to use SVG sprites.
 
 * [W3C Documentation](http://www.w3.org/TR/SVG/linking.html#SVGFragmentIdentifiers)
