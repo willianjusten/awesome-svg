@@ -1,4 +1,6 @@
 ## Books
+> Some of the best books about SVG.
+
 * [SVG Pocket Guide by Joni Trythall - 2014](http://svgpocketguide.com/ )
 * [Learn SVG Interactively by Jay Nick - 2010](https://itunes.apple.com/us/book/learn-svg-interactively/id384843340?mt=11)
 * [Interactive Data Visualization for the Web by Scott Muray - 2013](http://shop.oreilly.com/product/0636920026938.do)

@@ -1,4 +1,4 @@
-# Awesome SVG
+<img src="https://rawgit.com/willianjusten/awesome-svg/master/logo.svg" alt="Awesome SVG">
 
 > A curated list of SVG. The main idea is that everyone can contribute here, so we can center all the informations about SVG and keep up-to-date.
 
@@ -10,20 +10,21 @@
 	- [Downloads](topics/Downloads.md)
 	- [Experiments](topics/Experiments.md)
 	- [Filters](topics/Filters.md)
-	- [Follow on Twitter](topics/Follow-on-twitter.md)
-	- [Fragment Identifiers](topics/Fragments.md)
-	- [Gradients](topics/Gradientsg.md)
+	- [Follow on Twitter](topics/Follow-twitter.md)
+	- [Gradients](topics/Gradients.md)
 	- [Grunt Plugins](topics/Grunt-plugins.md)
 	- [Groups and Conferences](topics/Groups.md)
 	- [Gulp Plugins](topics/Gulp-plugins.md)
 	- [Icons](topics/Icons.md)
 	- [Libraries](topics/Libraries.md)
-	- [Optimizing, Fallbacks and Tools](topics/Optimization.md)
+	- [Masks and Clip-Paths](topics/Masks-clips.md)
+	- [Optimizing, Fallbacks and Tools](topics/Optimization-tools.md)
 	- [Patterns](topics/Patterns.md)
 	- [Responsive](topics/Responsive.md)
 	- [Sites using SVG](topics/Sites-using-svg.md)
 	- [Slides](topics/Slides.md)
 	- [Snippets](topics/Snippets.md)
+	- [Sprites](topics/Sprites.md)
 	- [SVG Software](topics/Softwares.md)
 	- [SVG to Download](topics/Downloads.md)
 	- [Text](topics/Text.md)
@@ -33,6 +34,7 @@
 
 * [Marcus Vinicius](https://github.com/mvfsilva), my friend =)
 * [Rodrigo Machado](https://github.com/rcmachado) for helping me with CC License.
+* [Cleyson Leal](https://github.com/Cleysonlb) for creating the awesome logo.
 * [Chris Coyier](http://chriscoyier.net/) and his [Compendium of SVG Information](http://css-tricks.com/mega-list-svg-information/), was a great start point for me.
 * and of course, all the [Contributors](https://github.com/willianjusten/awesome-svg/graphs/contributors).
 

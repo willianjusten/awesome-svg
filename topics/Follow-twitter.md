@@ -1,4 +1,6 @@
 ## Follow on Twitter
+> They create the bests tools that we use today!
+
 * [@SaraSoueidan](https://twitter.com/SaraSoueidan)
 * [@JoniTrythall](https://twitter.com/JoniTrythall)
 * [@chriscoyier](https://twitter.com/chriscoyier)

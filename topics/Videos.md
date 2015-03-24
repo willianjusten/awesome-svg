@@ -1,4 +1,6 @@
 ## Videos
+> One image says more than 1000 words, and a video?!
+
 * [Create a SVG Loading Animation with Adobe Illustrator](https://www.youtube.com/watch?v=1lmFMsrLgwM)
 * [Introduction to SVG and RaphaelJS](https://www.youtube.com/watch?v=ECUhNrlyTkE)
 * [SVG Line Animation Tutorial with CSS & Other Fun Stuff](https://www.youtube.com/watch?v=XBdbgD2BaEI)
@@ -12,7 +14,6 @@
 * [Introduction to Inkscape's Geometry Constructions Tool](http://vimeo.com/14955725)
 * [Raphaël Tutorial—Basics](http://vimeo.com/6411308)
 * [Introducing SVG Cleaner](http://vimeo.com/34706772)
-* [Create a SVG Loading Animation with Adobe Illustrator](https://www.youtube.com/watch?v=1lmFMsrLgwM)
 * [Inkscape Hints and Tips for making SVG files work in ScanNCut Canvas](https://www.youtube.com/watch?v=ktTunTp3Pl4)
 * [Chris Coyier – SVG Is For Everybody](https://vimeo.com/99828116)
 * [Sara Soueidan: Styling and Animating Scalable Vector Graphics with CSS](http://youtu.be/hI9roqOKKO8)

@@ -1,4 +1,6 @@
 ## Libraries
+> Some libraries to help us to work with SVG.
+
 * [Snap.SVG](http://snapsvg.io/)
 * [Two.js](http://jonobr1.github.io/two.js/)
 * [Raphael.js](http://raphaeljs.com/)
@@ -26,6 +28,7 @@
 * [Walkway](http://www.connoratherton.com/walkway)
 * [Vivus](http://maxwellito.github.io/vivus/)
 * [Landline](http://propublica.github.io/landline/)
+* [wheelnav.js](http://wheelnavjs.softwaretailoring.net)
 
 ---
 [Back to Home](https://github.com/willianjusten/awesome-svg)

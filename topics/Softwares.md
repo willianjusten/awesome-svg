@@ -1,4 +1,6 @@
 ## SVG Software
+> When we need to create more detailed elements.
+
 * [Adobe Illustrator](http://www.adobe.com/products/illustrator.html) - $19.99/month
 * [Sketch](http://bohemiancoding.com/sketch/) - $79.99
 * [Webcode](http://www.webcodeapp.com/) - $39.99

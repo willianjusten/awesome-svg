@@ -1,5 +1,5 @@
 ## Animation
-> We can animate SVG in different ways, SMIL, CSS, JS. Every link will explain how to do.
+> How to create different interactions and animations using SVG.
 
 * [The Simple Intro to SVG Animation](http://davidwalsh.name/svg-animation)
 * [SVG animation](http://stylecampaign.com/blog/2014/02/svg-animation/)
@@ -32,6 +32,7 @@
 * [How to Self Drawing SVG Animation](http://codepen.io/MyXoToD/blog/howto-self-drawing-svg-animation)
 * [How to use animateTransform for inline SVG](https://webdesign.tutsplus.com/tutorials/how-to-use-animatetransform-for-inline-svg-animation--cms-22296)
 * [How to create an infographic with SVG](http://designmodo.com/svg-infographic/)
+* [How to animate with Polyart](http://css-tricks.com/polylion/)
 
 ---
 [Back to Home](https://github.com/willianjusten/awesome-svg)

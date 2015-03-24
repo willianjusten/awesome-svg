@@ -1,5 +1,5 @@
 ## Accessible SVG
-> How to enhance accessibility using SVG
+> How to enhance the accessibility using SVG.
 
 * [Tips for Creating Accessible SVG](http://www.sitepoint.com/tips-accessible-svg/)
 * [Current State of Authoring Accessible SVG](http://schepers.cc/authoring-accessible-svg)

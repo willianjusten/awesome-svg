@@ -1,4 +1,6 @@
 ## Experiments
+> Everyone likes experiments, why not some of them?
+
 * [Poly Maker](http://aerotwist.com/lab/poly-maker/)
 * [SVG Wow](http://svg-wow.org/)
 * [Great experiments from Codrops](http://tympanus.net/codrops/?s=svg)
@@ -18,6 +20,11 @@
 * [Semantic diagrams (generate/parse/query embedded RDF)](http://semantic-diagrams.herokuapp.com/)
 * [Semantic & interactive metro maps with SVG](http://semantic-metro-map.herokuapp.com/)
 * [Generate semantic metro maps from GTFS data](http://semantic-metro-map-generator.herokuapp.com/)
+* [Gooey Menu by Lucas Bebber](http://codepen.io/lbebber/full/LELBEo/)
+* [Bumb Maping by Lucas Bebber](http://codepen.io/lbebber/details/RNgWXL/)
+* [Glitch by Lucas Bebber](http://codepen.io/lbebber/details/qEjRYd/)
+* [Depth field using Filters](http://codepen.io/vcurd/pen/caFxz)
+* [Play with Orca](http://codepen.io/diegoleme/pen/rIokB)
 
 ---
 [Back to Home](https://github.com/willianjusten/awesome-svg)
