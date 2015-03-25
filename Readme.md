@@ -21,6 +21,7 @@
 	- [Masks and Clip-Paths](topics/Masks-clips.md)
 	- [Optimizing, Fallbacks and Tools](topics/Optimization-tools.md)
 	- [Patterns](topics/Patterns.md)
+	- [Podcasts](topics/Podcasts.md)
 	- [Responsive](topics/Responsive.md)
 	- [Sites using SVG](topics/Sites-using-svg.md)
 	- [Slides](topics/Slides.md)
