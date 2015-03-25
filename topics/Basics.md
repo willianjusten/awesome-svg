@@ -38,6 +38,8 @@
 * [SVG and the preserveAspectRadio Property](http://unmatchedstyle.com/news/svg-and-the-preserveaspectratio-property.php)
 * [How to Style and Animate SVG Elements with CSS](http://medialoot.com/blog/how-to-style-and-animate-svg-elements-with-css/)
 * [Want to learn about svg? Start with this article](http://www.designyourway.net/blog/resources/want-to-learn-about-svg-start-with-this-article/)
+* [SVG News](http://svg-news.com/)
+
 
 ---
 [Back to Home](https://github.com/willianjusten/awesome-svg)
