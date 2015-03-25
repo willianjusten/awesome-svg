@@ -11,6 +11,7 @@
 * [Patternbolt - Pack a pattern svg into css or scss](http://buseca.github.io/patternbolt/)
 * [SVG Patterns Gallery](http://philbit.com/svgpatterns/)
 * [Gerstnerizer](http://eskimoblood.github.io/gerstnerizer/)
+* [Textures.js ](https://github.com/riccardoscalco/textures)
 
 ---
 [Back to Home](https://github.com/willianjusten/awesome-svg)
