@@ -1,6 +1,9 @@
 ## Basics
 > Everything you need to know to start with SVG.
 
+* [SVG For Absolute Beginners](http://unicorn-ui.com/blog/svg-for-beginners.html)
+* [SVG Document Structure](http://unicorn-ui.com/blog/svg-document-structure.html)
+* [What Is SVG And Why Do You Care?](http://unicorn-ui.com/blog/what-is-svg-and-why-do-you-care.html)
 * [Why arent you using SVG?](http://code.tutsplus.com/tutorials/why-arent-you-using-svg--net-25414)
 * [The Once and Future SVG](http://radar.oreilly.com/2014/11/the-once-and-future-svg.html)
 * [SVGBasics](http://www.svgbasics.com/)
