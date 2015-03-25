@@ -1,6 +1,7 @@
 ## Responsive
 > How to use the ability of "Scalable" to create different interactions for multiple devices.
 
+* [Responsive Sass Mixin](http://unicorn-ui.com/blog/responsive-svg-mixin.html)
 * [Rethinking responsive svg](http://www.smashingmagazine.com/2014/03/05/rethinking-responsive-svg/)
 * [Make SVG Responsive](http://demosthenes.info/blog/744/Make-SVG-Responsive)
 * [Making SVG's responsive with CSS](http://tympanus.net/codrops/2014/08/19/making-svgs-responsive-with-css/)
