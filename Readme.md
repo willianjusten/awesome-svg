@@ -132,6 +132,7 @@
 * [MDN about SVG Filter](https://developer.mozilla.org/en-US/docs/Applying_SVG_effects_to_HTML_content)
 * [Fun with SVG Filters](http://blattchat.com/2013/07/13/fun-with-svg-filters/)
 * [Enhancing Data Visualization with SVG Filters](http://vasir.net/blog/data-visualization/enhancing-data-visualization-with-svg-filters)
+* [SVG Filters Effects | Drag & Drop](http://jorgeatgu.github.io/svg-filters/)
 
 
 
@@ -239,6 +240,8 @@
 ## Fragment Identifiers
 * [W3C Documentation](http://www.w3.org/TR/SVG/linking.html#SVGFragmentIdentifiers)
 * [Using Fragment Identifiers on SVG](http://www.broken-links.com/2012/08/14/better-svg-sprites-with-fragment-identifiers/)
+* [How SVG Fragment Identifiers Work](https://css-tricks.com/svg-fragment-identifiers-work/)
+
 
 
 ## SVG to Download
