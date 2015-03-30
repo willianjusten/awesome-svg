@@ -7,10 +7,7 @@
 * [Caching SVG Sprite in localStorage](http://osvaldas.info/caching-svg-sprite-in-localstorage)
 * [Ajaxing for your SVG Sprite](https://css-tricks.com/ajaxing-svg-sprite/)
 * [Creating SVG Sprites using Gulp and Sass](https://www.liquidlight.co.uk/blog/article/creating-svg-sprites-using-gulp-and-sass/)
-<<<<<<< HEAD
 * [How SVG Fragment Identifiers Work](https://css-tricks.com/svg-fragment-identifiers-work/)
-=======
->>>>>>> d958c5cc6c0d0c28cf66c15c31f72f212d10abe1
 
 ---
 [Back to Home](https://github.com/willianjusten/awesome-svg)
