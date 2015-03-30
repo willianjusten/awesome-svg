@@ -9,7 +9,10 @@
 * [MDN about SVG Filter](https://developer.mozilla.org/en-US/docs/Applying_SVG_effects_to_HTML_content)
 * [Fun with SVG Filters](http://blattchat.com/2013/07/13/fun-with-svg-filters/)
 * [Enhancing Data Visualization with SVG Filters](http://vasir.net/blog/data-visualization/enhancing-data-visualization-with-svg-filters)
+<<<<<<< HEAD
 * [SVG Filters effects](http://jorgeatgu.github.io/svg-filters/)
+=======
+>>>>>>> d958c5cc6c0d0c28cf66c15c31f72f212d10abe1
 
 ---
 [Back to Home](https://github.com/willianjusten/awesome-svg)
