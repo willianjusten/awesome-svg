@@ -35,6 +35,7 @@
 * [How to create an infographic with SVG](http://designmodo.com/svg-infographic/)
 * [How to animate with Polyart](http://css-tricks.com/polylion/)
 * [Jump Loader Animation with GSAP](http://tympanus.net/codrops/2015/03/25/jump-loader-animation-svg-gsap/)
+* [SVG Animations Using CSS and Snap.svg](http://davidwalsh.name/svg-animations-snap)
 
 ---
 [Back to Home](https://github.com/willianjusten/awesome-svg)
