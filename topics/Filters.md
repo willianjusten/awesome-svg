@@ -10,6 +10,7 @@
 * [Fun with SVG Filters](http://blattchat.com/2013/07/13/fun-with-svg-filters/)
 * [Enhancing Data Visualization with SVG Filters](http://vasir.net/blog/data-visualization/enhancing-data-visualization-with-svg-filters)
 * [SVG Filters effects](http://jorgeatgu.github.io/svg-filters/)
+* [SVG Filters by Matthew Bystedt](http://apike.ca/prog_svg_filters.html)
 
 ---
 [Back to Home](https://github.com/willianjusten/awesome-svg)
