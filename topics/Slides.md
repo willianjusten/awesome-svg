@@ -20,6 +20,8 @@
 * [Animating SVG with CSS and SMIL by Sara Soueidan](http://slides.com/sarasoueidan/animating-svg-with-css-and-smil-full-version#/)
 * [SVG - De volta e para o futuro by Maujor](http://www.slideshare.net/Maujor/svg-de-volta-e-paara-o-futuro) Pt-Br
 * [SVG Strikes Back by Matt Baxter](https://speakerdeck.com/mbxtr/svg-strikes-back)
+* [Building Better Interfaces with SVG by Sara Soueidan](http://slides.com/sarasoueidan/building-better-interfaces-with-svg#/)
+* [GSAP + SVG by Sarah Drasner](http://slides.com/sdrasner/gsap-svg)
 
 ---
 [Back to Home](https://github.com/willianjusten/awesome-svg)
