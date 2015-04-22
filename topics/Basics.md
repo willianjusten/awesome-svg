@@ -34,7 +34,7 @@
 * [Como usar SVG](http://willianjusten.com.br/como-usar-svg/) - (Pt-Br)
 * [A estrutura do SVG](http://willianjusten.com.br/a-estrutura-do-svg/) - (Pt-Br)
 * [Atomic Design no SVG](http://willianjusten.com.br/atomic-design-no-svg/) - (Pt-Br)
-* [How I created my first SVGg](https://ihatetomatoes.net/how-i-created-my-first-svg/)
+* [How I created my first SVG](https://ihatetomatoes.net/how-i-created-my-first-svg/)
 * [Web Developer Reading List Introduction to SVG](http://demosthenes.info/blog/970/Web-Developer-Reading-List-Introduction-to-SVG)
 * [SVG Basic course by Css-Tricks](http://css-tricks.com/lodge/svg/table-of-contents/)
 * [The Ultimate Guide to SVG](http://www.webdesignerdepot.com/2015/01/the-ultimate-guide-to-svg/)
@@ -42,6 +42,7 @@
 * [How to Style and Animate SVG Elements with CSS](http://medialoot.com/blog/how-to-style-and-animate-svg-elements-with-css/)
 * [Want to learn about svg? Start with this article](http://www.designyourway.net/blog/resources/want-to-learn-about-svg-start-with-this-article/)
 * [SVG News](http://svg-news.com/)
+* [Move And Scale SVG Graphics With The viewBox Attribute](http://www.vanseodesign.com/web-design/svg-viewbox/)
 
 
 ---
