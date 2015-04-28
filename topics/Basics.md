@@ -43,7 +43,8 @@
 * [Want to learn about svg? Start with this article](http://www.designyourway.net/blog/resources/want-to-learn-about-svg-start-with-this-article/)
 * [SVG News](http://svg-news.com/)
 * [Move And Scale SVG Graphics With The viewBox Attribute](http://www.vanseodesign.com/web-design/svg-viewbox/)
-
+* [Understanding the Basics of SVG Transformations](http://creativecrunk.com/understanding-the-basics-of-svg-transformations/)
+* [Coloring SVGs in CSS Background Images](http://codepen.io/noahblon/blog/coloring-svgs-in-css-background-images)
 
 ---
 [Back to Home](https://github.com/willianjusten/awesome-svg)
