@@ -45,6 +45,7 @@
 * [Move And Scale SVG Graphics With The viewBox Attribute](http://www.vanseodesign.com/web-design/svg-viewbox/)
 * [Understanding the Basics of SVG Transformations](http://creativecrunk.com/understanding-the-basics-of-svg-transformations/)
 * [Coloring SVGs in CSS Background Images](http://codepen.io/noahblon/blog/coloring-svgs-in-css-background-images)
+* [Adobe Illustrator’s SVG Interactivity Panel Explained](http://webdesign.tutsplus.com/tutorials/adobe-illustrators-svg-interactivity-panel-explained--cms-23600)
 
 ---
 [Back to Home](https://github.com/willianjusten/awesome-svg)
