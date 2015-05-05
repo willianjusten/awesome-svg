@@ -31,6 +31,8 @@
 * [SVG Preview](https://github.com/peterflynn/svg-preview)
 * [Illustrator SVG Exporter Script](https://github.com/iconic/illustrator-svg-exporter)
 * [SVG OMG](https://jakearchibald.github.io/svgomg/)
+* [svg2png command line wrapper](https://github.com/mcous/svg2png-command)
+* [SVG Dashed Line Generator](http://gigacore.github.io/demos/svg-stroke-dasharray-generator/)
 
 ---
 [Back to Home](https://github.com/willianjusten/awesome-svg)

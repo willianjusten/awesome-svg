@@ -26,6 +26,8 @@
 * [Depth field using Filters](http://codepen.io/vcurd/pen/caFxz)
 * [Play with Orca](http://codepen.io/diegoleme/pen/rIokB)
 * [SVG Space Rocket!](http://codepen.io/chrisgannon/pen/QbLMxz)
+* [SVG Paper Shredder](http://codepen.io/chrisgannon/details/bdGqBo/)
+* [SVG Heart Monitor](http://codepen.io/chrisgannon/pen/waaByJ)
 
 ---
 [Back to Home](https://github.com/willianjusten/awesome-svg)
