@@ -47,6 +47,7 @@
 * [Coloring SVGs in CSS Background Images](http://codepen.io/noahblon/blog/coloring-svgs-in-css-background-images)
 * [How To Define SVG Content for Reuse — The defs, symbol, And use Elements](http://www.vanseodesign.com/web-design/svg-definition-reuse/)
 * [Adobe Illustrator’s SVG Interactivity Panel Explained](http://webdesign.tutsplus.com/tutorials/adobe-illustrators-svg-interactivity-panel-explained--cms-23600)
+* [Transforms on SVG Elements](https://css-tricks.com/transforms-on-svg-elements/)
 
 ---
 [Back to Home](https://github.com/willianjusten/awesome-svg)

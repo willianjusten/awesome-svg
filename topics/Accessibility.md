@@ -7,6 +7,7 @@
 * [Great Guide for accessibility](http://a2g.faw.uni-linz.ac.at:8080/svg/jsp/guide.jsp)
 * [Describler make your SVG accessible](http://describler.com/)
 * [Invisible Visualization](http://www.w3.org/Talks/2014/schepers_invisible_visualization/index.html)
+* [Making SVG Accessible](http://demosthenes.info/blog/1026/Making-SVG-Accessible)
 
 ---
 [Back to Home](https://github.com/willianjusten/awesome-svg)
