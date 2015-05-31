@@ -44,6 +44,12 @@
 
 Your contributions are always welcome! [Click Here to read the guidelines](https://github.com/willianjusten/awesome-svg/blob/master/contributing.md).
 
+## Other Awesome Lists
+
+* [Awesome](https://github.com/sindresorhus/awesome)
+* [Awesome-awesome](https://github.com/emijrp/awesome-awesome)
+* [Awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness)
+
 ##License
 
 [![CC0](https://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)
