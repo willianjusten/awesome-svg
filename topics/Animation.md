@@ -1,6 +1,7 @@
 ## Animation
 > How to create different interactions and animations using SVG.
 
+* [Intermediate SVG–Animating with snap.svg](http://unicorn-ui.com/blog/intermediate-svg.html)
 * [The Simple Intro to SVG Animation](http://davidwalsh.name/svg-animation)
 * [SVG animation](http://stylecampaign.com/blog/2014/02/svg-animation/)
 * [The Playground Vector Animation Process](http://playgroundinc.com/blog/the-playground-vector-animation-process/)
@@ -33,6 +34,8 @@
 * [How to use animateTransform for inline SVG](https://webdesign.tutsplus.com/tutorials/how-to-use-animatetransform-for-inline-svg-animation--cms-22296)
 * [How to create an infographic with SVG](http://designmodo.com/svg-infographic/)
 * [How to animate with Polyart](http://css-tricks.com/polylion/)
+* [Jump Loader Animation with GSAP](http://tympanus.net/codrops/2015/03/25/jump-loader-animation-svg-gsap/)
+* [SVG Animations Using CSS and Snap.svg](http://davidwalsh.name/svg-animations-snap)
 
 ---
 [Back to Home](https://github.com/willianjusten/awesome-svg)

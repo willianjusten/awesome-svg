@@ -1,6 +1,9 @@
 ## Basics
 > Everything you need to know to start with SVG.
 
+* [SVG For Absolute Beginners](http://unicorn-ui.com/blog/svg-for-beginners.html)
+* [SVG Document Structure](http://unicorn-ui.com/blog/svg-document-structure.html)
+* [What Is SVG And Why Do You Care?](http://unicorn-ui.com/blog/what-is-svg-and-why-do-you-care.html)
 * [Why arent you using SVG?](http://code.tutsplus.com/tutorials/why-arent-you-using-svg--net-25414)
 * [The Once and Future SVG](http://radar.oreilly.com/2014/11/the-once-and-future-svg.html)
 * [SVGBasics](http://www.svgbasics.com/)
@@ -31,13 +34,16 @@
 * [Como usar SVG](http://willianjusten.com.br/como-usar-svg/) - (Pt-Br)
 * [A estrutura do SVG](http://willianjusten.com.br/a-estrutura-do-svg/) - (Pt-Br)
 * [Atomic Design no SVG](http://willianjusten.com.br/atomic-design-no-svg/) - (Pt-Br)
-* [How I created my first SVGg](https://ihatetomatoes.net/how-i-created-my-first-svg/)
+* [How I created my first SVG](https://ihatetomatoes.net/how-i-created-my-first-svg/)
 * [Web Developer Reading List Introduction to SVG](http://demosthenes.info/blog/970/Web-Developer-Reading-List-Introduction-to-SVG)
 * [SVG Basic course by Css-Tricks](http://css-tricks.com/lodge/svg/table-of-contents/)
 * [The Ultimate Guide to SVG](http://www.webdesignerdepot.com/2015/01/the-ultimate-guide-to-svg/)
 * [SVG and the preserveAspectRadio Property](http://unmatchedstyle.com/news/svg-and-the-preserveaspectratio-property.php)
 * [How to Style and Animate SVG Elements with CSS](http://medialoot.com/blog/how-to-style-and-animate-svg-elements-with-css/)
 * [Want to learn about svg? Start with this article](http://www.designyourway.net/blog/resources/want-to-learn-about-svg-start-with-this-article/)
+* [SVG News](http://svg-news.com/)
+* [Move And Scale SVG Graphics With The viewBox Attribute](http://www.vanseodesign.com/web-design/svg-viewbox/)
+
 
 ---
 [Back to Home](https://github.com/willianjusten/awesome-svg)
