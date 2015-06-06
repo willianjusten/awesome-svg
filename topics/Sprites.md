@@ -8,6 +8,7 @@
 * [Ajaxing for your SVG Sprite](https://css-tricks.com/ajaxing-svg-sprite/)
 * [Creating SVG Sprites using Gulp and Sass](https://www.liquidlight.co.uk/blog/article/creating-svg-sprites-using-gulp-and-sass/)
 * [How SVG Fragment Identifiers Work](https://css-tricks.com/svg-fragment-identifiers-work/)
+* [Usando SVG Sprites](http://willianjusten.com.br/usando-svg-sprites/) - Pt-BR
 
 ---
 [Back to Home](https://github.com/willianjusten/awesome-svg)
