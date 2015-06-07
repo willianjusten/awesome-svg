@@ -39,6 +39,7 @@
 * [Create an SVG Animation using CSS and JavaScript](http://designmodo.com/svg-animation/)
 * [Sign on the Dotted Line: Animating Your Own SVG Signature](http://webdesign.tutsplus.com/tutorials/sign-on-the-dotted-line-animating-your-own-svg-signature--cms-23846)
 * [SVG Dabbles - Tutorials about snap.svg](http://svg.dabbles.info/)
+* [Weighing SVG Animation Techniques](https://css-tricks.com/weighing-svg-animation-techniques-benchmarks/)
 
 ---
 [Back to Home](https://github.com/willianjusten/awesome-svg)

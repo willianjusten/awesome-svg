@@ -30,6 +30,7 @@
 * [SVG Heart Monitor](http://codepen.io/chrisgannon/pen/waaByJ)
 * [SVG Rainbow Rocket Man](http://codepen.io/chrisgannon/details/EjVyXN/)
 * [SVG Memory Game](http://codepen.io/allanpope/full/OVJWLK/)
+* [GSAP SVG Animations by Chris Gannon](http://codepen.io/collection/XzxeNJ/)
 
 ---
 [Back to Home](https://github.com/willianjusten/awesome-svg)

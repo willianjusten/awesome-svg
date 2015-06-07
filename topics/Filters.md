@@ -11,6 +11,7 @@
 * [Enhancing Data Visualization with SVG Filters](http://vasir.net/blog/data-visualization/enhancing-data-visualization-with-svg-filters)
 * [SVG Filters effects](http://jorgeatgu.github.io/svg-filters/)
 * [SVG Filters by Matthew Bystedt](http://apike.ca/prog_svg_filters.html)
+* [Color Filters can turn your gray skies blue](https://css-tricks.com/color-filters-can-turn-your-gray-skies-blue)
 
 ---
 [Back to Home](https://github.com/willianjusten/awesome-svg)
