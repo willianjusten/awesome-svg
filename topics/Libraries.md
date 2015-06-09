@@ -29,6 +29,7 @@
 * [Vivus](http://maxwellito.github.io/vivus/)
 * [Landline](http://propublica.github.io/landline/)
 * [wheelnav.js](http://wheelnavjs.softwaretailoring.net)
+* [hotdraw.js](http://oeasvg.com/bower_components/Hotdraw.js/index.html)
 
 ---
 [Back to Home](https://github.com/willianjusten/awesome-svg)
