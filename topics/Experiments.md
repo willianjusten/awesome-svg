@@ -31,6 +31,7 @@
 * [SVG Rainbow Rocket Man](http://codepen.io/chrisgannon/details/EjVyXN/)
 * [SVG Memory Game](http://codepen.io/allanpope/full/OVJWLK/)
 * [GSAP SVG Animations by Chris Gannon](http://codepen.io/collection/XzxeNJ/)
+* [Browser.js : Layout XML languages such as MathML, HTML inside SVG documents](http://oeasvg.com/bower_components/Browserjs/demos/script/index.html)
 
 ---
 [Back to Home](https://github.com/willianjusten/awesome-svg)
