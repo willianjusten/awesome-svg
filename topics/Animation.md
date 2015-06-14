@@ -40,6 +40,7 @@
 * [Sign on the Dotted Line: Animating Your Own SVG Signature](http://webdesign.tutsplus.com/tutorials/sign-on-the-dotted-line-animating-your-own-svg-signature--cms-23846)
 * [SVG Dabbles - Tutorials about snap.svg](http://svg.dabbles.info/)
 * [Weighing SVG Animation Techniques](https://css-tricks.com/weighing-svg-animation-techniques-benchmarks/)
+* [The State of SVG Animation](http://blogs.adobe.com/dreamweaver/2015/06/the-state-of-svg-animation.html)
 
 ---
 [Back to Home](https://github.com/willianjusten/awesome-svg)
