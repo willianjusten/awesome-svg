@@ -41,6 +41,7 @@
 * [SVG Dabbles - Tutorials about snap.svg](http://svg.dabbles.info/)
 * [Weighing SVG Animation Techniques](https://css-tricks.com/weighing-svg-animation-techniques-benchmarks/)
 * [The State of SVG Animation](http://blogs.adobe.com/dreamweaver/2015/06/the-state-of-svg-animation.html)
+* [How to create a Buffer Animation](https://cssanimation.rocks/buffer/)
 
 ---
 [Back to Home](https://github.com/willianjusten/awesome-svg)
