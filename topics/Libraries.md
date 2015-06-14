@@ -29,8 +29,8 @@
 * [Vivus](http://maxwellito.github.io/vivus/)
 * [Landline](http://propublica.github.io/landline/)
 * [wheelnav.js](http://wheelnavjs.softwaretailoring.net)
-* [wheelnav.js](http://wheelnavjs.softwaretailoring.net)
 * [Oea.SVG](http://oeasvg.com/)
+* [snap.svg.zpd](https://github.com/huei90/snap.svg.zpd)
 
 ---
 [Back to Home](https://github.com/willianjusten/awesome-svg)
