@@ -49,6 +49,7 @@
 * [Adobe Illustrator’s SVG Interactivity Panel Explained](http://webdesign.tutsplus.com/tutorials/adobe-illustrators-svg-interactivity-panel-explained--cms-23600)
 * [Transforms on SVG Elements](https://css-tricks.com/transforms-on-svg-elements/)
 * [SVG Art Direction using Viewbox](http://sarasoueidan.com/blog/svg-art-direction-using-viewbox/)
+* [SVG on the web](https://svgontheweb.com/)
 
 ---
 [Back to Home](https://github.com/willianjusten/awesome-svg)
