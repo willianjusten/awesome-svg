@@ -50,6 +50,7 @@
 * [Transforms on SVG Elements](https://css-tricks.com/transforms-on-svg-elements/)
 * [SVG Art Direction using Viewbox](http://sarasoueidan.com/blog/svg-art-direction-using-viewbox/)
 * [SVG on the web](https://svgontheweb.com/)
+* [Styling SVG <use> Content with CSS](http://tympanus.net/codrops/2015/07/16/styling-svg-use-content-css/)
 
 ---
 [Back to Home](https://github.com/willianjusten/awesome-svg)

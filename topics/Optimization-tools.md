@@ -34,6 +34,7 @@
 * [svg2png command line wrapper](https://github.com/mcous/svg2png-command)
 * [SVG Dashed Line Generator](http://gigacore.github.io/demos/svg-stroke-dasharray-generator/)
 * [A complete guide to SVG Fallbacks](https://css-tricks.com/a-complete-guide-to-svg-fallbacks)
+* [Create Paths Online](http://jxnblk.com/paths/)
 
 ---
 [Back to Home](https://github.com/willianjusten/awesome-svg)
