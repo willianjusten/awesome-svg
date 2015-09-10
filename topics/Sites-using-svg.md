@@ -15,6 +15,6 @@
 * [sono-it.hr/wsite/](http://sono-it.hr/wsite/)
 * [How Clean Is England](http://howcleanisengland.keepbritaintidy.org/#)
 * [Stat Social](http://www.statsocial.com/)
-
+* [Animatron](https://editor.animatron.com/): Flash like HTML5-canvas animation tool. No plugin required to play animations! Mobile-friendly animations, banners, and infographics. User can export their project to animated SVG
 ---
 [Back to Home](https://github.com/willianjusten/awesome-svg)
