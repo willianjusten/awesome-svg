@@ -32,6 +32,7 @@
 * [SVG Memory Game](http://codepen.io/allanpope/full/OVJWLK/)
 * [GSAP SVG Animations by Chris Gannon](http://codepen.io/collection/XzxeNJ/)
 * [SVG 101 - Instructive SVG's](http://codepen.io/collection/AxKdex/)
+* [A simple modal window with an animated SVG background.](http://codyhouse.co/gem/svg-modal-window/)
 
 ---
 [Back to Home](https://github.com/willianjusten/awesome-svg)
