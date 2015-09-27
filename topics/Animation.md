@@ -42,6 +42,6 @@
 * [Weighing SVG Animation Techniques](https://css-tricks.com/weighing-svg-animation-techniques-benchmarks/)
 * [The State of SVG Animation](http://blogs.adobe.com/dreamweaver/2015/06/the-state-of-svg-animation.html)
 * [How to create a Buffer Animation](https://cssanimation.rocks/buffer/)
-
+* [SVG Animation with Greensock](https://www.august.com.au/blog/svg-animation-with-greensock/)
 ---
 [Back to Home](https://github.com/willianjusten/awesome-svg)
