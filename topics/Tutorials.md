@@ -1,4 +1,4 @@
-## Basics
+## Tutorials
 > Everything you need to know to start with SVG.
 
 * [SVG For Absolute Beginners](http://unicorn-ui.com/blog/svg-for-beginners.html)
@@ -51,6 +51,7 @@
 * [SVG Art Direction using Viewbox](http://sarasoueidan.com/blog/svg-art-direction-using-viewbox/)
 * [SVG on the web](https://svgontheweb.com/)
 * [Styling SVG <use> Content with CSS](http://tympanus.net/codrops/2015/07/16/styling-svg-use-content-css/)
+* [A Guide To Building SVG Maps From Natural Earth Data](http://www.smashingmagazine.com/2015/09/making-svg-maps-from-natural-earth-data/)
 
 ---
 [Back to Home](https://github.com/willianjusten/awesome-svg)

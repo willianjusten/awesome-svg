@@ -7,7 +7,6 @@
 - [Awesome SVG](#awesome-svg)
 	- [Accessible SVG](topics/Accessibility.md)
 	- [Animation](topics/Animation.md)
-	- [Basics](topics/Basics.md)
 	- [Books](topics/Books.md)
 	- [Downloads](topics/Downloads.md)
 	- [Experiments](topics/Experiments.md)
@@ -31,6 +30,7 @@
 	- [SVG Software](topics/Softwares.md)
 	- [SVG to Download](topics/Downloads.md)
 	- [Text](topics/Text.md)
+	- [Tutorials](topics/Tutorials.md)
 	- [Videos](topics/Videos.md)
 
 ## Thanks to...
