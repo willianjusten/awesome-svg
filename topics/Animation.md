@@ -43,5 +43,7 @@
 * [The State of SVG Animation](http://blogs.adobe.com/dreamweaver/2015/06/the-state-of-svg-animation.html)
 * [How to create a Buffer Animation](https://cssanimation.rocks/buffer/)
 * [SVG Animation with Greensock](https://www.august.com.au/blog/svg-animation-with-greensock/)
+* [Elastic Progress with SVG and GSAP](http://tympanus.net/codrops/2015/09/23/elastic-progress)
+
 ---
 [Back to Home](https://github.com/willianjusten/awesome-svg)
