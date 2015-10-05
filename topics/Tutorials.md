@@ -53,6 +53,6 @@
 * [Styling SVG <use> Content with CSS](http://tympanus.net/codrops/2015/07/16/styling-svg-use-content-css/)
 * [A Guide To Building SVG Maps From Natural Earth Data](http://www.smashingmagazine.com/2015/09/making-svg-maps-from-natural-earth-data/)
 * [How to make an svg lava lamp](http://codepen.io/chrisgannon/blog/how-to-make-an-svg-lava-lamp)
-
+* [An Introduction to Sprite Animation](http://eighthdaydesign.com/journal/sprite-animation)
 ---
 [Back to Home](https://github.com/willianjusten/awesome-svg)
