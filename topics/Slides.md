@@ -22,7 +22,7 @@
 * [SVG Strikes Back by Matt Baxter](https://speakerdeck.com/mbxtr/svg-strikes-back)
 * [Building Better Interfaces with SVG by Sara Soueidan](http://slides.com/sarasoueidan/building-better-interfaces-with-svg#/)
 * [GSAP + SVG by Sarah Drasner](http://slides.com/sdrasner/gsap-svg)
-* [CREATING SVG POLYGONS](http://slides.com/grayghostvisuals/svgpolygons#/)
+* [Creating SVG Polygons](http://slides.com/grayghostvisuals/svgpolygons#/)
 
 ---
 [Back to Home](https://github.com/willianjusten/awesome-svg)
