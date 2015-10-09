@@ -7,6 +7,7 @@
 * [D3.js](http://d3js.org/)
 * [SVG.js](http://www.svgjs.com/)
 * [GreenSock Draw SVG](http://greensock.com/drawSVG)
+* [GreenSock Morph SVG](http://greensock.com/morphSVG)
 * [Bonsai.js](http://bonsaijs.org/)
 * [SVGWeb](https://code.google.com/p/svgweb/)
 * [SVGRef](http://keith-wood.name/svgRef.html)
