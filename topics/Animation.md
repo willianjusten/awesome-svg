@@ -45,6 +45,7 @@
 * [How to create a Buffer Animation](https://cssanimation.rocks/buffer/)
 * [SVG Animation with Greensock](https://www.august.com.au/blog/svg-animation-with-greensock/)
 * [Elastic Progress with SVG and GSAP](http://tympanus.net/codrops/2015/09/23/elastic-progress)
+* [Creating Material Design Ripple Effects with SVG](http://tympanus.net/codrops/2015/09/14/creating-material-design-ripple-effects-svg/)
 
 ---
 [Back to Home](https://github.com/willianjusten/awesome-svg)
