@@ -1,7 +1,6 @@
 ## Sites using SVG
 > Some of the best sites using SVG.
 
-* [julekalender.vitusapotek.no](http://julekalender.vitusapotek.no/)
 * [kaipoche.co](http://kaipoche.co/)
 * [playgroundinc.com](http://playgroundinc.com/)
 * [gardenestudio.com.br](http://gardenestudio.com.br/)

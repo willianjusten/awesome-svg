@@ -11,7 +11,7 @@
 * [SVG symbol a Good Choice for Icons](http://css-tricks.com/svg-symbol-good-choice-icons/)
 * [SVG use with External Source](http://css-tricks.com/svg-use-external-source/)
 * [Cascading SVG Fill Color](http://css-tricks.com/cascading-svg-fill-color/)
-* [Customizable svg icons css variables](http://codepen.io/AmeliaBR/thoughts/customizable-svg-icons-css-variables)
+* [Customizable svg icons css variables](http://codepen.io/AmeliaBR/post/customizable-svg-icons-css-variables)
 * [Google Fundamentals - Use SVG as icons](https://developers.google.com/web/fundamentals/media/images/use-icons)
 * [150+ Free Animated SVG Icons](http://www.pencilscoop.com/demos/animated-svg/demo/index.html)
 * [Fontastic](http://fontastic.me/faq)
