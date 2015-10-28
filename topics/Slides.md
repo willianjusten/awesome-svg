@@ -24,6 +24,9 @@
 * [GSAP + SVG by Sarah Drasner](http://slides.com/sdrasner/gsap-svg)
 * [Creating SVG Polygons](http://slides.com/grayghostvisuals/svgpolygons#/)
 * [The wonderful world of SVG](https://speakerdeck.com/chriscoyier/the-wonderful-world-of-svg)
+* [Advanced SVG Animation Workshop by Sarah Drasner - Pt1](https://slides.com/sdrasner/frontendmasters1/)
+* [Advanced SVG Animation Workshop by Sarah Drasner - Pt2](https://slides.com/sdrasner/frontendmasters2/)
+* [Advanced SVG Animation Workshop by Sarah Drasner - Pt3](https://slides.com/sdrasner/frontendmasters3/)
 
 ---
 [Back to Home](https://github.com/willianjusten/awesome-svg)
