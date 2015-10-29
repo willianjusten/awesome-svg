@@ -29,6 +29,7 @@
 * [Merry SVG Christmas by I Hate Tomatoes](https://www.youtube.com/watch?v=6j2zdoa6a7Q)
 * [The SVG Reality by Sebastiaan Deckers](https://www.youtube.com/watch?v=VQ7_MwjPqKs&list=TLnovNiLOsOSo)
 * [The Wonderful World of SVG by Chris Coyier](https://www.youtube.com/watch?v=tsGa-gcckwY)
+* [Advanced SVG Animation by Sarah Drasner](http://livestream.com/accounts/4894689/events/4443812)
 
 ---
 [Back to Home](https://github.com/willianjusten/awesome-svg)
