@@ -15,6 +15,7 @@
 * [CSS vs. SVG: Graphical Text Effects](http://blogs.adobe.com/dreamweaver/2015/07/css-vs-svg-graphical-text.html)
 * [Create Text Filling with Water Effect](http://blogs.adobe.com/dreamweaver/2015/08/create-a-text-filling-with-water-effect.html)
 * [CSS vs. SVG: Graphical Text Effects](http://blogs.adobe.com/dreamweaver/2015/07/css-vs-svg-graphical-text.html)
+* [Creative Typography with SVG](http://talks.brennaobrien.com/svg-typography/)
 
 ---
 [Back to Home](https://github.com/willianjusten/awesome-svg)
