@@ -33,6 +33,7 @@
 * [Sistemas de Icones em SVG](http://willianjusten.com.br/sistemas-de-icones-em-svg/) - Pt-Br
 * [Por que parei de utilizar ícones como fontes](https://medium.com/@devinterior/por-que-parei-de-utilizar-%C3%ADcones-como-fontes-3ee74d34cf4) - Pt-Br
 * [Glyph Smarticons](http://glyph.smarticons.co/)
+* [Hybrid SVG icons](http://hybicon.softwaretailoring.net/)
 
 ---
 [Back to Home](https://github.com/willianjusten/awesome-svg)
