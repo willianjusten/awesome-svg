@@ -13,6 +13,7 @@
 * [Grunt-svg-modify](https://www.npmjs.org/package/grunt-svg-modify)
 * [Grunt-contrib-imagemin](https://github.com/gruntjs/grunt-contrib-imagemin)
 * [Grunt-dr-svg-sprites](https://github.com/drdk/grunt-dr-svg-sprites)
+* [Grunt-icomoon](https://bitbucket.org/kluvi/grunt-icomoon)
 
 ---
 [Back to Home](https://github.com/willianjusten/awesome-svg)
