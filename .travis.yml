@@ -1,0 +1,8 @@
+language: ruby
+rvm:
+  - 2.2
+before_script:
+  - gem install awesome_bot
+  - chmod +x ci_script.sh
+script:
+  - ./ci_script.sh
