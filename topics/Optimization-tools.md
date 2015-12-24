@@ -12,7 +12,6 @@
 * [Script to export PSD to SVG](http://hackingui.com/design/export-photoshop-layer-to-svg/)
 * [SVGeezy](http://benhowdle.im/svgeezy/)
 * [SVG Cleaner](https://github.com/RazrFalcon/SVGCleaner)
-* [Export Flash to SVG](http://www.tbyrne.org/export-flash-to-animated-svg)
 * [Using SVG to shrink your pngs](http://peterhrynkow.com/how-to-compress-a-png-like-a-jpeg)
 * [SVG MAGIC](https://github.com/dirkgroenen/SVGMagic)
 * [FakeSMILE](http://leunen.me/fakesmile/index.html)

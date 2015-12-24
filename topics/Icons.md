@@ -16,7 +16,6 @@
 * [150+ Free Animated SVG Icons](http://www.pencilscoop.com/demos/animated-svg/demo/index.html)
 * [Fontastic](http://fontastic.me/faq)
 * [Useiconic](https://useiconic.com/guides/)
-* [Iconmelon](http://iconmelon.com/)
 * [SVGIcons](http://bbriel.me/svgicons/)
 * [Iconmonstr](http://iconmonstr.com/)
 * [SVG ICONS SOCIAL](http://jorgeatgu.github.io/demo)

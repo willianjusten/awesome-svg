@@ -7,7 +7,6 @@
 * [SVG Filters W3C](http://www.w3.org/TR/SVG/filters.html)
 * [Cross-browser filters with CSS and SVG](http://www.broken-links.com/2013/11/20/cross-browser-filters-css-svg/)
 * [MDN about SVG Filter](https://developer.mozilla.org/en-US/docs/Applying_SVG_effects_to_HTML_content)
-* [Fun with SVG Filters](http://blattchat.com/2013/07/13/fun-with-svg-filters/)
 * [Enhancing Data Visualization with SVG Filters](http://vasir.net/blog/data-visualization/enhancing-data-visualization-with-svg-filters)
 * [SVG Filters effects](http://jorgeatgu.github.io/svg-filters/)
 * [SVG Filters by Matthew Bystedt](http://apike.ca/prog_svg_filters.html)
