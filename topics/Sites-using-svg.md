@@ -11,7 +11,6 @@
 * [creative-mob.com](http://www.creative-mob.com/)
 * [initiative.com](http://initiative.com/)
 * [guillaumejuvenet.com](http://www.guillaumejuvenet.com/)
-* [sono-it.hr/wsite/](http://sono-it.hr/wsite/)
 * [How Clean Is England](http://howcleanisengland.keepbritaintidy.org/#)
 * [Stat Social](http://www.statsocial.com/)
 
