@@ -14,6 +14,7 @@
 * [Textures.js ](https://github.com/riccardoscalco/textures)
 * [SVG quasicrystal generator](http://berjon.com/quasi/)
 * [An Overview of SVG Patterns](http://blogs.adobe.com/dreamweaver/2015/09/svg-patterns.html)
+* [Backgroundify - Very simple background generator](https://github.com/vltr/bckgrndfy)
 
 ---
 [Back to Home](https://github.com/willianjusten/awesome-svg)
