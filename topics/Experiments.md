@@ -25,6 +25,14 @@
 * [Glitch by Lucas Bebber](http://codepen.io/lbebber/details/qEjRYd/)
 * [Depth field using Filters](http://codepen.io/vcurd/pen/caFxz)
 * [Play with Orca](http://codepen.io/diegoleme/pen/rIokB)
+* [SVG Space Rocket!](http://codepen.io/chrisgannon/pen/QbLMxz)
+* [SVG Paper Shredder](http://codepen.io/chrisgannon/details/bdGqBo/)
+* [SVG Heart Monitor](http://codepen.io/chrisgannon/pen/waaByJ)
+* [SVG Rainbow Rocket Man](http://codepen.io/chrisgannon/details/EjVyXN/)
+* [SVG Memory Game](http://codepen.io/allanpope/full/OVJWLK/)
+* [GSAP SVG Animations by Chris Gannon](http://codepen.io/collection/XzxeNJ/)
+* [SVG 101 - Instructive SVG's](http://codepen.io/collection/AxKdex/)
+* [A simple modal window with an animated SVG background.](http://codyhouse.co/gem/svg-modal-window/)
 
 ---
 [Back to Home](https://github.com/willianjusten/awesome-svg)

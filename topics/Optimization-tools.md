@@ -12,7 +12,6 @@
 * [Script to export PSD to SVG](http://hackingui.com/design/export-photoshop-layer-to-svg/)
 * [SVGeezy](http://benhowdle.im/svgeezy/)
 * [SVG Cleaner](https://github.com/RazrFalcon/SVGCleaner)
-* [Export Flash to SVG](http://www.tbyrne.org/export-flash-to-animated-svg)
 * [Using SVG to shrink your pngs](http://peterhrynkow.com/how-to-compress-a-png-like-a-jpeg)
 * [SVG MAGIC](https://github.com/dirkgroenen/SVGMagic)
 * [FakeSMILE](http://leunen.me/fakesmile/index.html)
@@ -31,6 +30,11 @@
 * [SVG Preview](https://github.com/peterflynn/svg-preview)
 * [Illustrator SVG Exporter Script](https://github.com/iconic/illustrator-svg-exporter)
 * [SVG OMG](https://jakearchibald.github.io/svgomg/)
+* [svg2png command line wrapper](https://github.com/mcous/svg2png-command)
+* [SVG Dashed Line Generator](http://gigacore.github.io/demos/svg-stroke-dasharray-generator/)
+* [A complete guide to SVG Fallbacks](https://css-tricks.com/a-complete-guide-to-svg-fallbacks)
+* [Create Paths Online](http://jxnblk.com/paths/)
+* [SVG Path Builder](http://anthonydugois.com/svg-path-builder/)
 
 ---
 [Back to Home](https://github.com/willianjusten/awesome-svg)

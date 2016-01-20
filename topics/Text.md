@@ -12,6 +12,9 @@
 * [Fitter Happier Text](http://jxnblk.github.io/fitter-happier-text/)
 * [Animated SVG Font](http://buseca.github.io/letterbolt/)
 * [3 tricks for adding texture to your text](http://www.webdesignerdepot.com/2014/12/3-tricks-for-adding-texture-to-your-text-with-css-and-svg/)
+* [Create Text Filling with Water Effect](http://blogs.adobe.com/dreamweaver/2015/08/create-a-text-filling-with-water-effect.html)
+* [CSS vs. SVG: Graphical Text Effects](http://blogs.adobe.com/dreamweaver/2015/07/css-vs-svg-graphical-text.html)
+* [Creative Typography with SVG](http://talks.brennaobrien.com/svg-typography/)
 
 ---
 [Back to Home](https://github.com/willianjusten/awesome-svg)

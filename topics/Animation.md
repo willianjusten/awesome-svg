@@ -1,6 +1,7 @@
 ## Animation
 > How to create different interactions and animations using SVG.
 
+* [Animate SVG with CSS](https://jonsuh.com/blog/animate-svg-with-css/)
 * [Intermediate SVG–Animating with snap.svg](http://unicorn-ui.com/blog/intermediate-svg.html)
 * [The Simple Intro to SVG Animation](http://davidwalsh.name/svg-animation)
 * [SVG animation](http://stylecampaign.com/blog/2014/02/svg-animation/)
@@ -36,6 +37,15 @@
 * [How to animate with Polyart](http://css-tricks.com/polylion/)
 * [Jump Loader Animation with GSAP](http://tympanus.net/codrops/2015/03/25/jump-loader-animation-svg-gsap/)
 * [SVG Animations Using CSS and Snap.svg](http://davidwalsh.name/svg-animations-snap)
+* [Create an SVG Animation using CSS and JavaScript](http://designmodo.com/svg-animation/)
+* [Sign on the Dotted Line: Animating Your Own SVG Signature](http://webdesign.tutsplus.com/tutorials/sign-on-the-dotted-line-animating-your-own-svg-signature--cms-23846)
+* [SVG Dabbles - Tutorials about snap.svg](http://svg.dabbles.info/)
+* [Weighing SVG Animation Techniques](https://css-tricks.com/weighing-svg-animation-techniques-benchmarks/)
+* [The State of SVG Animation](http://blogs.adobe.com/dreamweaver/2015/06/the-state-of-svg-animation.html)
+* [How to create a Buffer Animation](https://cssanimation.rocks/buffer/)
+* [SVG Animation with Greensock](https://www.august.com.au/blog/svg-animation-with-greensock/)
+* [Elastic Progress with SVG and GSAP](http://tympanus.net/codrops/2015/09/23/elastic-progress)
+* [Creating Material Design Ripple Effects with SVG](http://tympanus.net/codrops/2015/09/14/creating-material-design-ripple-effects-svg/)
 
 ---
 [Back to Home](https://github.com/willianjusten/awesome-svg)

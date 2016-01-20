@@ -7,6 +7,7 @@
 * [D3.js](http://d3js.org/)
 * [SVG.js](http://www.svgjs.com/)
 * [GreenSock Draw SVG](http://greensock.com/drawSVG)
+* [GreenSock Morph SVG](http://greensock.com/morphSVG)
 * [Bonsai.js](http://bonsaijs.org/)
 * [SVGWeb](https://code.google.com/p/svgweb/)
 * [SVGRef](http://keith-wood.name/svgRef.html)
@@ -29,6 +30,9 @@
 * [Vivus](http://maxwellito.github.io/vivus/)
 * [Landline](http://propublica.github.io/landline/)
 * [wheelnav.js](http://wheelnavjs.softwaretailoring.net)
+* [Oea.SVG](http://oeasvg.com/)
+* [snap.svg.zpd](https://github.com/huei90/snap.svg.zpd)
+* [Animate Plus](https://github.com/bendc/animateplus)
 
 ---
 [Back to Home](https://github.com/willianjusten/awesome-svg)

@@ -11,12 +11,11 @@
 * [SVG symbol a Good Choice for Icons](http://css-tricks.com/svg-symbol-good-choice-icons/)
 * [SVG use with External Source](http://css-tricks.com/svg-use-external-source/)
 * [Cascading SVG Fill Color](http://css-tricks.com/cascading-svg-fill-color/)
-* [Customizable svg icons css variables](http://codepen.io/AmeliaBR/thoughts/customizable-svg-icons-css-variables)
+* [Customizable svg icons css variables](http://codepen.io/AmeliaBR/post/customizable-svg-icons-css-variables)
 * [Google Fundamentals - Use SVG as icons](https://developers.google.com/web/fundamentals/media/images/use-icons)
 * [150+ Free Animated SVG Icons](http://www.pencilscoop.com/demos/animated-svg/demo/index.html)
 * [Fontastic](http://fontastic.me/faq)
 * [Useiconic](https://useiconic.com/guides/)
-* [Iconmelon](http://iconmelon.com/)
 * [SVGIcons](http://bbriel.me/svgicons/)
 * [Iconmonstr](http://iconmonstr.com/)
 * [SVG ICONS SOCIAL](http://jorgeatgu.github.io/demo)
@@ -30,7 +29,10 @@
 * [Making SVG buttons](http://metafizzy.co/blog/making-svg-buttons/)
 * [1450 premium SVG icons for free](http://www.iconeden.com/smarticons/index.html)
 * [SVG Sprites and Icon Systems are super](https://lincolnloop.com/blog/svg-sprites-and-icon-systems-are-super/)
-* [Sistemas de Icones em SVG](http://willianjusten.com.br/sistemas-de-icones-em-svg/)
+* [Sistemas de Icones em SVG](http://willianjusten.com.br/sistemas-de-icones-em-svg/) - Pt-Br
+* [Por que parei de utilizar ícones como fontes](https://medium.com/@devinterior/por-que-parei-de-utilizar-%C3%ADcones-como-fontes-3ee74d34cf4) - Pt-Br
+* [Glyph Smarticons](http://glyph.smarticons.co/)
+* [Hybrid SVG icons](http://hybicon.softwaretailoring.net/)
 
 ---
 [Back to Home](https://github.com/willianjusten/awesome-svg)
