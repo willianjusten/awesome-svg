@@ -35,6 +35,9 @@
 * [A complete guide to SVG Fallbacks](https://css-tricks.com/a-complete-guide-to-svg-fallbacks)
 * [Create Paths Online](http://jxnblk.com/paths/)
 * [SVG Path Builder](http://anthonydugois.com/svg-path-builder/)
+* [svgxuse](https://github.com/Keyamoon/svgxuse)
+* [svgson](https://github.com/elrumordelaluz/svgson)
+
 
 ---
 [Back to Home](https://github.com/willianjusten/awesome-svg)
