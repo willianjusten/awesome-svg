@@ -3,7 +3,7 @@
 
 * [Snap.SVG](http://snapsvg.io/)
 * [Two.js](http://jonobr1.github.io/two.js/)
-* [Raphael.js](http://raphaeljs.com/)
+* [Raphael.js](https://github.com/DmitryBaranovskiy/raphael)
 * [D3.js](http://d3js.org/)
 * [SVG.js](http://www.svgjs.com/)
 * [GreenSock Draw SVG](http://greensock.com/drawSVG)
