@@ -8,7 +8,6 @@
 * [The Once and Future SVG](http://radar.oreilly.com/2014/11/the-once-and-future-svg.html)
 * [SVGBasics](http://www.svgbasics.com/)
 * [Using SVG](http://css-tricks.com/using-svg/)
-* [Injecting SVG with Javascript](http://www.pencilscoop.com/2014/04/injecting-svg-with-javascript/)
 * [MDN docs about SVG](https://developer.mozilla.org/en-US/docs/Web/SVG)
 * [Add svg to web page](http://www.sitepoint.com/add-svg-to-web-page/)
 * [W3C Docs](http://www.w3.org/Graphics/SVG/)
