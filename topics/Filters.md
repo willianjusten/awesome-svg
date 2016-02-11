@@ -12,7 +12,7 @@
 * [SVG Filters by Matthew Bystedt](http://apike.ca/prog_svg_filters.html)
 * [Color Filters can turn your gray skies blue](https://css-tricks.com/color-filters-can-turn-your-gray-skies-blue)
 * [How to create squiggly text with svg filters](http://blogs.adobe.com/dreamweaver/2015/07/how-to-create-squiggly-text-with-svg-filters.html)
-* [feConvolveMatrix live demo](http://alexanderkozhevin.github.io/svg-convolution-matrix/)
+* [FeConvolveMatrix live demo](http://alexanderkozhevin.github.io/svg-convolution-matrix/)
 
 ---
 [Back to Home](https://github.com/willianjusten/awesome-svg)
