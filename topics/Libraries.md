@@ -6,6 +6,7 @@
 * [Raphael.js](https://github.com/DmitryBaranovskiy/raphael)
 * [D3.js](http://d3js.org/)
 * [SVG.js](http://www.svgjs.com/)
+* [SVGO](https://github.com/svg/svgo)
 * [GreenSock Draw SVG](http://greensock.com/drawSVG)
 * [GreenSock Morph SVG](http://greensock.com/morphSVG)
 * [Bonsai.js](http://bonsaijs.org/)
