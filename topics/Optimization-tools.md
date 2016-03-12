@@ -38,7 +38,7 @@
 * [SVG Path Builder](http://anthonydugois.com/svg-path-builder/)
 * [svgxuse](https://github.com/Keyamoon/svgxuse)
 * [svgson](https://github.com/elrumordelaluz/svgson)
-
+* [WebFrames](https://github.com/webframes/webframes)
 
 ---
 [Back to Home](https://github.com/willianjusten/awesome-svg)
