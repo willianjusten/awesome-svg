@@ -25,7 +25,6 @@
 * [svg-pan-zoom](https://github.com/ariutta/svg-pan-zoom)
 * [C3.js](https://github.com/masayuki0812/c3)
 * [SvgVerlet.js](https://github.com/miketucker/svg-verlet.js)
-* [smil2css](https://github.com/webframes/smil2css)
 * [WebFrames](https://github.com/webframes/webframes)
 * [Walkway](http://www.connoratherton.com/walkway)
 * [Vivus](http://maxwellito.github.io/vivus/)
