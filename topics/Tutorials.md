@@ -53,6 +53,7 @@
 * [How to make an svg lava lamp](http://codepen.io/chrisgannon/blog/how-to-make-an-svg-lava-lamp)
 * [An Introduction to Sprite Animation](http://eighthdaydesign.com/journal/sprite-animation)
 * [Caching SVG Sprite in localStorage](http://osvaldas.info/caching-svg-sprite-in-localstorage)
+* [You, Me & SVG - Code School](https://www.codeschool.com/courses/you-me-svg)
 
 ---
 [Back to Home](https://github.com/willianjusten/awesome-svg)
