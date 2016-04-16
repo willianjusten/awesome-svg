@@ -5,7 +5,6 @@
 * [playgroundinc.com](http://playgroundinc.com/)
 * [gardenestudio.com.br](http://gardenestudio.com.br/)
 * [panizzon.ind.br](http://panizzon.ind.br/)
-* [sud.ramoneurs.ch](http://sud.ramoneurs.ch/)
 * [makeyourmoneymatter.org](http://makeyourmoneymatter.org/)
 * [albinotonnina.com](http://www.albinotonnina.com/)
 * [creative-mob.com](http://www.creative-mob.com/)
