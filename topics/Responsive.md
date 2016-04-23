@@ -11,5 +11,7 @@
 * [Responsive Logos, Part 1: Tips for Adapting Logos for Small Screens](http://viget.com/inspire/responsive-logos-part-1-tips-for-adapting-logos-for-small-screens)
 * [Responsive Logos, Part 2: Making Logos Truly Responsive with Inline SVG](http://viget.com/inspire/responsive-logos-part-2-making-logos-truly-responsive-with-svg)
 * [Design the Web: Responsive SVG Images - Lynda Course](http://www.lynda.com/CSS-tutorials/Design-Web-Responsive-SVG-Images/366454-2.html)
+* [Responsive Logo Composition With SVG](http://blog.cloudfour.com/responsive-logo-composition-with-svg/)
+
 ---
 [Back to Home](https://github.com/willianjusten/awesome-svg)
