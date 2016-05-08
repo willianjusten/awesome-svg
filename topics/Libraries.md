@@ -2,6 +2,7 @@
 > Some libraries to help us to work with SVG.
 
 * [Snap.SVG](http://snapsvg.io/)
+* [SnapFoo](http://yuschick.github.io/SnapFoo/)
 * [Two.js](http://jonobr1.github.io/two.js/)
 * [Raphael.js](https://github.com/DmitryBaranovskiy/raphael)
 * [D3.js](http://d3js.org/)
