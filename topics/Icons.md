@@ -1,6 +1,7 @@
 ## Icons
 > How to use svg for icons, why svg is better than fonticon, tools, and more.
 
+* [SVG Sprite Workflow That Works](https://medium.com/@iamryanyu/svg-sprite-workflow-that-works-f5609d4d6144#.ycad46oe7)
 * [A Working SVG Workflow for Accessible Icons](http://www.sitepoint.com/a-working-svg-workflow-for-accessible-icons/)
 * [SVG icons ftw](http://tympanus.net/codrops/2013/11/27/svg-icons-ftw/)
 * [Icon System with SVG Sprites](http://css-tricks.com/svg-sprites-use-better-icon-fonts/)
