@@ -33,6 +33,7 @@
 * [Por que parei de utilizar ícones como fontes](https://medium.com/@devinterior/por-que-parei-de-utilizar-%C3%ADcones-como-fontes-3ee74d34cf4) - Pt-Br
 * [Glyph Smarticons](http://glyph.smarticons.co/)
 * [Hybrid SVG icons](http://hybicon.softwaretailoring.net/)
+* [sprite.sh](https://github.com/edenspiekermann/sprite.sh)
 
 ---
 [Back to Home](https://github.com/willianjusten/awesome-svg)

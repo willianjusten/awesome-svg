@@ -9,6 +9,7 @@
 * [Shutterstock](http://www.shutterstock.com/pt/cat-29-Vectors.html)
 * [Onde Baixar SVG](http://willianjusten.com.br/onde-baixar-svg/)
 * [SVG Porn - high quality svg logos](http://svgporn.com/)
+* [Flat Color Icons](https://github.com/icons8/flat-color-icons)
 
 ---
 [Back to Home](https://github.com/willianjusten/awesome-svg)

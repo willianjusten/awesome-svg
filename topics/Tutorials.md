@@ -55,6 +55,7 @@
 * [Caching SVG Sprite in localStorage](http://osvaldas.info/caching-svg-sprite-in-localstorage)
 * [You, Me & SVG - Code School](https://www.codeschool.com/courses/you-me-svg)
 * [Tools And Resources For Editing, Converting And Optimizing SVGs](https://www.smashingmagazine.com/2016/04/tools-and-resources-for-editing-converting-and-optimizing-svgs/)
+* [SVG animation research & GSAP](http://codepen.io/FabioG/post/svg-animation-research-gsap)
 
 ---
 [Back to Home](https://github.com/willianjusten/awesome-svg)
