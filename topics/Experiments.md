@@ -5,7 +5,6 @@
 * [SVG Wow](http://svg-wow.org/)
 * [Great experiments from Codrops](http://tympanus.net/codrops/?s=svg)
 * [Flat Surface Shader](http://matthew.wagerfield.com/flat-surface-shader/)
-* [Thousands of experiments by David Dailey](http://srufaculty.sru.edu/david.dailey/svg/)
 * [VectorShapes - svg apps by Peter Schonefeld](http://vectorshapes.com/)
 * [STAR MAKER](http://svg-whiz.com/svg/StarMaker-FF.svg)
 * [SVG Awesome - a collection by Jason Weaver](http://codepen.io/collection/JyolC/)
