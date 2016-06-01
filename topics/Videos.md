@@ -1,6 +1,7 @@
 ## Videos
 > One image says more than 1000 words, and a video?!
 
+* [SVG in Motion by Sara Soueidan](https://vimeo.com/album/3953264/video/166790778)
 * [SVG Coordinate System–Part I](https://www.youtube.com/watch?v=FCOeMy7HrBc)
 * [Create a SVG Loading Animation with Adobe Illustrator](https://www.youtube.com/watch?v=1lmFMsrLgwM)
 * [Introduction to SVG and RaphaelJS](https://www.youtube.com/watch?v=ECUhNrlyTkE)

@@ -56,6 +56,7 @@
 * [You, Me & SVG - Code School](https://www.codeschool.com/courses/you-me-svg)
 * [Tools And Resources For Editing, Converting And Optimizing SVGs](https://www.smashingmagazine.com/2016/04/tools-and-resources-for-editing-converting-and-optimizing-svgs/)
 * [SVG animation research & GSAP](http://codepen.io/FabioG/post/svg-animation-research-gsap)
+* [Make Responsive SVG Graphics and Infographics](https://www.sitepoint.com/make-responsive-svg-graphs-infographics)
 
 ---
 [Back to Home](https://github.com/willianjusten/awesome-svg)
