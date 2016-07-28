@@ -10,6 +10,7 @@
 * [Onde Baixar SVG](http://willianjusten.com.br/onde-baixar-svg/)
 * [SVG Porn - high quality svg logos](http://svgporn.com/)
 * [Flat Color Icons](https://github.com/icons8/flat-color-icons)
+* [svg-icon](http://leungwensen.github.io/svg-icon/) - Select and download SVG icons as SVG symbol sprite file from over 4,000 SVG icons transformed from icon fonts collections.
 
 ---
 [Back to Home](https://github.com/willianjusten/awesome-svg)

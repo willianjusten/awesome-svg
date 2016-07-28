@@ -34,6 +34,7 @@
 * [Glyph Smarticons](http://glyph.smarticons.co/)
 * [Hybrid SVG icons](http://hybicon.softwaretailoring.net/)
 * [sprite.sh](https://github.com/edenspiekermann/sprite.sh)
+* [svg-icon](https://github.com/leungwensen/svg-icon) - An ultimate svg icons collection DONE RIGHT
 
 ---
 [Back to Home](https://github.com/willianjusten/awesome-svg)
