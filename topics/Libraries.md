@@ -34,6 +34,7 @@
 * [snap.svg.zpd](https://github.com/huei90/snap.svg.zpd)
 * [Animate Plus](https://github.com/bendc/animateplus)
 * [mo · js](https://github.com/legomushroom/mojs)
+* [SVGMaster](https://oaxoa.github.io/SVGMaster/)
 
 ---
 [Back to Home](https://github.com/willianjusten/awesome-svg)
