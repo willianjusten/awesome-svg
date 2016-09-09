@@ -12,6 +12,7 @@
 * [SVG Patterns Gallery](http://philbit.com/svgpatterns/)
 * [Gerstnerizer](http://eskimoblood.github.io/gerstnerizer/)
 * [Textures.js ](https://github.com/riccardoscalco/textures)
+* [svg-patterns](https://github.com/derhuerst/svg-patterns)
 * [SVG quasicrystal generator](http://berjon.com/quasi/)
 * [An Overview of SVG Patterns](http://blogs.adobe.com/dreamweaver/2015/09/svg-patterns.html)
 * [Backgroundify - Very simple background generator](https://github.com/vltr/bckgrndfy)
