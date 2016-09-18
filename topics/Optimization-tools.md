@@ -7,6 +7,7 @@
 * [SVG Optimisation Basics](http://demosthenes.info/blog/807/SVG-Optimisation-The-Basics)
 * [Scour](http://www.codedread.com/scour/)
 * [SVG Editor](http://petercollingridge.appspot.com/svg-editor)
+* [SVG Editor Tools](https://github.com/duopixel/Method-Draw)
 * [Export SVG for the web with Illustrator](http://creativedroplets.com/export-svg-for-the-web-with-illustrator-cc/)
 * [Optimizing Inkscape SVG size for the Web](http://tavmjong.free.fr/blog/?p=79)
 * [Script to export PSD to SVG](http://hackingui.com/design/export-photoshop-layer-to-svg/)
