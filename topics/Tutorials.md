@@ -57,6 +57,7 @@
 * [Tools And Resources For Editing, Converting And Optimizing SVGs](https://www.smashingmagazine.com/2016/04/tools-and-resources-for-editing-converting-and-optimizing-svgs/)
 * [SVG animation research & GSAP](http://codepen.io/FabioG/post/svg-animation-research-gsap)
 * [Make Responsive SVG Graphics and Infographics](https://www.sitepoint.com/make-responsive-svg-graphs-infographics)
+* [SVG has more potential](https://madebymike.com.au/writing/svg-has-more-potential/) - SVG has more potential than we tend to think and how it provides clever solutions to everyday use cases.
 
 ---
 [Back to Home](https://github.com/willianjusten/awesome-svg)
