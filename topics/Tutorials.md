@@ -28,7 +28,6 @@
 * [Um pouco sobre SVG](http://simplesideias.com.br/um-pouco-sobre-svg) - (Pt-Br)
 * [Entendendo e Usando o SVG](http://www.devmedia.com.br/entendendo-e-usando-o-svg/19773) - (Pt-Br)
 * [Imagens em alta resolução utilizando SVG](http://tableless.com.br/imagens-em-alta-resolucao-utilizando-svg/) - (Pt-Br)
-* [Maujor SVG](http://maujorsvg.com.br/) - (Pt-Br)
 * [Por que usar SVG?](http://willianjusten.com.br/por-que-usar-svg/) - (Pt-Br)
 * [Como usar SVG](http://willianjusten.com.br/como-usar-svg/) - (Pt-Br)
 * [A estrutura do SVG](http://willianjusten.com.br/a-estrutura-do-svg/) - (Pt-Br)
