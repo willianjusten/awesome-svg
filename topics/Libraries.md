@@ -35,7 +35,7 @@
 * [Animate Plus](https://github.com/bendc/animateplus)
 * [mo · js](https://github.com/legomushroom/mojs)
 * [SVGMaster](https://oaxoa.github.io/SVGMaster/)
-* [GraphicsJS](https://www.graphicsjs.org)
+* [GraphicsJS](http://www.graphicsjs.org)
 
 ---
 [Back to Home](https://github.com/willianjusten/awesome-svg)
