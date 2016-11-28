@@ -3,5 +3,5 @@ set -e # halt script on error
 
 for file in topics/*.md 
 do
-    bundle exec awesome_bot $file --allow-redirect --set-timeout 10 --white-list slideshare,angrytools
+    bundle exec awesome_bot $file --allow-redirect --set-timeout 10 --white-list slideshare,angrytools,css-tricks
 done
