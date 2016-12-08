@@ -26,13 +26,13 @@
 - [Export SVG for the web with Illustrator CC](http://creativedroplets.com/export-svg-for-the-web-with-illustrator-cc/)
 - [The ultimate SVG guide Infographic](https://psdtowp.net/svg.html)
 - [Getting to the point](http://schepers.cc/getting-to-the-point)
-- [Um pouco sobre SVG](http://simplesideias.com.br/um-pouco-sobre-svg) ![brazil flag](https://cloud.githubusercontent.com/assets/3603793/20947894/62ce26de-bbf8-11e6-8d1b-2b35409760bd.png)
-- [Entendendo e Usando o SVG](http://www.devmedia.com.br/entendendo-e-usando-o-svg/19773) ![brazil flag](https://cloud.githubusercontent.com/assets/3603793/20947894/62ce26de-bbf8-11e6-8d1b-2b35409760bd.png)
-- [Imagens em alta resolução utilizando SVG](http://tableless.com.br/imagens-em-alta-resolucao-utilizando-svg/) ![brazil flag](https://cloud.githubusercontent.com/assets/3603793/20947894/62ce26de-bbf8-11e6-8d1b-2b35409760bd.png)
-- [Por que usar SVG?](http://willianjusten.com.br/por-que-usar-svg/) ![brazil flag](https://cloud.githubusercontent.com/assets/3603793/20947894/62ce26de-bbf8-11e6-8d1b-2b35409760bd.png)
-- [Como usar SVG](http://willianjusten.com.br/como-usar-svg/) ![brazil flag](https://cloud.githubusercontent.com/assets/3603793/20947894/62ce26de-bbf8-11e6-8d1b-2b35409760bd.png)
-- [A estrutura do SVG](http://willianjusten.com.br/a-estrutura-do-svg/) ![brazil flag](https://cloud.githubusercontent.com/assets/3603793/20947894/62ce26de-bbf8-11e6-8d1b-2b35409760bd.png)
-- [Atomic Design no SVG](http://willianjusten.com.br/atomic-design-no-svg/) ![brazil flag](https://cloud.githubusercontent.com/assets/3603793/20947894/62ce26de-bbf8-11e6-8d1b-2b35409760bd.png)
+- [Um pouco sobre SVG](http://simplesideias.com.br/um-pouco-sobre-svg) 🇧🇷 
+- [Entendendo e Usando o SVG](http://www.devmedia.com.br/entendendo-e-usando-o-svg/19773) 🇧🇷 
+- [Imagens em alta resolução utilizando SVG](http://tableless.com.br/imagens-em-alta-resolucao-utilizando-svg/) 🇧🇷 
+- [Por que usar SVG?](http://willianjusten.com.br/por-que-usar-svg/) 🇧🇷 
+- [Como usar SVG](http://willianjusten.com.br/como-usar-svg/) 🇧🇷 
+- [A estrutura do SVG](http://willianjusten.com.br/a-estrutura-do-svg/) 🇧🇷 
+- [Atomic Design no SVG](http://willianjusten.com.br/atomic-design-no-svg/) 🇧🇷 
 - [How I created my first SVG](https://ihatetomatoes.net/how-i-created-my-first-svg/)
 - [Web Developer Reading List Introduction to SVG](http://demosthenes.info/blog/970/Web-Developer-Reading-List-Introduction-to-SVG)
 - [SVG Basic course by Css-Tricks](http://css-tricks.com/lodge/svg/table-of-contents/)
