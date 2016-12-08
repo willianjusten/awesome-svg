@@ -10,8 +10,8 @@
 * [Sams Teach Yourself SVG in 24 Hours by Micah Laaker](http://www.amazon.com/Sams-Teach-Yourself-SVG-Hours/dp/0672322900)
 * [Learning Raphaël JS Vector Graphics by Damian Dawber - 2013](http://www.amazon.com/Learning-Rapha%C3%ABl-JS-Vector-Graphics/dp/1782169164)
 * [SVG Tessellation by Jeremy Corbett - 2013](http://www.amazon.com/SVG-Tessellation-ebook/dp/B00DAKS1U8/)
-* [Gráficos vetoriais escaláveis by Mauricio Samy Silva - 2012 - Pt-Br](http://www.livrosvg.com.br/)
-* [SCALABLE, un libro sobre SVG by Jorge Aznar Tobajas - 2014 - ES](http://www.leanpub.com/scalable/)
+* [Gráficos vetoriais escaláveis by Mauricio Samy Silva - 2012](http://www.livrosvg.com.br/) 🇧🇷 
+* [SCALABLE, un libro sobre SVG by Jorge Aznar Tobajas - 2014](http://www.leanpub.com/scalable/) 🇪🇸 
 
 ---
 [Back to Home](https://github.com/willianjusten/awesome-svg)
