@@ -11,6 +11,8 @@
 * [SVG Porn - high quality svg logos](http://svgporn.com/)
 * [Flat Color Icons](https://github.com/icons8/flat-color-icons)
 * [svg-icon](http://leungwensen.github.io/svg-icon/) - Select and download SVG icons as SVG symbol sprite file from over 4,000 SVG icons transformed from icon fonts collections.
+* [Pixebay](https://pixabay.com/) - International website for sharing high quality public domain photos, illustrations, vector graphics, and film footage.
+* [Loading.io](http://loading.io/) - Build Your Ajax Loading Icons with SVG/CSS/GIF.
 
 ---
 [Back to Home](https://github.com/willianjusten/awesome-svg)
