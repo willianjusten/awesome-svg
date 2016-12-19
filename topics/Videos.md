@@ -32,6 +32,7 @@
 * [The Wonderful World of SVG by Chris Coyier](https://www.youtube.com/watch?v=tsGa-gcckwY)
 * [SVG and GreenSock for Complex Animation by Sara Drasner](https://www.youtube.com/watch?v=ZNukcHhpSXg)
 * [Walking the Line: An Exploration of SVG's Past, Present, and Future with Alex Danilo](https://www.youtube.com/watch?list=PLUj8-Hhrb-a1Qbiw-h8tAs8LOW-kDZ846&v=GV3GSxbW_-A)
+* [Why Inline SVG is Best SVG](https://www.youtube.com/watch?v=af4ZQJ14yu8)
 
 ---
 [Back to Home](https://github.com/willianjusten/awesome-svg)
