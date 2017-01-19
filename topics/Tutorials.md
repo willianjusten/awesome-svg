@@ -15,7 +15,6 @@
 - [Resolution Indepence with SVG](http://www.smashingmagazine.com/2012/01/16/resolution-independence-with-svg/)
 - [A bit about SVG](http://seesparkbox.com/foundry/a_bit_about_svg)
 - [An SVG Primer for Today's Browsers](http://www.w3.org/Graphics/SVG/IG/resources/svgprimer.html)
-- [Tutorials by WebPlatform](http://docs.webplatform.org/wiki/svg)
 - [Structuring, Grouping, and Referencing in SVG](http://sarasoueidan.com/blog/structuring-grouping-referencing-in-svg/)
 - [5 Gotchas You’re Gonna Face Getting Inline SVG Into Production](http://css-tricks.com/gotchas-on-getting-svg-into-production/)
 - [A Look At SVG viewBox and viewport](http://jonibologna.com/svg-viewbox-and-viewport/)
