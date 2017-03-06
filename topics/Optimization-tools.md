@@ -29,7 +29,6 @@
 * [SVG Optimisation Basics](http://demosthenes.info/blog/807/SVG-Optimisation-The-Basics)
 * [SVG Optimizer GUI](https://github.com/svg/svgo-gui)
 * [SVG Optimizer](https://github.com/svg/svgo)
-* [SVG Path Builder](http://anthonydugois.com/svg-path-builder/)
 * [SVG Preview](https://github.com/peterflynn/svg-preview)
 * [SVGeezy](http://benhowdle.im/svgeezy/)
 * [svgson](https://github.com/elrumordelaluz/svgson)

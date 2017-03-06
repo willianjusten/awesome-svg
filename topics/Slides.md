@@ -19,7 +19,6 @@
 * [SVG - De volta e para o futuro by Maujor](http://www.slideshare.net/Maujor/svg-de-volta-e-paara-o-futuro) Pt-Br
 * [SVG by James Coleman](https://speakerdeck.com/ojame/svg)
 * [SVG for the Responsive Web by Jan van Hellemond](https://speakerdeck.com/jvhellemond/svg-for-the-responsive-web)
-* [SVG Sprites: Basic Usage and More by Cody J Landstrom](http://landstrom.co/svg-sprite-slides/)
 * [SVG Strikes Back by Matt Baxter](https://speakerdeck.com/mbxtr/svg-strikes-back)
 * [The future of gradients in SVG by Nikos  Andronikos](graphicalweb.org/2014/abstracts/9-Advanced_gradients_beyond_SVG_2/future_of_svg_gradients_nikos_andronikos_tgw2014.pdf)
 * [The future of SVG and Web Standars by Tavmjong Bah]( http://tavmjong.free.fr/SVG/LG_SVG_2013/lg_2013_svgwg.svg#2_0)
