@@ -1,7 +1,6 @@
 ## Icons
 > How to use svg for icons, why svg is better than fonticon, tools, and more.
 
-* [1450 premium SVG icons for free](http://www.iconeden.com/smarticons/index.html)
 * [A Working SVG Workflow for Accessible Icons](http://www.sitepoint.com/a-working-svg-workflow-for-accessible-icons/)
 * [An overview of svg sprite creation techiniques](http://24ways.org/2014/an-overview-of-svg-sprite-creation-techniques/)
 * [Cascading SVG Fill Color](http://css-tricks.com/cascading-svg-fill-color/)
