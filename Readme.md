@@ -14,7 +14,6 @@
 	- [Follow on Twitter](topics/Follow-twitter.md)
 	- [Gradients](topics/Gradients.md)
 	- [Grunt Plugins](topics/Grunt-plugins.md)
-	- [Groups and Conferences](topics/Groups.md)
 	- [Gulp Plugins](topics/Gulp-plugins.md)
 	- [Icons](topics/Icons.md)
 	- [Libraries](topics/Libraries.md)
