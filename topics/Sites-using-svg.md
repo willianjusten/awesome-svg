@@ -14,6 +14,7 @@
 * [playgroundinc.com](http://playgroundinc.com/)
 * [Stat Social](http://www.statsocial.com/)
 * [StretchSketch](http://www.stretchsketch.com/)
-
+* [Gitlab](https://about.gitlab.com/)
+* [Electron](https://electron.atom.io/)
 ---
 [Back to Home](https://github.com/willianjusten/awesome-svg)
