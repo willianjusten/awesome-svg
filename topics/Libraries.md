@@ -16,6 +16,7 @@
 * [iPath](https://github.com/dr-jerry/iPath)
 * [Landline](http://propublica.github.io/landline/)
 * [Lazy Line Painter](http://lazylinepainter.info/)
+* [Maker.js](http://microsoft.github.io/maker.js/demos/)
 * [MetricsGraphics.js](http://metricsgraphicsjs.org/)
 * [mo · js](https://github.com/legomushroom/mojs)
 * [Oea.SVG](http://oeasvg.com/)
