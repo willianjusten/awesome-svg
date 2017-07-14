@@ -7,6 +7,7 @@
 * [Create an icon font illustrator icomoon](http://www.sitepoint.com/create-an-icon-font-illustrator-icomoon/)
 * [Customizable svg icons css variables](http://codepen.io/AmeliaBR/post/customizable-svg-icons-css-variables)
 * [Evil Icons](http://evil-icons.io/)
+* [Feather](https://feathericons.com)
 * [Fontastic](http://fontastic.me/faq)
 * [Glyph Smarticons](http://glyph.smarticons.co/)
 * [Google Fundamentals - Use SVG as icons](https://developers.google.com/web/fundamentals/media/images/use-icons)
