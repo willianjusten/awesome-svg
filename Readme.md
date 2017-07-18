@@ -37,7 +37,7 @@
 * [Marcus Vinicius](https://github.com/mvfsillva), my friend =)
 * [Rodrigo Machado](https://github.com/rcmachado) for helping me with CC License.
 * [Cleyson Leal](https://github.com/Cleysonlb) for creating the awesome logo.
-* [Chris Coyier](http://chriscoyier.net/) and his [Compendium of SVG Information](http://css-tricks.com/mega-list-svg-information/), was a great start point for me.
+* [Chris Coyier](https://chriscoyier.net/) and his [Compendium of SVG Information](https://css-tricks.com/mega-list-svg-information/), was a great start point for me.
 * and of course, all the [Contributors](https://github.com/willianjusten/awesome-svg/graphs/contributors).
 
 
@@ -53,6 +53,6 @@ Your contributions are always welcome! [Click Here to read the guidelines](https
 
 ##License
 
-[![CC0](https://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)
+[![CC0](https://i.creativecommons.org/l/by/4.0/88x31.png)](https://creativecommons.org/licenses/by/4.0/)
 
-To the extent possible under law, [Willian Justen](http://github.com/willianjusten) has waived all copyright and related or neighboring rights to this work.
+To the extent possible under law, [Willian Justen](https://github.com/willianjusten) has waived all copyright and related or neighboring rights to this work.
