@@ -51,7 +51,7 @@ Your contributions are always welcome! [Click Here to read the guidelines](https
 * [Awesome-awesome](https://github.com/emijrp/awesome-awesome)
 * [Awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness)
 
-##License
+## License
 
 [![CC0](https://i.creativecommons.org/l/by/4.0/88x31.png)](https://creativecommons.org/licenses/by/4.0/)
 
