@@ -27,6 +27,7 @@
 * [SeenJS](https://github.com/themadcreator/seen)
 * [svg-pan-zoom](https://github.com/ariutta/svg-pan-zoom)
 * [SVG.js](http://www.svgjs.com/)
+* [svg-captcha](https://github.com/lemonce/svg-captcha)
 * [SVGMaster](https://oaxoa.github.io/SVGMaster/)
 * [SVGnest](https://github.com/Jack000/SVGnest)
 * [SVGPan](https://code.google.com/p/svgpan/)
