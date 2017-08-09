@@ -6,7 +6,7 @@
 * [Electron / Atom](http://electron.atom.io/)
 * [gardenestudio.com.br](http://gardenestudio.com.br/)
 * [Gitlab](https://about.gitlab.com/) 
-* [guillaumejuvenet.com](http://www.guillaumejuvenet.com/)
+* [guillaumejuvenet.com](https://www.guillaumejuvenet.com/)
 * [How Clean Is England](http://howcleanisengland.keepbritaintidy.org/#)
 * [initiative.com](http://initiative.com/)
 * [kaipoche.co](http://kaipoche.co/)
