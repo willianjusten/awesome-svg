@@ -30,7 +30,6 @@
 * [SVG Space Rocket!](http://codepen.io/chrisgannon/pen/QbLMxz)
 * [Play with Orca](http://codepen.io/diegoleme/pen/rIokB)
 * [SVG Wow](http://svg-wow.org/)
-* [VectorShapes - svg apps by Peter Schonefeld](http://vectorshapes.com/)
 
 ---
 [Back to Home](https://github.com/willianjusten/awesome-svg)
