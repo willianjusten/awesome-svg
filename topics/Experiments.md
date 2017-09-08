@@ -3,7 +3,7 @@
 
 * [A simple modal window with an animated SVG background.](http://codyhouse.co/gem/svg-modal-window/)
 * [Annoshape by Shepazu](http://shepazu.github.io/annoshape/annoshape.html)
-* [Bumb Maping by Lucas Bebber](http://codepen.io/lbebber/details/RNgWXL/)
+* [Bump Maping by Lucas Bebber](http://codepen.io/lbebber/details/RNgWXL/)
 * [Depth field using Filters](http://codepen.io/vcurd/pen/caFxz)
 * [Elastic Stroke SVG+CSS](http://codepen.io/yoksel/pen/XJbzrO)
 * [Elastic SVG Elements](http://tympanus.net/Development/ElasticSVGElements/)
