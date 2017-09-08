@@ -3,7 +3,7 @@
 
 * [Design the Web: Responsive SVG Images - Lynda Course](http://www.lynda.com/CSS-tutorials/Design-Web-Responsive-SVG-Images/366454-2.html)
 * [How to Scale SVG](http://css-tricks.com/scale-svg/)
-* [Make SVG Responsive](http://demosthenes.info/blog/744/Make-SVG-Responsive)
+* [Make SVG Responsive](http://thenewcode.com/744/Make-SVG-Responsive)
 * [Making SVG's responsive with CSS](http://tympanus.net/codrops/2014/08/19/making-svgs-responsive-with-css/)
 * [Making Responsive SVG Graphs](http://meloncholy.com/blog/making-responsive-svg-graphs/)
 * [Media queries in svg images](http://blog.cloudfour.com/media-queries-in-svg-images/)
