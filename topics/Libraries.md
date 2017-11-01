@@ -8,6 +8,7 @@
 * [Chartist.js](http://gionkunz.github.io/chartist-js/)
 * [D3.js](http://d3js.org/)
 * [DrawSVG](https://github.com/petercollingridge/DrawSVG)
+* [Frappé](https://github.com/frappe/charts)
 * [GraphicsJS](http://www.graphicsjs.org)
 * [GreenSock Draw SVG](http://greensock.com/drawSVG)
 * [GreenSock Morph SVG](http://greensock.com/morphSVG)
