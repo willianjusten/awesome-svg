@@ -8,7 +8,6 @@
 	- [Accessible SVG](topics/Accessibility.md)
 	- [Animation](topics/Animation.md)
 	- [Books](topics/Books.md)
-	- [Downloads](topics/Downloads.md)
 	- [Experiments](topics/Experiments.md)
 	- [Filters](topics/Filters.md)
 	- [Follow on Twitter](topics/Follow-twitter.md)
