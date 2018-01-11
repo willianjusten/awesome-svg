@@ -29,6 +29,7 @@
 * [SVG Optimisation Basics](http://demosthenes.info/blog/807/SVG-Optimisation-The-Basics)
 * [SVG Optimizer GUI](https://github.com/svg/svgo-gui)
 * [SVG Optimizer](https://github.com/svg/svgo)
+* [`svgi` tool to inspect the content of SVG files](https://github.com/Angelmmiguel/svgi)
 * [SVG Preview](https://github.com/peterflynn/svg-preview)
 * [SVGeezy](http://benhowdle.im/svgeezy/)
 * [svgson](https://github.com/elrumordelaluz/svgson)
