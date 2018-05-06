@@ -6,7 +6,6 @@
 * [Advanced Gradients for SVG](http://www.svgopen.org/2011/papers/18-Advanced_Gradients_for_SVG/)
 * [Basics of SVG Gradients](http://tutorials.jenkov.com/svg/svg-gradients.html)
 * [CSS/SVG Gradient Generator](http://jimbomatic.com/svg-gradient/)
-* [CSS SVG Gradients with Transparency](http://www.mathachew.com/blog/css-svg-gradients-with-transparency/)
 * [Getting started with SVG Gradients](http://www.sitepoint.com/getting-started-svg-gradients/)
 * [MDN about SVG Gradients](https://developer.mozilla.org/en-US/docs/Web/SVG/Tutorial/Gradients)
 * [Online CSS Gradient GeneratorHelp](http://angrytools.com/gradient/)
