@@ -9,7 +9,7 @@
 * [Getting started with SVG Gradients](http://www.sitepoint.com/getting-started-svg-gradients/)
 * [MDN about SVG Gradients](https://developer.mozilla.org/en-US/docs/Web/SVG/Tutorial/Gradients)
 * [Online CSS Gradient GeneratorHelp](http://angrytools.com/gradient/)
-* [SVG Gradient Background Maker](https://dev.modern.ie/testdrive/demos/svgradientbackgroundmaker/)
+* [SVG Gradient Background Maker](https://testdrive-archive.azurewebsites.net/graphics/svggradientbackgroundmaker/default.html)
 * [SVG Gradient Browser Issues](http://jonibologna.com/svg-gradient-browser-quirks/)
 * [Using svg for flexible scalable and fun backgrounds - part 2](http://alistapart.com/article/using-svg-for-flexible-scalable-and-fun-backgrounds-part-ii)
 * [Using svg for flexible scalable and fun backgrounds - part 1](http://alistapart.com/article/using-svg-for-flexible-scalable-and-fun-backgrounds-part-i)
