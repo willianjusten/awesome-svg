@@ -12,6 +12,7 @@
 * [Inkscape](http://www.inkscape.org/en/) - Free
 * [Sketch](http://bohemiancoding.com/sketch/) - $79.99
 * [Webcode](http://www.webcodeapp.com/) - $39.99
+* [Gravit Designer](https://www.designer.io) - Free
 
 ---
 [Back to Home](https://github.com/willianjusten/awesome-svg)
