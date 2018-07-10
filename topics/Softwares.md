@@ -13,6 +13,7 @@
 * [Sketch](http://bohemiancoding.com/sketch/) - $79.99
 * [Webcode](http://www.webcodeapp.com/) - $39.99
 * [Gravit Designer](https://www.designer.io) - Free
+* [CleverBrush](https://www.cleverbrush.com) - Free to draw online, there are also white-labeled version available
 
 ---
 [Back to Home](https://github.com/willianjusten/awesome-svg)
