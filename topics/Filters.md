@@ -13,6 +13,7 @@
 * [SVG Filters by Jenkov](http://tutorials.jenkov.com/svg/filters.html)
 * [SVG Filters effects](http://jorgeatgu.github.io/svg-filters/)
 * [SVG Filters W3C](http://www.w3.org/TR/SVG/filters.html)
+* [SVG Filters](https://yoksel.github.io/svg-filters/) by [Yoksel](https://twitter.com/yoksel_en)
 
 ---
 [Back to Home](https://github.com/willianjusten/awesome-svg)
