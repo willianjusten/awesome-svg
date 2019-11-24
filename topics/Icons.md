@@ -15,6 +15,7 @@
 * [Icon System with SVG Sprites](http://css-tricks.com/svg-sprites-use-better-icon-fonts/)
 * [Icon Fonts vs SVG](http://css-tricks.com/icon-fonts-vs-svg/)
 * [Iconmonstr](http://iconmonstr.com/)
+* [ICONS Repo](https://iconsrepo.com/) - Editable (colors, thickness, rotation, background) SVG icons library/tool
 * [Loaders with just SVG](http://samherbert.net/svg-loaders/)
 * [Manipulating svg icons with simple css](http://webdesign.tutsplus.com/articles/manipulating-svg-icons-with-simple-css--webdesign-15694)
 * [Making SVG buttons](http://metafizzy.co/blog/making-svg-buttons/)
