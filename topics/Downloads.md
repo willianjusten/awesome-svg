@@ -10,6 +10,7 @@
 * [SVG Crowbar](https://github.com/NYTimes/svg-crowbar) - Download svg on a page using the bookmark
 * [SVG Cuts](http://svgcuts.com/blog/category/fsvgotw/)
 * [SVG Porn - high quality svg logos](http://svgporn.com/)
+* [SVG Repo](https://svgrepo.com/) - Explore & search library of commercial use OK SVG vectors
 * [Shutterstock](http://www.shutterstock.com/pt/cat-29-Vectors.html)
 * [The Noun Project](http://thenounproject.com/)
 * [Vecteezy](http://www.vecteezy.com/)
