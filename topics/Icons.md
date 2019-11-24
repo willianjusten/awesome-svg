@@ -32,7 +32,6 @@
 * [SVG Sprite Workflow That Works](https://medium.com/@iamryanyu/svg-sprite-workflow-that-works-f5609d4d6144#.ycad46oe7)
 * [SVG symbol a Good Choice for Icons](http://css-tricks.com/svg-symbol-good-choice-icons/)
 * [SVG use with External Source](http://css-tricks.com/svg-use-external-source/)
-* [SVGIcons](http://bbriel.me/svgicons/)
 * [Useiconic](https://useiconic.com/guides/)
 
 ---
