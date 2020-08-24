@@ -2,6 +2,7 @@
 > Some SVG resources to download and enjoy.
 
 * [Flat Color Icons](https://github.com/icons8/flat-color-icons)
+* [Freepik](https://www.freepik.com/)
 * [Loading.io](http://loading.io/) - Build Your Ajax Loading Icons with SVG/CSS/GIF.
 * [Onde Baixar SVG](http://willianjusten.com.br/onde-baixar-svg/)
 * [Pinterest - SVG](http://www.pinterest.com/ligayatg/svg-files-free/)
