@@ -37,6 +37,7 @@
 * [SVGWeb](https://code.google.com/p/svgweb/)
 * [Two.js](http://jonobr1.github.io/two.js/)
 * [VelocityJS](http://julian.com/research/velocity/#svg)
+* [Vivid.js](https://webkul.github.io/vivid/)
 * [Vivus](http://maxwellito.github.io/vivus/)
 * [VLEX](https://github.com/indus/VLEX)
 * [Walkway](http://www.connoratherton.com/walkway)
