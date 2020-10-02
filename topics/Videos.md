@@ -1,6 +1,7 @@
 ## Videos
 > One image says more than 1000 words, and a video?!
 
+* [A beginners guide to SVG](https://www.youtube.com/playlist?list=PL4-IK0AVhVjP0EeV513_b30lhGRTfMbYd) :us:
 * [A great List of SVG Basics](https://www.youtube.com/watch?v=PQxtlY19kto&list=PLL8woMHwr36F2tCFnWTbVBQAGQ6nTcXOO)
 * [Animaciones con SVG](https://www.youtube.com/watch?v=vZef4HhybhQ) 🇪🇸 
 * [Augmenting Animations and Interactivity in SVG with Devina Coutinho](http://youtu.be/oIRITi6IcWQ)
