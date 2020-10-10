@@ -12,11 +12,13 @@
 * [Glyph Smarticons](http://glyph.smarticons.co/)
 * [Google Fundamentals - Use SVG as icons](https://developers.google.com/web/fundamentals/media/images/use-icons)
 * [Hybrid SVG icons](http://hybicon.softwaretailoring.net/)
+* [IconSear.ch](https://iconsear.ch/search.html) - search engine with over 50,000 SVG icons indexed
 * [Icon System with SVG Sprites](http://css-tricks.com/svg-sprites-use-better-icon-fonts/)
 * [Icon Fonts vs SVG](http://css-tricks.com/icon-fonts-vs-svg/)
 * [Iconmonstr](http://iconmonstr.com/)
 * [ICONS Repo](https://iconsrepo.com/) - Editable (colors, thickness, rotation, background) SVG icons library/tool
 * [Loaders with just SVG](http://samherbert.net/svg-loaders/)
+* [LogoSear.ch](https://logosear.ch/search.html) - search engine with over 200,000 SVG logos indexed
 * [Manipulating svg icons with simple css](http://webdesign.tutsplus.com/articles/manipulating-svg-icons-with-simple-css--webdesign-15694)
 * [Making SVG buttons](http://metafizzy.co/blog/making-svg-buttons/)
 * [Material Design Icons By Google](https://github.com/google/material-design-icons)
@@ -34,6 +36,7 @@
 * [SVG symbol a Good Choice for Icons](http://css-tricks.com/svg-symbol-good-choice-icons/)
 * [SVG use with External Source](http://css-tricks.com/svg-use-external-source/)
 * [Useiconic](https://useiconic.com/guides/)
+* [VectorLogoZone](https://www.vectorlogo.zone/) - consistently formatted SVG logos
 
 ---
 [Back to Home](https://github.com/willianjusten/awesome-svg)
