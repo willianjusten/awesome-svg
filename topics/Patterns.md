@@ -11,7 +11,6 @@
 * [Patternbolt - Pack a pattern svg into css or scss](http://buseca.github.io/patternbolt/)
 * [Gerstnerizer](http://eskimoblood.github.io/gerstnerizer/)
 * [Textures.js ](https://github.com/riccardoscalco/textures)
-* [SVGeneration - SVG generator](http://www.svgeneration.com/)
 * [SVG fill patterns](http://tutorials.jenkov.com/svg/fill-patterns.html)
 * [SVG Patterns Gallery](http://philbit.com/svgpatterns/)
 * [svg-patterns](https://github.com/derhuerst/svg-patterns)
