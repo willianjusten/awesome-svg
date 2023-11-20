@@ -44,6 +44,7 @@
 * [The Simple Intro to SVG Animation](http://davidwalsh.name/svg-animation)
 * [The State of SVG Animation](http://blogs.adobe.com/dreamweaver/2015/06/the-state-of-svg-animation.html)
 * [Weighing SVG Animation Techniques](https://css-tricks.com/weighing-svg-animation-techniques-benchmarks/)
+* [Animating SVG with styled-components ](https://medium.com/eedi/animating-svg-with-styled-components-34284a7429a3)
 
 ---
 [Back to Home](https://github.com/willianjusten/awesome-svg)
