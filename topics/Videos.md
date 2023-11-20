@@ -22,6 +22,7 @@
 * [SVG 2 For the Artist and Developer with Tavmjong Bah](http://youtu.be/UL2-ZAyvXOM)
 * [SVG and GreenSock for Complex Animation by Sara Drasner](https://www.youtube.com/watch?v=ZNukcHhpSXg)
 * [SVG Coordinate System–Part I](https://www.youtube.com/watch?v=FCOeMy7HrBc)
+* [SVG Explained in 100 Seconds](https://www.youtube.com/watch?v=emFMHH2Bfvo)
 * [SVG in Motion by Sara Soueidan](https://vimeo.com/album/3953264/video/166790778)
 * [SVG Line Animation Tutorial with CSS & Other Fun Stuff](https://www.youtube.com/watch?v=XBdbgD2BaEI)
 * [Tutoriel HTML-CSS : Le Format SVG](https://www.youtube.com/watch?v=x3_BJ6tzPqk) 🇫🇷 
