@@ -14,6 +14,7 @@
 * [Hybrid SVG icons](http://hybicon.softwaretailoring.net/)
 * [IconSear.ch](https://iconsear.ch/search.html) - search engine with over 50,000 SVG icons indexed
 * [Icon System with SVG Sprites](http://css-tricks.com/svg-sprites-use-better-icon-fonts/)
+* [IconicFonts](https://github.com/iconicFonts/iconic-fonts/) - provides more than 55 icon sets with over 60,000 icons
 * [Icon Fonts vs SVG](http://css-tricks.com/icon-fonts-vs-svg/)
 * [Iconmonstr](http://iconmonstr.com/)
 * [ICONS Repo](https://iconsrepo.com/) - Editable (colors, thickness, rotation, background) SVG icons library/tool
@@ -37,7 +38,5 @@
 * [SVG use with External Source](http://css-tricks.com/svg-use-external-source/)
 * [Useiconic](https://useiconic.com/guides/)
 * [VectorLogoZone](https://www.vectorlogo.zone/) - consistently formatted SVG logos
-* [IconicFonts](https://github.com/iconicFonts/iconic-fonts/) - provides more than 55 icon sets with over 60,000 icons
-
 ---
 [Back to Home](https://github.com/willianjusten/awesome-svg)
