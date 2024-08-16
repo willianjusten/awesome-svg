@@ -37,6 +37,7 @@
 * [SVG use with External Source](http://css-tricks.com/svg-use-external-source/)
 * [Useiconic](https://useiconic.com/guides/)
 * [VectorLogoZone](https://www.vectorlogo.zone/) - consistently formatted SVG logos
+* [IconicFonts](https://github.com/iconicFonts/iconic-fonts/) - provides more than 55 icon sets with over 60,000 icons
 
 ---
 [Back to Home](https://github.com/willianjusten/awesome-svg)
