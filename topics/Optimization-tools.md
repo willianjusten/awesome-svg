@@ -23,6 +23,7 @@
 * [SVG Dashed Line Generator](http://gigacore.github.io/demos/svg-stroke-dasharray-generator/)
 * [SVG Editor](http://petercollingridge.appspot.com/svg-editor)
 * [SVG Editor Tools](https://github.com/duopixel/Method-Draw)
+* [SVG Gobbler Browser Extension](https://svggobbler.com/)
 * [SVG MAGIC](https://github.com/dirkgroenen/SVGMagic)
 * [SVG Now](https://github.com/davidderaedt/SVG-NOW)
 * [SVG OMG](https://jakearchibald.github.io/svgomg/)
