@@ -3,6 +3,7 @@
 
 * [Animate Plus](https://github.com/bendc/animateplus)
 * [Bonsai.js](http://bonsaijs.org/)
+* [Brainmap.js](https://github.com/chihebnabil/brainmap.js)
 * [C3.js](https://github.com/masayuki0812/c3)
 * [Charted](http://www.charted.co/)
 * [Chartist.js](http://gionkunz.github.io/chartist-js/)
