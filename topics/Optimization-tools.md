@@ -38,6 +38,7 @@
 * [Tips for optimising svg delivery for the web](http://calendar.perfplanet.com/2014/tips-for-optimising-svg-delivery-for-the-web/)
 * [Using SVG to shrink your pngs](http://peterhrynkow.com/how-to-compress-a-png-like-a-jpeg)
 * [Vector Magic](http://vectormagic.com/)
+* [`vpype` to process SVG for pen plotters](https://github.com/abey79/vpype)
 * [WebFrames](https://github.com/webframes/webframes)
 * [ZorroSVG - Put a Mask on it](http://quasimondo.com/ZorroSVG/)
 
