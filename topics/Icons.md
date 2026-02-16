@@ -11,6 +11,7 @@
 * [Glyph Smarticons](http://glyph.smarticons.co/)
 * [Google Fundamentals - Use SVG as icons](https://developers.google.com/web/fundamentals/media/images/use-icons)
 * [Hybrid SVG icons](http://hybicon.softwaretailoring.net/)
+* [IcoGenie](https://www.icogenie.xyz/) - AI-powered SVG icon generation from text descriptions
 * [IconSear.ch](https://iconsear.ch/search.html) - search engine with over 50,000 SVG icons indexed
 * [Icon System with SVG Sprites](http://css-tricks.com/svg-sprites-use-better-icon-fonts/)
 * [IconicFonts](https://github.com/iconicFonts/iconic-fonts/) - provides more than 55 icon sets with over 60,000 icons
