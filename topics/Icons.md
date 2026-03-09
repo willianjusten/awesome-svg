@@ -37,6 +37,7 @@
 * [SVG symbol a Good Choice for Icons](http://css-tricks.com/svg-symbol-good-choice-icons/)
 * [SVG use with External Source](http://css-tricks.com/svg-use-external-source/)
 * [Useiconic](https://useiconic.com/guides/)
+* [theSVG](https://thesvg.org/) - A beautiful library of 4,000+ brand SVG logos with multiple variants and a free API
 * [VectorLogoZone](https://www.vectorlogo.zone/) - consistently formatted SVG logos
 ---
 [Back to Home](https://github.com/willianjusten/awesome-svg)
