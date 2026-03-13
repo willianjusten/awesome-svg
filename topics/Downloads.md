@@ -6,7 +6,7 @@
 * [Loading.io](http://loading.io/) - Build Your Ajax Loading Icons with SVG/CSS/GIF.
 * [Onde Baixar SVG](http://willianjusten.com.br/onde-baixar-svg/)
 * [Pinterest - SVG](http://www.pinterest.com/ligayatg/svg-files-free/)
-* [Pixebay](https://pixabay.com/) - International website for sharing high quality public domain photos, illustrations, vector graphics, and film footage.
+* [Pixabay](https://pixabay.com/) - International website for sharing high quality public domain photos, illustrations, vector graphics, and film footage.
 * [svg-icon](http://leungwensen.github.io/svg-icon/) - Select and download SVG icons as SVG symbol sprite file from over 4,000 SVG icons transformed from icon fonts collections.
 * [SVG Crowbar](https://github.com/NYTimes/svg-crowbar) - Download svg on a page using the bookmark
 * [SVG Cuts](http://svgcuts.com/blog/category/fsvgotw/)
