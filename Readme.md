@@ -49,6 +49,7 @@ Your contributions are always welcome! [Click Here to read the guidelines](https
 * [Awesome](https://github.com/sindresorhus/awesome)
 * [Awesome-awesome](https://github.com/emijrp/awesome-awesome)
 * [Awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness)
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent system prompts for SVG development workflow orchestration, automated graphic management, and multi-agent coordination. MIT licensed.
 
 ## License
 
