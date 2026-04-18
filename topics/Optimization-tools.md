@@ -4,6 +4,7 @@
 * [A complete guide to SVG Fallbacks](https://css-tricks.com/a-complete-guide-to-svg-fallbacks)
 * [Brackets-svg-code-hints](https://github.com/sprintr/brackets-svg-code-hints)
 * [Convertio](https://convertio.co)
+* [FastTool SVG Tools](https://fasttool.app/category/image) - Browser-based SVG to PNG conversion, SVG optimization, and related image utilities with client-side processing.
 * [Create Paths Online](http://jxnblk.com/paths/)
 * [deSVG](http://benhowdle.im/deSVG/)
 * [Export SVG for the web with Illustrator](http://creativedroplets.com/export-svg-for-the-web-with-illustrator-cc/)
