@@ -8,6 +8,7 @@
 * [Animate SVG Icons with css and Snap](http://codyhouse.co/gem/animate-svg-icons-with-css-and-snap/)
 * [Animate SVG with CSS](https://jonsuh.com/blog/animate-svg-with-css/)
 * [Animate SVG with SMIL Adam Guttentag's Blog](http://codepen.io/guttentag/blog/)
+* [Animated SVG no JS, Python CLI generate's SMIL rain animation matrix.svg](https://github.com/K2/matrix.svg)
 * [Animating SVG with CSS](http://css-tricks.com/animating-svg-css/)
 * [Animating Vectors with SVG](http://24ways.org/2013/animating-vectors-with-svg/)
 * [Create an SVG Animation using CSS and JavaScript](http://designmodo.com/svg-animation/)
