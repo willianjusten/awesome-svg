@@ -2,6 +2,7 @@
 > Some libraries to help us to work with SVG.
 
 * [Animate Plus](https://github.com/bendc/animateplus)
+* [AnyChart](https://www.anychart.com)
 * [Bonsai.js](http://bonsaijs.org/)
 * [Brainmap.js](https://github.com/chihebnabil/brainmap.js)
 * [C3.js](https://github.com/masayuki0812/c3)
