@@ -16,7 +16,7 @@
 * [CleverBrush](https://www.cleverbrush.com) - Free (no charge) to draw online, there are also white-labeled version available
 * [Text Forge](https://text-forge.github.io/docs) (official plugin) - [FOSS](https://en.wikipedia.org/wiki/Free_and_open-source_software)
 * [PolyGlyph](https://polyglyph.io/) - Free credits on signup — AI-powered SVG generation
-* [SVGSketch](https://svgsketch.com) - Free plan available; browser-based SVG editor with clean output, animation, and code generation
+* [SVGSketch](https://svgsketch.com) - Free plan available; browser-based SVG editor with clean output, animation, and a TypeScript SDK
 
 ---
 [Back to Home](https://github.com/willianjusten/awesome-svg)
