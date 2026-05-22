@@ -1,6 +1,7 @@
 ## SVG to Download
 > Some SVG resources to download and enjoy.
 
+* [Car Brand Logos](https://github.com/vehiclespecs/brand-logos) - 184 automotive brand logos to download (100 SVG + 84 PNG), from mass-market to supercar and EV-only marques.
 * [Flat Color Icons](https://github.com/icons8/flat-color-icons)
 * [Freepik](https://www.freepik.com/)
 * [Loading.io](http://loading.io/) - Build Your Ajax Loading Icons with SVG/CSS/GIF.
