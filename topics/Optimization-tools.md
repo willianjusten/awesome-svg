@@ -6,6 +6,7 @@
 * [Convertio](https://convertio.co)
 * [Create Paths Online](http://jxnblk.com/paths/)
 * [deSVG](http://benhowdle.im/deSVG/)
+* [excalidraw-render](https://github.com/shivama205/excalidraw-render) - Clean, browser-free `.excalidraw` to SVG/PNG renderer. Pure Python + cairosvg; no Node, no headless browser.
 * [Export SVG for the web with Illustrator](http://creativedroplets.com/export-svg-for-the-web-with-illustrator-cc/)
 * [FakeSMILE](http://leunen.me/fakesmile/index.html)
 * [FastTool SVG Tools](https://fasttool.app/category/image) - Browser-based SVG to PNG conversion, SVG optimization, and related image utilities with client-side processing.
