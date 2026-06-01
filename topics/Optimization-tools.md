@@ -35,6 +35,7 @@
 * [`svgi` tool to inspect the content of SVG files](https://github.com/Angelmmiguel/svgi)
 * [SVG Preview](https://github.com/peterflynn/svg-preview)
 * [SVGeezy](http://benhowdle.im/svgeezy/)
+* [svg.new](https://svg.new) - AI-powered image to SVG converter with full-color tracing and built-in vector editor. Supports PNG, JPG, WebP to clean scalable vectors.
 * [svgson](https://github.com/elrumordelaluz/svgson)
 * [svgxuse](https://github.com/Keyamoon/svgxuse)
 * [Tips for optimising svg delivery for the web](http://calendar.perfplanet.com/2014/tips-for-optimising-svg-delivery-for-the-web/)
