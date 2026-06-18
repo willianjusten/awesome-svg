@@ -16,6 +16,7 @@
 * [Shutterstock](http://www.shutterstock.com/pt/cat-29-Vectors.html)
 * [The Noun Project](http://thenounproject.com/)
 * [Vecteezy](http://www.vecteezy.com/)
+* [Ouch! Illustrations](https://icons8.com/illustrations) - Vector, 3D, and animated illustrations in 330+ styles. SVG and PNG.
 
 ---
 [Back to Home](https://github.com/willianjusten/awesome-svg)
