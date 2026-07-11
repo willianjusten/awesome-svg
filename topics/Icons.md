@@ -8,6 +8,7 @@
 * [Customizable svg icons css variables](http://codepen.io/AmeliaBR/post/customizable-svg-icons-css-variables)
 * [Feather](https://feathericons.com)
 * [Fontastic](http://fontastic.me/faq)
+* [GeoIcons](https://geoicons.io) - Geographic map icons as tree-shakeable SVG components.
 * [Glyph Smarticons](http://glyph.smarticons.co/)
 * [Google Fundamentals - Use SVG as icons](https://developers.google.com/web/fundamentals/media/images/use-icons)
 * [Hybrid SVG icons](http://hybicon.softwaretailoring.net/)
