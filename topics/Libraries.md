@@ -43,7 +43,7 @@
 * [VLEX](https://github.com/indus/VLEX)
 * [Walkway](http://www.connoratherton.com/walkway)
 * [wheelnav.js](http://wheelnavjs.softwaretailoring.net)
+* [Brush Photo & Video Library](https://github.com/IgorShadurin/brush-photo-video-lib) - Renders repeated Unicode text along smooth SVG paths over embedded photos, with dependency-free ports for 20 languages.
 
 ---
 [Back to Home](https://github.com/willianjusten/awesome-svg)
-
