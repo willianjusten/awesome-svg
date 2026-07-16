@@ -30,6 +30,7 @@
 * [SVG MAGIC](https://github.com/dirkgroenen/SVGMagic)
 * [SVG Now](https://github.com/davidderaedt/SVG-NOW)
 * [SVG OMG](https://jakearchibald.github.io/svgomg/)
+* [svg.dog](https://svg.dog/) - Web UI and REST API for SVGO-based SVG optimization. Batch uploads, remote URL fetching, free tier (500 API calls/month). Node SDK: `@svg.dog/svgdog`.
 * [SVG Optimisation Basics](http://demosthenes.info/blog/807/SVG-Optimisation-The-Basics)
 * [SVG Optimizer GUI](https://github.com/svg/svgo-gui)
 * [SVG Optimizer](https://github.com/svg/svgo)
