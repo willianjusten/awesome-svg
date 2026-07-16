@@ -4,6 +4,7 @@
 * [Animate Plus](https://github.com/bendc/animateplus)
 * [Bonsai.js](http://bonsaijs.org/)
 * [Brainmap.js](https://github.com/chihebnabil/brainmap.js)
+* [Brush Photo & Video Library](https://github.com/IgorShadurin/brush-photo-video-lib) - Renders repeated Unicode text along smooth SVG paths over embedded photos, with dependency-free ports for 20 languages.
 * [C3.js](https://github.com/masayuki0812/c3)
 * [Charted](http://www.charted.co/)
 * [Chartist.js](http://gionkunz.github.io/chartist-js/)
@@ -46,4 +47,3 @@
 
 ---
 [Back to Home](https://github.com/willianjusten/awesome-svg)
-
