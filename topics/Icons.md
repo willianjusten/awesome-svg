@@ -2,6 +2,7 @@
 > How to use svg for icons, why svg is better than fonticon, tools, and more.
 
 * [A Working SVG Workflow for Accessible Icons](http://www.sitepoint.com/a-working-svg-workflow-for-accessible-icons/)
+* [IconStash](https://iconstash.io) - Search 134,000+ free open-source SVG icons with live stroke & color customization.
 * [An overview of svg sprite creation techiniques](http://24ways.org/2014/an-overview-of-svg-sprite-creation-techniques/)
 * [Cascading SVG Fill Color](http://css-tricks.com/cascading-svg-fill-color/)
 * [Create an icon font illustrator icomoon](http://www.sitepoint.com/create-an-icon-font-illustrator-icomoon/)
