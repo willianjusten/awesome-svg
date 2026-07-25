@@ -20,6 +20,7 @@
 * [Lazy Line Painter](http://lazylinepainter.info/)
 * [Maker.js](http://microsoft.github.io/maker.js/demos/)
 * [MetricsGraphics.js](http://metricsgraphicsjs.org/)
+* [microcharts](https://microcharts.dev/) - Word-sized SVG charts for React, sized to sit inside a sentence or a table cell.
 * [mo · js](https://github.com/legomushroom/mojs)
 * [Oea.SVG](http://oeasvg.com/)
 * [Path JS](https://github.com/andreaferretti/paths-js)
