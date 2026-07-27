@@ -44,6 +44,7 @@
 * [Vizua](https://vizua.io/) - Free browser-based image toolkit with SVG support — convert, optimize, and transform SVG files along with 90+ other image tools. All processing runs client-side via WebAssembly.
 * [WebFrames](https://github.com/webframes/webframes)
 * [ZorroSVG - Put a Mask on it](http://quasimondo.com/ZorroSVG/)
+* [SVG editor by garagemade](https://svg.garagemade.app) - Browser-based SVG editor and optimizer. Recolor, resize, optimize (SVGO), outline strokes to fill, remove backgrounds, and export SVG/PNG/ICO/favicon packs. No signup, files stay in your browser.
 
 ---
 [Back to Home](https://github.com/willianjusten/awesome-svg)
