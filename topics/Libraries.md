@@ -15,6 +15,7 @@
 * [GreenSock Draw SVG](http://greensock.com/drawSVG)
 * [GreenSock Morph SVG](http://greensock.com/morphSVG)
 * [Highcharts](http://www.highcharts.com/)
+* [Img2Num](https://github.com/Ryan-Millard/Img2Num) - Cross-platform raster-to-SVG vectorization library designed for natural images, with JavaScript, Python, C, C++, and WebAssembly support.
 * [iPath](https://github.com/dr-jerry/iPath)
 * [Landline](http://propublica.github.io/landline/)
 * [Lazy Line Painter](http://lazylinepainter.info/)
