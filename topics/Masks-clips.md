@@ -3,6 +3,7 @@
 
 * [Cutting Inner Part Element Using Clip-Path](http://css-tricks.com/cutting-inner-part-element-using-clip-path/)
 * [Clip-path Generator](http://cssplant.com/clip-path-generator)
+* [Nutilz Clip-path Generator](https://nutilz.com/clip-path-generator) - Free visual CSS clip-path generator with live preview, no signup required
 * [Clip-path Images Coderwall](https://coderwall.com/p/blx8kw/svg-clippath-images)
 * [Clip Path by Jenkov](http://tutorials.jenkov.com/svg/clip-path.html)
 * [Clipping SVGBasics](http://www.svgbasics.com/clipping.html)
