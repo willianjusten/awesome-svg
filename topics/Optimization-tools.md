@@ -2,6 +2,7 @@
 > Optimize your SVG, support older browsers and more.
 
 * [A complete guide to SVG Fallbacks](https://css-tricks.com/a-complete-guide-to-svg-fallbacks)
+* [All Tools Verse SVG to PNG](https://alltoolsverse.com/tools/svg-to-png/) - Free client-side converter that rasterizes SVG files to PNG while preserving transparency, with no upload or signup.
 * [Brackets-svg-code-hints](https://github.com/sprintr/brackets-svg-code-hints)
 * [Convertio](https://convertio.co)
 * [Create Paths Online](http://jxnblk.com/paths/)
