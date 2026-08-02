@@ -31,6 +31,7 @@
 * [SVG ICONS NewBancomail](http://elrumordelaluz.github.io/newbancomail/svg.html)
 * [SVG ICONS SOCIAL](http://jorgeatgu.github.io/demo)
 * [SVG icons ftw](http://tympanus.net/codrops/2013/11/27/svg-icons-ftw/)
+* [SVGicons.com](https://svgicons.com/) - Search 312K+ open-source SVG icons from 227 sets and copy SVG, React, Vue, HTML, or CSS code.
 * [SVG Morpheus](http://alexk111.github.io/SVG-Morpheus/)
 * [Ten reasons we switched from an icon font to SVG](http://ianfeather.co.uk/ten-reasons-we-switched-from-an-icon-font-to-svg/)
 * [SVG Sprites and Icon Systems are super](https://lincolnloop.com/blog/svg-sprites-and-icon-systems-are-super/)
