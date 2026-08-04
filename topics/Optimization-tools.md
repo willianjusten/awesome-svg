@@ -13,6 +13,7 @@
 * [Grumpicon](http://www.grumpicon.com/)
 * [Iconizr](http://iconizr.com/)
 * [Illustrator SVG Exporter Script](https://github.com/iconic/illustrator-svg-exporter)
+* [norito SVG Optimizer](https://norito.in/svg-optimizer.html) - Browser-based SVG optimizer/minifier, plus a sprite sheet generator and SVG-to-React converter. All client-side, nothing uploaded.
 * [Optimizing Inkscape SVG size for the Web](http://tavmjong.free.fr/blog/?p=79)
 * [Optimizing SVG for Web](http://web-design-weekly.com/2014/10/22/optimizing-svg-web/)
 * [Orthogonal](https://github.com/davidchambers/orthogonal)
