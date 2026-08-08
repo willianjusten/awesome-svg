@@ -13,6 +13,7 @@
 * [Grumpicon](http://www.grumpicon.com/)
 * [Iconizr](http://iconizr.com/)
 * [Illustrator SVG Exporter Script](https://github.com/iconic/illustrator-svg-exporter)
+* [JPG to SVG](https://jpgtosvg.net) - Batch raster to vector converter for JPG, PNG, WebP, AVIF and ICO, using color quantization and region tracing.
 * [Optimizing Inkscape SVG size for the Web](http://tavmjong.free.fr/blog/?p=79)
 * [Optimizing SVG for Web](http://web-design-weekly.com/2014/10/22/optimizing-svg-web/)
 * [Orthogonal](https://github.com/davidchambers/orthogonal)
