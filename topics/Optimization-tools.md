@@ -22,6 +22,7 @@
 * [Script to export PSD to SVG](http://hackingui.com/design/export-photoshop-layer-to-svg/)
 * [smil2css](https://github.com/webframes/smil2css)
 * [svg2png command line wrapper](https://github.com/mcous/svg2png-command)
+* [SVG to TGS](https://svgtotgs.com/) - Browser-based SVG animation editor that exports Telegram-ready TGS files for animated stickers and custom emoji.
 * [SVG Cleaner](https://github.com/RazrFalcon/SVGCleaner)
 * [SVG Dashed Line Generator](http://gigacore.github.io/demos/svg-stroke-dasharray-generator/)
 * [SVG Editor](http://petercollingridge.appspot.com/svg-editor)
