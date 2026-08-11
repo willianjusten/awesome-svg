@@ -28,6 +28,7 @@
 * [snap.svg.zpd](https://github.com/huei90/snap.svg.zpd)
 * [SnapFoo](http://yuschick.github.io/SnapFoo/)
 * [SeenJS](https://github.com/themadcreator/seen)
+* [sketchling](https://github.com/AnayGarodia/sketchling) - A hand-drawn illustration and animation library for SVG, built with rough.js and GSAP.
 * [svg-pan-zoom](https://github.com/ariutta/svg-pan-zoom)
 * [SVG.js](https://svgjs.dev/)
 * [svg-captcha](https://github.com/lemonce/svg-captcha)
