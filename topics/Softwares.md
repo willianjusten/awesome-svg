@@ -16,6 +16,7 @@
 * [CleverBrush](https://www.cleverbrush.com) - Free (no charge) to draw online, there are also white-labeled version available
 * [Text Forge](https://text-forge.github.io/docs) (official plugin) - [FOSS](https://en.wikipedia.org/wiki/Free_and_open-source_software)
 * [PolyGlyph](https://polyglyph.io/) - Free credits on signup — AI-powered SVG generation
+* [Vector Boy](https://www.vector-boy.com/) - Free to use, EUR 10 for 100 downloads - traces photos, logos and handwriting to SVG entirely in the browser, no upload
 
 ---
 [Back to Home](https://github.com/willianjusten/awesome-svg)
