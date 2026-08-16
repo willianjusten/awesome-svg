@@ -4,6 +4,7 @@
 * [A complete guide to SVG Fallbacks](https://css-tricks.com/a-complete-guide-to-svg-fallbacks)
 * [Brackets-svg-code-hints](https://github.com/sprintr/brackets-svg-code-hints)
 * [Convertio](https://convertio.co)
+* [ImaSVG](https://imasvg.com) - Free browser-based image to SVG converter. 6 engines: color, pixel art, Bezier, B&W logos. 100% client-side, images never leave your device.
 * [Create Paths Online](http://jxnblk.com/paths/)
 * [deSVG](http://benhowdle.im/deSVG/)
 * [excalidraw-render](https://github.com/shivama205/excalidraw-render) - Clean, browser-free `.excalidraw` to SVG/PNG renderer. Pure Python + cairosvg; no Node, no headless browser.
