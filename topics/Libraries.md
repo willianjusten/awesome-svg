@@ -38,6 +38,7 @@
 * [SvgVerlet.js](https://github.com/miketucker/svg-verlet.js)
 * [SVGWeb](https://code.google.com/p/svgweb/)
 * [Two.js](http://jonobr1.github.io/two.js/)
+* [VectorAtlas](https://vectoratlas.menelabs.com/) - Free, 80KB SVG world map with one path per country, id-keyed by ISO 3166-1 alpha-2 code, ready for choropleths.
 * [VelocityJS](http://julian.com/research/velocity/#svg)
 * [Vivid.js](https://webkul.github.io/vivid/)
 * [Vivus](http://maxwellito.github.io/vivus/)
