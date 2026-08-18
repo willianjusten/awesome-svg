@@ -43,6 +43,7 @@
 * [The Playground Vector Animation Process](http://playgroundinc.com/blog/the-playground-vector-animation-process/)
 * [The Simple Intro to SVG Animation](http://davidwalsh.name/svg-animation)
 * [The State of SVG Animation](http://blogs.adobe.com/dreamweaver/2015/06/the-state-of-svg-animation.html)
+* [Vayro](https://vayro.dev/) - Animated SVG background generator (waves, blobs, mesh gradients, shape scatter). Exports plain SVG + CSS, no runtime dependency.
 * [Weighing SVG Animation Techniques](https://css-tricks.com/weighing-svg-animation-techniques-benchmarks/)
 
 ---
