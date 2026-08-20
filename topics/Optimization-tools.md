@@ -2,6 +2,7 @@
 > Optimize your SVG, support older browsers and more.
 
 * [A complete guide to SVG Fallbacks](https://css-tricks.com/a-complete-guide-to-svg-fallbacks)
+* [ArtboardLab AI to SVG](https://artboardlab.com/tools/ai-to-svg/) - Converts Adobe Illustrator `.ai` files to SVG entirely in the browser, no upload or sign-up. Best-effort conversion: text isn't selectable and complex effects like gradient meshes and blend modes may differ.
 * [Brackets-svg-code-hints](https://github.com/sprintr/brackets-svg-code-hints)
 * [Convertio](https://convertio.co)
 * [Create Paths Online](http://jxnblk.com/paths/)
