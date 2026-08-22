@@ -43,6 +43,7 @@
 * [Vector Magic](http://vectormagic.com/)
 * [Vizua](https://vizua.io/) - Free browser-based image toolkit with SVG support — convert, optimize, and transform SVG files along with 90+ other image tools. All processing runs client-side via WebAssembly.
 * [WebFrames](https://github.com/webframes/webframes)
+* [Word Animator](https://wordanimator.com/) - Free browser-based SVG, text, logo, and map animation generator with multi-format export (SVG, PNG, GIF, MP4, WebM).
 * [ZorroSVG - Put a Mask on it](http://quasimondo.com/ZorroSVG/)
 
 ---
