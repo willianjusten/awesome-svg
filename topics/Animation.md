@@ -44,6 +44,7 @@
 * [The Simple Intro to SVG Animation](http://davidwalsh.name/svg-animation)
 * [The State of SVG Animation](http://blogs.adobe.com/dreamweaver/2015/06/the-state-of-svg-animation.html)
 * [Weighing SVG Animation Techniques](https://css-tricks.com/weighing-svg-animation-techniques-benchmarks/)
+* [Word Animator](https://wordanimator.com/) - Free online generator to create animated SVG text, logos, infographic paths, and maps with instant preview and multi-format exports.
 
 ---
 [Back to Home](https://github.com/willianjusten/awesome-svg)
