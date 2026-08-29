@@ -13,6 +13,7 @@
 * [Grumpicon](http://www.grumpicon.com/)
 * [Iconizr](http://iconizr.com/)
 * [Illustrator SVG Exporter Script](https://github.com/iconic/illustrator-svg-exporter)
+* [Nutilz SVG Optimizer](https://nutilz.com/svg-optimizer) - Free browser-based SVG optimizer to compress, minify, and clean SVG markup. Runs client-side with no sign-up.
 * [Optimizing Inkscape SVG size for the Web](http://tavmjong.free.fr/blog/?p=79)
 * [Optimizing SVG for Web](http://web-design-weekly.com/2014/10/22/optimizing-svg-web/)
 * [Orthogonal](https://github.com/davidchambers/orthogonal)
