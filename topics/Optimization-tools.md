@@ -39,6 +39,7 @@
 * [svgson](https://github.com/elrumordelaluz/svgson)
 * [svgxuse](https://github.com/Keyamoon/svgxuse)
 * [Tips for optimising svg delivery for the web](http://calendar.perfplanet.com/2014/tips-for-optimising-svg-delivery-for-the-web/)
+* [Trazor Studio](https://trazor.studio/) - Free, open-source, fast raster-to-vector (image to svg) converter, with presets for vinyl cutting, illustration, screen print, etc. Runs entirely in the browser, no upload, no paywall.
 * [Using SVG to shrink your pngs](http://peterhrynkow.com/how-to-compress-a-png-like-a-jpeg)
 * [Vector Magic](http://vectormagic.com/)
 * [Vizua](https://vizua.io/) - Free browser-based image toolkit with SVG support — convert, optimize, and transform SVG files along with 90+ other image tools. All processing runs client-side via WebAssembly.
