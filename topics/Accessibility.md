@@ -5,6 +5,7 @@
 * [Describler make your SVG accessible](http://describler.com/)
 * [Invisible Visualization](http://www.w3.org/Talks/2014/schepers_invisible_visualization/index.html)
 * [Making SVG Accessible](http://thenewcode.com/1026/Making-SVG-Accessible)
+* [SVG Semantic Layout Auditor](https://github.com/edilec/svg-semantic-layout-auditor) - Dependency-free Node.js CLI for static SVG accessibility, reference-safety, dimension, and text-layout checks.
 * [Tips for Creating Accessible SVG](http://www.sitepoint.com/tips-accessible-svg/)
 * [Using ARIA to enhance SVG accessibility](https://www.paciellogroup.com/blog/2013/12/using-aria-enhance-svg-accessibility/)
 
