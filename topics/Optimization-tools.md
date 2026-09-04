@@ -1,6 +1,7 @@
 ## Optimizing, Fallbacks and Tools
 > Optimize your SVG, support older browsers and more.
 
+* [12pixa](https://12pixa.com/) - Raster to SVG vectorizer that runs entirely in the browser via WebAssembly: colour tracing with presets for logos, line art, photos and black and white. No upload, no account. Reads PNG, JPG, WebP, GIF and BMP.
 * [A complete guide to SVG Fallbacks](https://css-tricks.com/a-complete-guide-to-svg-fallbacks)
 * [Brackets-svg-code-hints](https://github.com/sprintr/brackets-svg-code-hints)
 * [Convertio](https://convertio.co)
