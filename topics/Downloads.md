@@ -16,6 +16,7 @@
 * [Shutterstock](http://www.shutterstock.com/pt/cat-29-Vectors.html)
 * [The Noun Project](http://thenounproject.com/)
 * [Vecteezy](http://www.vecteezy.com/)
+* [Slate Free Icons](https://github.com/evanwork34/slate-free-svg-icons) - A free 10-icon SVG sample pack, no attribution required, for personal and commercial use.
 
 ---
 [Back to Home](https://github.com/willianjusten/awesome-svg)
