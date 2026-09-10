@@ -22,6 +22,7 @@
 * [MetricsGraphics.js](http://metricsgraphicsjs.org/)
 * [mo · js](https://github.com/legomushroom/mojs)
 * [Oea.SVG](http://oeasvg.com/)
+* [Orchid Charts](https://github.com/orchidsoftware/charts) - Responsive SVG charts for dashboards, activity calendars, and timelines, with CSS theming and SVG export.
 * [Path JS](https://github.com/andreaferretti/paths-js)
 * [Raphael.js](https://github.com/DmitryBaranovskiy/raphael)
 * [Snap.SVG](http://snapsvg.io/)
