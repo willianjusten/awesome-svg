@@ -16,6 +16,7 @@
 * [Optimizing Inkscape SVG size for the Web](http://tavmjong.free.fr/blog/?p=79)
 * [Optimizing SVG for Web](http://web-design-weekly.com/2014/10/22/optimizing-svg-web/)
 * [Orthogonal](https://github.com/davidchambers/orthogonal)
+* [pic2svg](https://pic2svg.com/) - Browser-based raster-to-vector converter (PNG/JPG to SVG, plus PDF/EPS/AI/DXF for print and CNC) that runs vtracer locally so images are not uploaded.
 * [PicSVG](http://picsvg.com/fr/)
 * [Pixel Art to SVG](https://pixel-to-svg.com/) - Pixel-art-aware PNG to SVG converter that keeps the grid: one rectangle per cell, merged with greedy meshing instead of contour tracing. Runs fully in the browser, no upload.
 * [Scour](http://www.codedread.com/scour/)
