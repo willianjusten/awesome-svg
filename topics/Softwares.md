@@ -16,6 +16,7 @@
 * [CleverBrush](https://www.cleverbrush.com) - Free (no charge) to draw online, there are also white-labeled version available
 * [Text Forge](https://text-forge.github.io/docs) (official plugin) - [FOSS](https://en.wikipedia.org/wiki/Free_and_open-source_software)
 * [PolyGlyph](https://polyglyph.io/) - Free credits on signup — AI-powered SVG generation
+* [Vectopea](https://vectopea.com/) - Free (no charge) online SVG editor with a live code panel, pen tool and boolean operations. Runs in the browser, no account.
 
 ---
 [Back to Home](https://github.com/willianjusten/awesome-svg)
