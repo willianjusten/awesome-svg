@@ -18,6 +18,7 @@
 * [Orthogonal](https://github.com/davidchambers/orthogonal)
 * [PicSVG](http://picsvg.com/fr/)
 * [Pixel Art to SVG](https://pixel-to-svg.com/) - Pixel-art-aware PNG to SVG converter that keeps the grid: one rectangle per cell, merged with greedy meshing instead of contour tracing. Runs fully in the browser, no upload.
+* * [SVG2CSS Studio](https://svg2css.com) - Convert SVG vectors into optimized CSS data URIs, dynamic mask-images (currentColor), and Tailwind classes directly in your browser.
 * [Scour](http://www.codedread.com/scour/)
 * [Script to export PSD to SVG](http://hackingui.com/design/export-photoshop-layer-to-svg/)
 * [smil2css](https://github.com/webframes/smil2css)
