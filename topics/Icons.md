@@ -6,6 +6,7 @@
 * [Cascading SVG Fill Color](http://css-tricks.com/cascading-svg-fill-color/)
 * [Create an icon font illustrator icomoon](http://www.sitepoint.com/create-an-icon-font-illustrator-icomoon/)
 * [Customizable svg icons css variables](http://codepen.io/AmeliaBR/post/customizable-svg-icons-css-variables)
+* [Energy Icons](https://energyicons.com) - 1,279 open source SVG icons for energy, climate and everyday UI, in two optical sizes.
 * [Feather](https://feathericons.com)
 * [Fontastic](http://fontastic.me/faq)
 * [GeoIcons](https://geoicons.io) - Geographic map icons as tree-shakable SVG components.
