@@ -16,6 +16,7 @@
 * [CleverBrush](https://www.cleverbrush.com) - Free (no charge) to draw online, there are also white-labeled version available
 * [Text Forge](https://text-forge.github.io/docs) (official plugin) - [FOSS](https://en.wikipedia.org/wiki/Free_and_open-source_software)
 * [PolyGlyph](https://polyglyph.io/) - Free credits on signup — AI-powered SVG generation
+* [Name Cut Files](https://peakappsstudio.com/name-cut-files/) - Free up to 10 names per file, $15 one-time Pro. Turns a list of names into welded, same-height SVG cut files laid out on a cutting mat
 
 ---
 [Back to Home](https://github.com/willianjusten/awesome-svg)
