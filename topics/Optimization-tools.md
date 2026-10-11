@@ -6,6 +6,7 @@
 * [Convertio](https://convertio.co)
 * [Create Paths Online](http://jxnblk.com/paths/)
 * [deSVG](http://benhowdle.im/deSVG/)
+* [EasyLottie SVG Color Changer](https://www.easylottie.com/svg-color-changer) - Lists the fill and stroke colors in an SVG and recolors them with a live preview, including animated SVGs exported from Figma. Runs in the browser, no upload.
 * [excalidraw-render](https://github.com/shivama205/excalidraw-render) - Clean, browser-free `.excalidraw` to SVG/PNG renderer. Pure Python + cairosvg; no Node, no headless browser.
 * [Export SVG for the web with Illustrator](http://creativedroplets.com/export-svg-for-the-web-with-illustrator-cc/)
 * [FakeSMILE](http://leunen.me/fakesmile/index.html)
