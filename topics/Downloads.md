@@ -15,6 +15,7 @@
 * [SVG Repo](https://svgrepo.com/) - Explore & search library of commercial use OK SVG vectors
 * [Shutterstock](http://www.shutterstock.com/pt/cat-29-Vectors.html)
 * [The Noun Project](http://thenounproject.com/)
+* [Trace Logos](https://trace-logos.ru/en/) - Catalog of 800+ brand logos to download in SVG and PNG, with a color editor.
 * [Vecteezy](http://www.vecteezy.com/)
 
 ---
