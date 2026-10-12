@@ -4,6 +4,7 @@
 * [A simple modal window with an animated SVG background.](http://codyhouse.co/gem/svg-modal-window/)
 * [Annoshape by Shepazu](http://shepazu.github.io/annoshape/annoshape.html)
 * [Bump Maping by Lucas Bebber](http://codepen.io/lbebber/details/RNgWXL/)
+* [Contribution FX - GitHub contribution graphs animated with pure CSS (Game of Life, sorting, fireworks)](https://sur1ive.github.io/contribution-fx/)
 * [Depth field using Filters](http://codepen.io/vcurd/pen/caFxz)
 * [Elastic Stroke SVG+CSS](http://codepen.io/yoksel/pen/XJbzrO)
 * [Elastic SVG Elements](http://tympanus.net/Development/ElasticSVGElements/)
