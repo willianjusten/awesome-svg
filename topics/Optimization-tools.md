@@ -2,6 +2,7 @@
 > Optimize your SVG, support older browsers and more.
 
 * [A complete guide to SVG Fallbacks](https://css-tricks.com/a-complete-guide-to-svg-fallbacks)
+* [APPLORE PNG to SVG](https://applore.app/png-to-svg) - Convert PNG, JPG or WebP to full-color SVG in the browser. Free, unlimited, no upload, no signup; keeps transparency, four styles.
 * [Brackets-svg-code-hints](https://github.com/sprintr/brackets-svg-code-hints)
 * [Convertio](https://convertio.co)
 * [Create Paths Online](http://jxnblk.com/paths/)
