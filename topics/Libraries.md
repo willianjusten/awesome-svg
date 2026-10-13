@@ -26,6 +26,7 @@
 * [Raphael.js](https://github.com/DmitryBaranovskiy/raphael)
 * [Snap.SVG](http://snapsvg.io/)
 * [snap.svg.zpd](https://github.com/huei90/snap.svg.zpd)
+* [SnapDOM](https://github.com/zumerlab/snapdom) - Convert DOM elements to SVG, including true vector output via plugin.
 * [SnapFoo](http://yuschick.github.io/SnapFoo/)
 * [SeenJS](https://github.com/themadcreator/seen)
 * [svg-pan-zoom](https://github.com/ariutta/svg-pan-zoom)
