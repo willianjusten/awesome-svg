@@ -7,6 +7,7 @@
 * [Autodesk Graphic](https://graphic.com/) - $29.90
 * [Boxy SVG](https://boxy-svg.com/main.html) - Free (no charge)
 * [Concepts: Smarter Sketching](http://concepts.tophatch.com) - Free with $5.99 In-App Purchase to unlock PRO which includes SVG export
+* [Glim](https://github.com/NeoPanic/Glim) - Free, open-source macOS SVG and image viewer alongside Markdown, JSON, CSV and source code; SVG previews are read-only.
 * [iDraw](http://www.indeeo.com/idraw/) - $24.99
 * [Inkpad](https://github.com/sprang/Inkpad) - [FOSS](https://en.wikipedia.org/wiki/Free_and_open-source_software)
 * [Inkscape](http://www.inkscape.org/en/) - [FOSS](https://en.wikipedia.org/wiki/Free_and_open-source_software)
