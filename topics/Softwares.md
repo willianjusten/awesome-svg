@@ -16,6 +16,7 @@
 * [CleverBrush](https://www.cleverbrush.com) - Free (no charge) to draw online, there are also white-labeled version available
 * [Text Forge](https://text-forge.github.io/docs) (official plugin) - [FOSS](https://en.wikipedia.org/wiki/Free_and_open-source_software)
 * [PolyGlyph](https://polyglyph.io/) - Free credits on signup — AI-powered SVG generation
+* [WarpImage](https://warpimage.com/svg-warper) - Free with PNG export, $5/month for warped SVG output. Bends SVG files into arcs, waves, perspective and 14 other shapes in the browser
 
 ---
 [Back to Home](https://github.com/willianjusten/awesome-svg)
