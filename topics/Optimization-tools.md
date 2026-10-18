@@ -35,6 +35,7 @@
 * [SVG Optimizer](https://github.com/svg/svgo)
 * [`svgi` tool to inspect the content of SVG files](https://github.com/Angelmmiguel/svgi)
 * [SVG Preview](https://github.com/peterflynn/svg-preview)
+* [SVG to JSX](https://maniruzzamanjubayer.com/tools/svg-to-jsx) - Optimize an SVG with SVGO and turn it into a React or React Native component, a data URI or CSS. Runs in the browser, no upload.
 * [SVGeezy](http://benhowdle.im/svgeezy/)
 * [svgson](https://github.com/elrumordelaluz/svgson)
 * [svgxuse](https://github.com/Keyamoon/svgxuse)
