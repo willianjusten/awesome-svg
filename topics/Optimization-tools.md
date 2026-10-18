@@ -18,6 +18,7 @@
 * [Orthogonal](https://github.com/davidchambers/orthogonal)
 * [PicSVG](http://picsvg.com/fr/)
 * [Pixel Art to SVG](https://pixel-to-svg.com/) - Pixel-art-aware PNG to SVG converter that keeps the grid: one rectangle per cell, merged with greedy meshing instead of contour tracing. Runs fully in the browser, no upload.
+* [Rasterless](https://rasterless.com/) - Free online converter from PNG, JPG and WEBP to SVG, with DXF, EPS and PDF output.
 * [Scour](http://www.codedread.com/scour/)
 * [Script to export PSD to SVG](http://hackingui.com/design/export-photoshop-layer-to-svg/)
 * [smil2css](https://github.com/webframes/smil2css)
