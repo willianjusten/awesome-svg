@@ -8,6 +8,7 @@
 * [Boxy SVG](https://boxy-svg.com/main.html) - Free (no charge)
 * [Concepts: Smarter Sketching](http://concepts.tophatch.com) - Free with $5.99 In-App Purchase to unlock PRO which includes SVG export
 * [iDraw](http://www.indeeo.com/idraw/) - $24.99
+* [Image2Vector](https://image2vector.app/) - Free tier (1 conversion a day); converts PNG, JPG, WebP or GIF images to SVG with real vector paths, also as a Figma plugin
 * [Inkpad](https://github.com/sprang/Inkpad) - [FOSS](https://en.wikipedia.org/wiki/Free_and_open-source_software)
 * [Inkscape](http://www.inkscape.org/en/) - [FOSS](https://en.wikipedia.org/wiki/Free_and_open-source_software)
 * [Sketch](http://bohemiancoding.com/sketch/) - $79.99
