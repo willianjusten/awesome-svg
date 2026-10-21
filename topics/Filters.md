@@ -9,6 +9,7 @@
 * [Hands On: SVG Filter Effects](http://ie.microsoft.com/testdrive/graphics/hands-on-css3/hands-on_svg-filter-effects.htm)
 * [How to create squiggly text with svg filters](http://blogs.adobe.com/dreamweaver/2015/07/how-to-create-squiggly-text-with-svg-filters.html)
 * [MDN about SVG Filter](https://developer.mozilla.org/en-US/docs/Applying_SVG_effects_to_HTML_content)
+* [sketchwash](https://idea2tool.github.io/sketchwash/) - Turns any SVG into a hand-drawn watercolor sketch with SVG filters (`feTurbulence` + `feDisplacementMap`). Runs in the browser, exports PNG or SVG.
 * [SVG Filters by Matthew Bystedt](http://apike.ca/prog_svg_filters.html)
 * [SVG Filters by Jenkov](http://tutorials.jenkov.com/svg/filters.html)
 * [SVG Filters effects](http://jorgeatgu.github.io/svg-filters/)
