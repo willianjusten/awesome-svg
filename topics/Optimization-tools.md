@@ -16,6 +16,7 @@
 * [Optimizing Inkscape SVG size for the Web](http://tavmjong.free.fr/blog/?p=79)
 * [Optimizing SVG for Web](http://web-design-weekly.com/2014/10/22/optimizing-svg-web/)
 * [Orthogonal](https://github.com/davidchambers/orthogonal)
+* [Palette Preview](https://morpeia.com/palette/) - Recolours a flat SVG (fills, strokes, gradient stops) in 2,125 curated palettes, side by side with the original. Exports the recoloured SVG/PNG and the palette as ASE, Procreate swatches, GPL or CSS. Runs fully in the browser, no upload. [Source](https://github.com/morp1e/palette-preview).
 * [PicSVG](http://picsvg.com/fr/)
 * [Pixel Art to SVG](https://pixel-to-svg.com/) - Pixel-art-aware PNG to SVG converter that keeps the grid: one rectangle per cell, merged with greedy meshing instead of contour tracing. Runs fully in the browser, no upload.
 * [Scour](http://www.codedread.com/scour/)
