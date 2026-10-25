@@ -12,6 +12,7 @@
 * [Animating Vectors with SVG](http://24ways.org/2013/animating-vectors-with-svg/)
 * [Create an SVG Animation using CSS and JavaScript](http://designmodo.com/svg-animation/)
 * [Creating Material Design Ripple Effects with SVG](http://tympanus.net/codrops/2015/09/14/creating-material-design-ripple-effects-svg/)
+* [DESIGN:OS SVG Animation - deterministic SVG animation and 1080p 60fps video pipeline for AI coding agents](https://github.com/jangtrinh/design-os-svg-animation)
 * [Elastic Progress with SVG and GSAP](http://tympanus.net/codrops/2015/09/23/elastic-progress)
 * [Greensock Introduces DrawSVG](https://ihatetomatoes.net/greensock-introduces-drawsvgplugin/)
 * [How SVG Line Animation Works](http://css-tricks.com/svg-line-animation-works/)
