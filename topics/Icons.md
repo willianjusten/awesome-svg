@@ -24,6 +24,7 @@
 * [Manipulating svg icons with simple css](http://webdesign.tutsplus.com/articles/manipulating-svg-icons-with-simple-css--webdesign-15694)
 * [Making SVG buttons](http://metafizzy.co/blog/making-svg-buttons/)
 * [Material Design Icons By Google](https://github.com/google/material-design-icons)
+* [Oreo Doodle Icons](https://doodle.oreoui.com) - 197 hand-drawn, animated SVG icons. MIT.
 * [Por que parei de utilizar ícones como fontes](https://medium.com/@devinterior/por-que-parei-de-utilizar-%C3%ADcones-como-fontes-3ee74d34cf4) - Pt-Br
 * [Sistemas de Icones em SVG](http://willianjusten.com.br/sistemas-de-icones-em-svg/) - Pt-Br
 * [sprite.sh](https://github.com/edenspiekermann/sprite.sh)
