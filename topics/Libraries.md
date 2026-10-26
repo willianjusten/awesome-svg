@@ -8,6 +8,7 @@
 * [C3.js](https://github.com/masayuki0812/c3)
 * [Charted](http://www.charted.co/)
 * [Chartist.js](http://gionkunz.github.io/chartist-js/)
+* [claude-motion](https://github.com/TheOnlyFusionCube/claude-motion) - DOM/Three.js motion graphics toolkit with SVG layer and shape helpers and frame-exact MP4 export.
 * [D3.js](http://d3js.org/)
 * [DrawSVG](https://github.com/petercollingridge/DrawSVG)
 * [Frappé](https://github.com/frappe/charts)
