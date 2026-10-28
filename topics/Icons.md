@@ -3,6 +3,7 @@
 
 * [A Working SVG Workflow for Accessible Icons](http://www.sitepoint.com/a-working-svg-workflow-for-accessible-icons/)
 * [An overview of svg sprite creation techiniques](http://24ways.org/2014/an-overview-of-svg-sprite-creation-techniques/)
+* [Animara Free Sampler](https://github.com/animaraicons/animara-free-sampler) - 12 open source (MIT) animated SVG device icons (bulb, fan, kettle and more) that follow real device states in Home Assistant dashboards.
 * [Cascading SVG Fill Color](http://css-tricks.com/cascading-svg-fill-color/)
 * [Create an icon font illustrator icomoon](http://www.sitepoint.com/create-an-icon-font-illustrator-icomoon/)
 * [Customizable svg icons css variables](http://codepen.io/AmeliaBR/post/customizable-svg-icons-css-variables)
