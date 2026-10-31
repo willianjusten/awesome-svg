@@ -5,6 +5,7 @@
 * [Flat Color Icons](https://github.com/icons8/flat-color-icons)
 * [Freepik](https://www.freepik.com/)
 * [Loading.io](http://loading.io/) - Build Your Ajax Loading Icons with SVG/CSS/GIF.
+* [noattributionicons](https://noattributionicons.com/) - Free color SVG icons in themed packs, with PNG exports. Commercial use allowed, no attribution required.
 * [Onde Baixar SVG](http://willianjusten.com.br/onde-baixar-svg/)
 * [Pinterest - SVG](http://www.pinterest.com/ligayatg/svg-files-free/)
 * [Pixabay](https://pixabay.com/) - International website for sharing high quality public domain photos, illustrations, vector graphics, and film footage.
