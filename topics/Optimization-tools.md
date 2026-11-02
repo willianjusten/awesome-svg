@@ -33,10 +33,10 @@
 * [SVG Optimisation Basics](http://demosthenes.info/blog/807/SVG-Optimisation-The-Basics)
 * [SVG Optimizer GUI](https://github.com/svg/svgo-gui)
 * [SVG Optimizer](https://github.com/svg/svgo)
+* [svgeditor.dev](https://svgeditor.dev/) - Free browser-based SVG editor: repair broken or AI-generated SVGs, optimize file size, convert to PNG/ICO/G-code/DXF, and edit visually — all client-side, no upload.
 * [`svgi` tool to inspect the content of SVG files](https://github.com/Angelmmiguel/svgi)
 * [SVG Preview](https://github.com/peterflynn/svg-preview)
 * [SVGeezy](http://benhowdle.im/svgeezy/)
-* [SVG Editor](https://svgeditor.dev/) - Free browser-based SVG viewer, editor and converter: SVGO optimization, SVG/PNG conversion, PNG-to-SVG tracing, code export (React, Vue, Flutter, G-code, DXF and more) and multi-size favicon.ico generation. Visual canvas editing for direct element manipulation. Runs fully client-side.
 * [svgson](https://github.com/elrumordelaluz/svgson)
 * [svgxuse](https://github.com/Keyamoon/svgxuse)
 * [Tips for optimising svg delivery for the web](http://calendar.perfplanet.com/2014/tips-for-optimising-svg-delivery-for-the-web/)
