@@ -35,6 +35,7 @@
 * [SVG Optimizer](https://github.com/svg/svgo)
 * [`svgi` tool to inspect the content of SVG files](https://github.com/Angelmmiguel/svgi)
 * [SVG Preview](https://github.com/peterflynn/svg-preview)
+* [SVG to React](https://www.svgtoreact.com/) - Convert SVG to React JSX/TSX components in the browser.
 * [SVGeezy](http://benhowdle.im/svgeezy/)
 * [svgson](https://github.com/elrumordelaluz/svgson)
 * [svgxuse](https://github.com/Keyamoon/svgxuse)
