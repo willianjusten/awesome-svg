@@ -30,6 +30,7 @@
 * [SVG Space Rocket!](http://codepen.io/chrisgannon/pen/QbLMxz)
 * [Play with Orca](http://codepen.io/diegoleme/pen/rIokB)
 * [SVG Wow](http://svg-wow.org/)
+* [Describble](https://describble.com) - Avatars drawn as hand-made SVG pen strokes that redraw and tremble while you type a description ([source](https://github.com/gasparegas/describble)).
 
 ---
 [Back to Home](https://github.com/willianjusten/awesome-svg)
