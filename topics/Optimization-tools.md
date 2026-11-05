@@ -41,6 +41,7 @@
 * [Tips for optimising svg delivery for the web](http://calendar.perfplanet.com/2014/tips-for-optimising-svg-delivery-for-the-web/)
 * [Using SVG to shrink your pngs](http://peterhrynkow.com/how-to-compress-a-png-like-a-jpeg)
 * [Vector Magic](http://vectormagic.com/)
+* [Vectopea SVG to PNG](https://vectopea.com/svg-to-png) - Free in-browser SVG to PNG converter with batch export and 300 DPI print sizes, no upload.
 * [Vizua](https://vizua.io/) - Free browser-based image toolkit with SVG support — convert, optimize, and transform SVG files along with 90+ other image tools. All processing runs client-side via WebAssembly.
 * [WebFrames](https://github.com/webframes/webframes)
 * [ZorroSVG - Put a Mask on it](http://quasimondo.com/ZorroSVG/)
