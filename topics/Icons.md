@@ -17,6 +17,7 @@
 * [Icon System with SVG Sprites](http://css-tricks.com/svg-sprites-use-better-icon-fonts/)
 * [IconicFonts](https://github.com/iconicFonts/iconic-fonts/) - provides more than 55 icon sets with over 60,000 icons
 * [Icon Fonts vs SVG](http://css-tricks.com/icon-fonts-vs-svg/)
+* [Iconito Free Food](https://iconi.to/free-food-icons) - MIT-licensed colour food icons in SVG, drawn to read at 24px
 * [Iconmonstr](http://iconmonstr.com/)
 * [ICONS Repo](https://iconsrepo.com/) - Editable (colors, thickness, rotation, background) SVG icons library/tool
 * [Loaders with just SVG](http://samherbert.net/svg-loaders/)
