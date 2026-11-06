@@ -13,6 +13,7 @@
 * [SVG Cuts](http://svgcuts.com/blog/category/fsvgotw/)
 * [SVG Porn - high quality svg logos](http://svgporn.com/)
 * [SVG Repo](https://svgrepo.com/) - Explore & search library of commercial use OK SVG vectors
+* [svgapp Mascot Library](https://svgapp.ai/library/) - Free animated SVG mascot characters in many poses, free for commercial use without attribution.
 * [Shutterstock](http://www.shutterstock.com/pt/cat-29-Vectors.html)
 * [The Noun Project](http://thenounproject.com/)
 * [Vecteezy](http://www.vecteezy.com/)
