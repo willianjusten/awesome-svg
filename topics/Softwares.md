@@ -16,6 +16,7 @@
 * [CleverBrush](https://www.cleverbrush.com) - Free (no charge) to draw online, there are also white-labeled version available
 * [Text Forge](https://text-forge.github.io/docs) (official plugin) - [FOSS](https://en.wikipedia.org/wiki/Free_and_open-source_software)
 * [PolyGlyph](https://polyglyph.io/) - Free credits on signup — AI-powered SVG generation
+* [Awesome Toolkit SVG Editor](https://awesometoolkit.com/en/tools/svg-editor) - Free (no charge), online: draw shapes, paths, gradients and layers in the browser, export SVG or PNG; no upload, no signup
 
 ---
 [Back to Home](https://github.com/willianjusten/awesome-svg)
