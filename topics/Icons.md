@@ -40,5 +40,6 @@
 * [Useiconic](https://useiconic.com/guides/)
 * [theSVG](https://thesvg.org/) - A beautiful library of 4,000+ brand SVG logos with multiple variants and a free API
 * [VectorLogoZone](https://www.vectorlogo.zone/) - consistently formatted SVG logos
+* [movin.design icons](https://movin.design/icons/) - A growing collection of animated SVG icon styles to recolour and download, plus open-source animated icon sets to copy as SVG
 ---
 [Back to Home](https://github.com/willianjusten/awesome-svg)
