@@ -30,6 +30,7 @@
 * [SeenJS](https://github.com/themadcreator/seen)
 * [svg-pan-zoom](https://github.com/ariutta/svg-pan-zoom)
 * [SVG.js](https://svgjs.dev/)
+* [svg-scroll-draw](https://github.com/DhruvilChauahan0210/ink-scroll) - Draws SVG paths as the page scrolls, with a native CSS scroll-timeline path and a JavaScript fallback. MIT, no dependencies.
 * [svg-captcha](https://github.com/lemonce/svg-captcha)
 * [SVGMaster](https://oaxoa.github.io/SVGMaster/)
 * [SVGnest](https://github.com/Jack000/SVGnest)
