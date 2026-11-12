@@ -35,6 +35,7 @@
 * [SVG Optimizer](https://github.com/svg/svgo)
 * [`svgi` tool to inspect the content of SVG files](https://github.com/Angelmmiguel/svgi)
 * [SVG Preview](https://github.com/peterflynn/svg-preview)
+* [SVG Scan](https://github.com/AtharvaLakhe/SVG_Scan) - Open-source browser tool for tracing raster images into SVG and exporting React, Vue, CSS and Android code. Images are processed locally.
 * [SVGeezy](http://benhowdle.im/svgeezy/)
 * [svgson](https://github.com/elrumordelaluz/svgson)
 * [svgxuse](https://github.com/Keyamoon/svgxuse)
