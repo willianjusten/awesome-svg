@@ -13,6 +13,7 @@
 * [Grumpicon](http://www.grumpicon.com/)
 * [Iconizr](http://iconizr.com/)
 * [Illustrator SVG Exporter Script](https://github.com/iconic/illustrator-svg-exporter)
+* [LogoLab](https://logolab.fabraham.dev) - Trace a logo or icon image into an editable SVG in the browser, with a public benchmark against other tracers.
 * [Optimizing Inkscape SVG size for the Web](http://tavmjong.free.fr/blog/?p=79)
 * [Optimizing SVG for Web](http://web-design-weekly.com/2014/10/22/optimizing-svg-web/)
 * [Orthogonal](https://github.com/davidchambers/orthogonal)
