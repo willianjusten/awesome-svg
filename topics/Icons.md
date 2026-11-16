@@ -9,6 +9,8 @@
 * [Feather](https://feathericons.com)
 * [Fontastic](http://fontastic.me/faq)
 * [GeoIcons](https://geoicons.io) - Geographic map icons as tree-shakable SVG components.
+* [GHS Hazard Pictograms](https://karlnorling.github.io/ghs-hazard-pictograms/) - GHS chemical hazard and ADR/UN transport pictograms as typed SVG components.
+* [GINETEX Laundry Care Symbols](https://karlnorling.github.io/ginetex/) - GINETEX / ISO 3758 textile care symbols as typed SVG components.
 * [Glyph Smarticons](http://glyph.smarticons.co/)
 * [Google Fundamentals - Use SVG as icons](https://developers.google.com/web/fundamentals/media/images/use-icons)
 * [Hybrid SVG icons](http://hybicon.softwaretailoring.net/)
@@ -19,12 +21,16 @@
 * [Icon Fonts vs SVG](http://css-tricks.com/icon-fonts-vs-svg/)
 * [Iconmonstr](http://iconmonstr.com/)
 * [ICONS Repo](https://iconsrepo.com/) - Editable (colors, thickness, rotation, background) SVG icons library/tool
+* [ISO 7001 Public Information Symbols](https://karlnorling.github.io/public-information-symbols/) - ISO 7001 public information symbols as typed SVG components.
+* [ISO 7010 Safety Signs](https://karlnorling.github.io/iso-safety-signs/) - ISO 7010 safety signs as typed SVG components with a CSS and SVG sprite.
 * [Loaders with just SVG](http://samherbert.net/svg-loaders/)
 * [LogoSear.ch](https://logosear.ch/search.html) - search engine with over 200,000 SVG logos indexed
 * [Manipulating svg icons with simple css](http://webdesign.tutsplus.com/articles/manipulating-svg-icons-with-simple-css--webdesign-15694)
 * [Making SVG buttons](http://metafizzy.co/blog/making-svg-buttons/)
 * [Material Design Icons By Google](https://github.com/google/material-design-icons)
+* [Nautical Symbols](https://karlnorling.github.io/nautical-symbols/) - IALA buoyage, nautical chart symbols and maritime signal flags as typed SVG components.
 * [Por que parei de utilizar ícones como fontes](https://medium.com/@devinterior/por-que-parei-de-utilizar-%C3%ADcones-como-fontes-3ee74d34cf4) - Pt-Br
+* [Road Signs](https://karlnorling.github.io/road-signs/) - Road signs for 132 countries as typed SVG components, one package per country.
 * [Sistemas de Icones em SVG](http://willianjusten.com.br/sistemas-de-icones-em-svg/) - Pt-Br
 * [sprite.sh](https://github.com/edenspiekermann/sprite.sh)
 * [svg-icon](https://github.com/leungwensen/svg-icon) - An ultimate svg icons collection DONE RIGHT
