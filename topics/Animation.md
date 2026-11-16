@@ -27,6 +27,7 @@
 * [Loading Animation with SVG](https://github.com/jxnblk/loading)
 * [MDN about Animation with SMIL](https://developer.mozilla.org/en-US/docs/Web/SVG/SVG_animation_with_SMIL)
 * [Masking SVG Animations](https://medium.com/@gordonnl/stylised-line-animations-ded23320ffe5)
+* [Particle Logo](https://particlelogo.com/) - Turn any SVG or logo into interactive 60FPS particle animations and export standalone HTML5/Canvas code.
 * [Polygon feature design: SVG animations for fun and profit](http://product.voxmedia.com/2013/11/25/5426880/polygon-feature-design-svg-animations-for-fun-and-profit)
 * [Run, run, Ruuun!](http://codepen.io/CyrilLevallois/pen/JbrfI/)
 * [Sign on the Dotted Line: Animating Your Own SVG Signature](http://webdesign.tutsplus.com/tutorials/sign-on-the-dotted-line-animating-your-own-svg-signature--cms-23846)
