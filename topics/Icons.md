@@ -9,6 +9,7 @@
 * [Feather](https://feathericons.com)
 * [Fontastic](http://fontastic.me/faq)
 * [GeoIcons](https://geoicons.io) - Geographic map icons as tree-shakable SVG components.
+* [Gentleface](https://gentleface.com) - 4,035 MIT icons drawn on the 16 px pixel grid in 6 styles, with separate 20 and 24 px masters.
 * [Glyph Smarticons](http://glyph.smarticons.co/)
 * [Google Fundamentals - Use SVG as icons](https://developers.google.com/web/fundamentals/media/images/use-icons)
 * [Hybrid SVG icons](http://hybicon.softwaretailoring.net/)
