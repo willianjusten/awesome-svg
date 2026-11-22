@@ -6,6 +6,7 @@
 * [Cascading SVG Fill Color](http://css-tricks.com/cascading-svg-fill-color/)
 * [Create an icon font illustrator icomoon](http://www.sitepoint.com/create-an-icon-font-illustrator-icomoon/)
 * [Customizable svg icons css variables](http://codepen.io/AmeliaBR/post/customizable-svg-icons-css-variables)
+* [favicons.page](https://favicons.page) - Self-hostable, privacy-first API that returns any website's icon as a sanitized 128x128 SVG, plus light/dark theme colours and icons from 17 packs by slug.
 * [Feather](https://feathericons.com)
 * [Fontastic](http://fontastic.me/faq)
 * [GeoIcons](https://geoicons.io) - Geographic map icons as tree-shakable SVG components.
