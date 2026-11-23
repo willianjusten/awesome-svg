@@ -10,6 +10,7 @@
 * [Export SVG for the web with Illustrator](http://creativedroplets.com/export-svg-for-the-web-with-illustrator-cc/)
 * [FakeSMILE](http://leunen.me/fakesmile/index.html)
 * [FastTool SVG Tools](https://fasttool.app/category/image) - Browser-based SVG to PNG conversion, SVG optimization, and related image utilities with client-side processing.
+* [Free PNG to SVG](https://free-png-to-svg.web-free.site/?ref=github) - Browser-based PNG, JPG and WebP to SVG tracing with VTracer and ImageTracer; files are not uploaded.
 * [Grumpicon](http://www.grumpicon.com/)
 * [Iconizr](http://iconizr.com/)
 * [Illustrator SVG Exporter Script](https://github.com/iconic/illustrator-svg-exporter)
