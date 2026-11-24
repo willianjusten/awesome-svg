@@ -4,6 +4,7 @@
 * [Car Brand Logos](https://github.com/vehiclespecs/brand-logos) - 184 automotive brand logos to download (100 SVG + 84 PNG), from mass-market to supercar and EV-only marques.
 * [Flat Color Icons](https://github.com/icons8/flat-color-icons)
 * [Freepik](https://www.freepik.com/)
+* [Khazna](https://khazna.ly/) - Open-source SVG logos of Libyan banks, payment methods and payment gateways, also downloadable as PNG and WebP.
 * [Loading.io](http://loading.io/) - Build Your Ajax Loading Icons with SVG/CSS/GIF.
 * [Onde Baixar SVG](http://willianjusten.com.br/onde-baixar-svg/)
 * [Pinterest - SVG](http://www.pinterest.com/ligayatg/svg-files-free/)
