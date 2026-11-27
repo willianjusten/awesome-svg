@@ -21,6 +21,7 @@
 * [Scour](http://www.codedread.com/scour/)
 * [Script to export PSD to SVG](http://hackingui.com/design/export-photoshop-layer-to-svg/)
 * [smil2css](https://github.com/webframes/smil2css)
+* [Stencil Maker](https://photopatternmaker.com/stencil-maker/) - Turn a photo into a cut-ready stencil SVG: an AI model redraws it as bold shapes and bridges are added to loose pieces. First stencil free without sign-up, then paid ($2.99 each).
 * [svg2png command line wrapper](https://github.com/mcous/svg2png-command)
 * [SVG Cleaner](https://github.com/RazrFalcon/SVGCleaner)
 * [SVG Dashed Line Generator](http://gigacore.github.io/demos/svg-stroke-dasharray-generator/)
